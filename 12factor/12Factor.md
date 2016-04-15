@@ -4,7 +4,7 @@
 
 ```
 The Twelve Factors
-1. One Codebase tracked in revision control, many 
+1. One Codebase tracked in revision control, many deploys
 2. Explicity declare and isolate dependencies
 3. Store config in the environment
 4. Treat backing services as attached resources
@@ -13,7 +13,7 @@ The Twelve Factors
 7. Export services via port binding
 8. Scale out via the process model
 9. Maximize robustness with fast startup and graceful shutdown
-10. Keep developemtn, staging, and production as similar as possible
+10. Keep development, staging, and production as similar as possible
 11. Treat logs as event streams
 12. Run admin/management tasks as one-off-processes
 ```
