@@ -17,6 +17,9 @@ The Twelve Factors
 11. Treat logs as event streams
 12. Run admin/management tasks as one-off processes
 ```
+Copyright (c) 2012 Adam Wiggins - [MIT License] (https://github.com/heroku/12factor/blob/master/LICENSE)
+
+
 
 Articles Dicussing 12 Factor App
 
