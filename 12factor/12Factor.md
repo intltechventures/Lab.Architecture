@@ -2,7 +2,7 @@
 * http://12factor.net/
 * https://github.com/heroku/12factor
 
-'''
+```
 The Twelve Factors
 1. One Codebase tracked in revision control, many 
 2. Explicity declare and isolate dependencies
@@ -16,5 +16,5 @@ The Twelve Factors
 10. Keep developemtn, staging, and production as similar as possible
 11. Treat logs as event streams
 12. Run admin/management tasks as one-off-processes
-'''
-Copyright (c) 2012 Adam Wiggins - [License] (https://github.com/heroku/12factor/blob/master/LICENSE)
+```
+Copyright (c) 2012 Adam Wiggins - [MIT License] (https://github.com/heroku/12factor/blob/master/LICENSE)
