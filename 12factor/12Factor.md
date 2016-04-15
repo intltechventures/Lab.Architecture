@@ -12,7 +12,7 @@ The Twelve Factors
 6. Execute the app as one or more stateless processes
 7. Export services via port binding
 8. Scale out via the process  
-
+```
 
 Articles Dicussing 12 Factor App
 
