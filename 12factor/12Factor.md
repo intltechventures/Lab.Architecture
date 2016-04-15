@@ -12,6 +12,10 @@ The Twelve Factors
 6. Execute the app as one or more stateless processes
 7. Export services via port binding
 8. Scale out via the process  
+9. Maximize robustness with fast startup and graceful shutdown
+10. Keep development, staging, and production as similar as possible
+11. Treat logs as event streams
+12. Run admin/management tasks as one-off processes
 ```
 
 Articles Dicussing 12 Factor App
