@@ -25,17 +25,17 @@ Go Centric
 
 Java Centric
 * JAX-RS
-* 	Jersey
-		* https://jersey.java.net/
-		* https://docs.oracle.com/javaee/6/tutorial/doc/giepu.html
-		* https://docs.oracle.com/javaee/7/tutorial/jaxws.htm
-		* https://docs.oracle.com/javaee/7/tutorial/jaxws001.htm
-		* http://www.mkyong.com/tutorials/jax-rs-tutorials/
+	* Jersey
+	* https://jersey.java.net/
+	* https://docs.oracle.com/javaee/6/tutorial/doc/giepu.html
+	* https://docs.oracle.com/javaee/7/tutorial/jaxws.htm
+	* https://docs.oracle.com/javaee/7/tutorial/jaxws001.htm
+	* http://www.mkyong.com/tutorials/jax-rs-tutorials/
 
 * Spring
 	* Spring-WS
-		* http://projects.spring.io/spring-ws/
-		* http://projects.spring.io/spring-ws/#quick-start
+	* http://projects.spring.io/spring-ws/
+	* http://projects.spring.io/spring-ws/#quick-start
 
 * Apache Camel
 	* http://camel.apache.org/spring-web-services.html
