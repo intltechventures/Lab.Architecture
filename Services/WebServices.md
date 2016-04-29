@@ -32,10 +32,10 @@ Java Centric
 	* https://docs.oracle.com/javaee/7/tutorial/jaxws001.htm
 	* http://www.mkyong.com/tutorials/jax-rs-tutorials/
 
-* Spring
-	* Spring-WS
+* Spring-WS
 	* http://projects.spring.io/spring-ws/
 	* http://projects.spring.io/spring-ws/#quick-start
+	* https://spring.io/guides/gs/producing-web-service/
 
 * Apache Camel
 	* http://camel.apache.org/spring-web-services.html
