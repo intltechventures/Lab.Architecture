@@ -10,6 +10,7 @@ Notes on Operational Monitoring Tools
 
 * https://www.takipi.com/
 * https://www.appdynamics.com
+* https://newrelic.com/
 * https://www.dynatrace.com
 
 * https://www.pagerduty.com/ 
