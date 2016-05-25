@@ -1,5 +1,7 @@
 Notes on Operational Monitoring Tools
 
+
+Tools
 * https://signalfx.com/
 * http://www.solarwinds.com/
 * https://www.nagios.org/
@@ -19,6 +21,10 @@ Notes on Operational Monitoring Tools
 
 
 * https://www.elastic.co/
+
+
+Recommended Books
+* [Systems Performance: Enterprise and Cloud] (http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
 
 
 Articles
