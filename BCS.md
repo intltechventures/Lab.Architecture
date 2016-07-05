@@ -1,4 +1,0 @@
-
-* http://www.bcs.org
-
-
