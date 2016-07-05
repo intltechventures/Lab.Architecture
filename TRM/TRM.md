@@ -1,13 +1,13 @@
 
 Technical Reference Model
 
-Category | Status | Description  
+Category | Status 
 ---|---|---  
-Incoming | Pending | A component that is under evaluation for acceptance; however there is no established use guidance  
-Supported | Preferred |   
-Supported | Accepted |   
-Supported | Future |   
-Limited | Contained/In Use | 
-Limited | In Use | 
-Prohibited | Obsolete |  
-Prohibited | Rejected |  
+Incoming | Under Evaluation
+Supported | Recommended     
+Supported | Accepted  
+Supported | Future   
+Limited | Contain  
+Limited | In Use  
+Prohibited | Obsolete  
+Prohibited | Not Approved  
