@@ -44,6 +44,7 @@ R
 
 
 D3
+* https://github.com/d3/d3/wiki/Gallery
 * https://bost.ocks.org/mike/map/
 * https://blog.rstudio.org/2015/06/24/d3heatmap/
 * http://prcweb.co.uk/circularheatchart/
