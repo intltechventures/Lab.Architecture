@@ -3,7 +3,7 @@ Enterprise Architecture Heat Maps
 The purpose of an Enterprise Architecture Heat Map is to provide Enterprise Leadership (Business & Technical) with insights and visualization of important weights and trends that may not be as easily comprehended by detail-level tabular reporting of metrics.
 
 
-Some potential dimensions to consider for measturement/visualization of an Enterprise Technical Reference Model (TRM) - for a collection of systems/components:
+Some potential dimensions to consider for a Heat Map measurement/visualization of the details within the context of an Enterprise Technical Reference Model (TRM) - by system/component:
 * Dollar Cost/Investment
 * Resource Allocation/Staffing
 * Transaction Volume (for a selected period; e.g. Daily, Weekly, Monthly, etc.)
