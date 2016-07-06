@@ -1,4 +1,4 @@
-Enterprise Architecture HeatMaps
+Enterprise Architecture Heat Maps
 
 Articles & Resources
 * http://www.tobeenterprisearchitecture.com/p/visualization-techniques.html
