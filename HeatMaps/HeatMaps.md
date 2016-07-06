@@ -11,6 +11,8 @@ Some potential dimensions to consider for a Heat Map measurement/visualization o
 * Memory Utilization
 * CPU Utilization
 * Interfaces/Integrations/Connections
+* Services Exposed
+* Services Consumed
 * Frequency of New Feature Requests
 * Frequency of Defects Reported
 * Frequency of Changes Deployed
