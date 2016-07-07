@@ -1,24 +1,55 @@
 __Enterprise Architecture Heat Maps__
 
-The purpose of an Enterprise Architecture Heat Map is to provide Enterprise Leadership (Business & Technical) with insights and visualization of important weights and trends that may be obscured, or at the very least - not be as easily comprehended, by detail-level tabular reporting of metrics.
+The purpose of an Enterprise Architecture Heat Map is to provide Enterprise Leadership (Business & Technical) with insights and visualization of important weights and trends that may be obscured, or at the very least - not as easily comprehended, by detail-level tabular reporting of metrics.
 
 
-Some potential dimensions to consider for a Heat Map measurement/visualization of the details within the context of an Enterprise Technical Reference Model (TRM) - by system/component:
-* Business/Organizational Survey of current systems/components performance
-* Business/Organizational Survey of value to business of improving systems/components performance
-* Business/Organizational Survey of systems/components to replace
-* Business/Organizational Survey of systems/components to remove
-* Business/Organizational Survey of systems/components to renew
-* Capability (e.g. Poorly Defined or placed, Neeeds Action; Problematic, Needs preventative action; Working Well - no change; Non Existent; Not Evaluated)
-* Product Lifecycle Stage (e.g. End of Life, Last Generation, State of Market, Leading Edge, Emerging, In the Labs, etc.)
-* Risks (as posed by an inventory of systems/components, e.g. Business, Regulatory, Security, Competition, etc.)
-* Enterprise Alignment assessment of systems/components (e.g. as contrasted against the Technical Reference Model, Enterprise Alignment, Technology Roadmap, etc.)
+Some potential dimensions to consider for a Heat Map measurement/visualization...within the context of an Enterprise Technical Reference Model (TRM) - by system/component:
+* Business/Organizational Survey of...
+  * current systems/components performance
+  * priority/value (to business) of improving systems/components performance
+  * priority/value (to business) of replacing systems/components 
+  * proiroty/value (to business) of removing systems/components
+  * priority/value (to business) of renewing systems/components
+  *...
+* Capability of systems/components
+  * Poorly Defined or Placed
+  * Neeeds Action
+  * Problematic, Needs Preventative Action
+  * Working Well - No Change Neded
+  * Non Existent 
+  * Not Evaluated
+  * ...
+* Product Lifecycle Stage
+  * End of Life
+  * Last Generation
+  * State of Market
+  * Leading Edge
+  * Emerging
+  * In the Labs
+  * ...
+* Risks (as posed by an inventory of systems/components)
+  * Business
+  * Regulatory
+  * Security
+  * Competition
+  * ...
+* Enterprise Alignment assessment of systems/components (e.g. as contrasted against...)
+  * Technical Reference Model
+  * Enterprise Alignment
+  * Technology Roadmap
+  * ...
 * Compliance with Enterprise Archtiecture Standards of systems/components
-* Dollar Cost/Investment (e.g. to build | replace | maintain)
+* Dollar Cost/Investment (
+  * Initial Build Cost
+  * Replacement Cost
+  * Ongoing Maintenance Cost
 * Business Revenue (vs. Cost) 
 * Resource Allocation/Staffing
 * Transaction Volumes (for a selected period; e.g. Daily, Weekly, Monthly, etc.)
-* Data Volume (e.g. processed, stored, etc.)
+* Data Volume 
+  * Stored
+  * Processed (e.g. Daily, Weekly, Monthly, etc.)
+* Record Counts
 * Memory Utilization, by systems/components
 * CPU Utilization, by systems/components
 * Interfaces/Integrations/Connections, by systems/components
