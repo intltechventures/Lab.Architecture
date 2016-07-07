@@ -9,6 +9,7 @@ Some potential dimensions to consider for a Heat Map measurement/visualization o
 * Business/Organizational Survey of systems/components to replace
 * Business/Organizational Survey of systems/components to remove
 * Business/Organizational Survey of systems/components to renew
+* Capability (e.g. Poorly Defined or placed, Neeeds Action; Problematic, Needs preventative action; Working Well - no change; Non Existent; Not Evaluated)
 * Risks (as posed by an inventory of systems/components, e.g. Business, Regulatory, Security, Competition, etc.)
 * Enterprise Alignment assessment of systems/components (e.g. as contrasted against the Technical Reference Model, Enterprise Alignment, Technology Roadmap, etc.)
 * Compliance with Enterprise Archtiecture Standards of systems/components
