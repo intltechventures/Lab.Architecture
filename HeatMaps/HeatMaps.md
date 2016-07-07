@@ -33,38 +33,39 @@ Some potential dimensions to consider for a Heat Map measurement/visualization..
   * Security
   * Competition
   * ...
-* Enterprise Alignment assessment of systems/components (e.g. as contrasted against...)
+* Enterprise Alignment Assessment (by systems/components... as contrasted against...)
   * Technical Reference Model
   * Enterprise Alignment
   * Technology Roadmap
   * ...
-* Compliance with Enterprise Archtiecture Standards of systems/components
-* Dollar Cost/Investment (
-  * Initial Build Cost
-  * Replacement Cost
-  * Ongoing Maintenance Cost
-* Business Revenue (vs. Cost) 
+* Compliance with Enterprise Archtiecture Guidance (by systems/components)
+  * Principles
+  * Policies
+  * Standards
+  * Specifications
+* Dollar Cost/Investment
+  * Initial Build Costs
+  * Replacement Costs
+  * Ongoing Maintenance Costs
+* Business Revenue (vs. Operating Costs) (by systems/components) 
 * Resource Allocation/Staffing
-* Transaction Volumes (for a selected period; e.g. Daily, Weekly, Monthly, etc.)
-* Data Volume 
-  * Stored
-  * Processed (e.g. Daily, Weekly, Monthly, etc.)
-* Record Counts
-* Memory Utilization, by systems/components
-* CPU Utilization, by systems/components
+* Transaction Volume Growth Variance From Historical Averages (by systems/components, for a selected period)
+* Data Volume Growth (Stored | Processed) Variance From Historical Averages (by systems/components, for a selected period)
+* Memory Utilization Growth Variance From Historical Averages (by systems/components, for a selected period)
+* CPU Utilization Growth Variance (by systems/components, for a selected period)
 * Interfaces/Integrations/Connections, by systems/components
 * Services Exposed, by systems/components
 * Services Consumed, by systems/components
-* Frequency of New Feature Requests, by systems/components
-* Frequency of Defects Reported, by systems/components
-* Frequency of Changes Deployed
-* Cyclomatic Complexity (within systems/components)
-* Lines of Code (LoC), by systems/components
-* Number of Source Files, by systems/components
-* Number of Input Sources, by systems/components
-* Number of Output Targets, by systems/components
-* Availability (of systems/components)
-* Average Response Time (of systems/components)
+* Frequency of New Feature Requests (by systems/components, for a selected period)
+* Frequency of Defects Reported (by systems/components, for a selected period)
+* Frequency of Changes Deployed (by systems/components, for a selected period)
+* Cyclomatic Complexity (by systems/components)
+* Lines of Code (LoC) (by systems/components)
+* Number of Source Files (by systems/components)
+* Number of Input Sources (by systems/components)
+* Number of Output Targets (by systems/components)
+* Availability (by systems/components)
+* Average Response Time (by systems/components)
 
 
 Some background reading...
