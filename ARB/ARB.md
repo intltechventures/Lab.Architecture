@@ -33,9 +33,9 @@ Output Artifacts
 
 
 
-Possible Outcomes  
+Possible Outcomes   
 |Review Status|Commentary|
-|---|---| |
+|---|---|
 |Approved| |
 |Approved with Modification| |
 |Approved with Exception| |
