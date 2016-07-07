@@ -1,4 +1,4 @@
-Enterprise Architecture Heat Maps
+__Enterprise Architecture Heat Maps__
 
 The purpose of an Enterprise Architecture Heat Map is to provide Enterprise Leadership (Business & Technical) with insights and visualization of important weights and trends that may be obscured, or at the very least - not be as easily comprehended, by detail-level tabular reporting of metrics.
 
@@ -19,21 +19,21 @@ Some potential dimensions to consider for a Heat Map measurement/visualization o
 * Resource Allocation/Staffing
 * Transaction Volumes (for a selected period; e.g. Daily, Weekly, Monthly, etc.)
 * Data Volume (e.g. processed, stored, etc.)
-* Memory Utilization
-* CPU Utilization
-* Interfaces/Integrations/Connections
-* Services Exposed
-* Services Consumed
-* Frequency of New Feature Requests
-* Frequency of Defects Reported
+* Memory Utilization, by systems/components
+* CPU Utilization, by systems/components
+* Interfaces/Integrations/Connections, by systems/components
+* Services Exposed, by systems/components
+* Services Consumed, by systems/components
+* Frequency of New Feature Requests, by systems/components
+* Frequency of Defects Reported, by systems/components
 * Frequency of Changes Deployed
-* Cyclomatic Complexity
-* Lines of Code
-* Number of Source Files
-* Input Sources
-* Output Targets
-* Availability
-* Average Response Time
+* Cyclomatic Complexity (within systems/components)
+* Lines of Code (LoC), by systems/components
+* Number of Source Files, by systems/components
+* Number of Input Sources, by systems/components
+* Number of Output Targets, by systems/components
+* Availability (of systems/components)
+* Average Response Time (of systems/components)
 
 
 Background Reading Articles & Resources
