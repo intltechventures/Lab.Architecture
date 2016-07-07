@@ -10,7 +10,7 @@ Some potential dimensions to consider for a Heat Map measurement/visualization..
   * priority/value (to business) of replacing systems/components 
   * proiroty/value (to business) of removing systems/components
   * priority/value (to business) of renewing systems/components
-  *...
+  * ...
 * Capability of systems/components
   * Poorly Defined or Placed
   * Neeeds Action
