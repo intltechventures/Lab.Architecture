@@ -4,9 +4,14 @@ The purpose of an Enterprise Architecture Heat Map is to provide Enterprise Lead
 
 
 Some potential dimensions to consider for a Heat Map measurement/visualization of the details within the context of an Enterprise Technical Reference Model (TRM) - by system/component:
-* Risks (as posed by a given system/component)
-* Enterprise Alignment (e.g. as contrasted against the Technical Reference Model, Enterprise Alignment, Technology Roadmap, etc.)
-* Compliance with Enterprise Archtiecture Standards
+* Business/Organizational Survey of current systems/components performance
+* Business/Organizational Survey of value to business of improving systems/components performance
+* Business/Organizational Survey of systems/components to replace
+* Business/Organizational Survey of systems/components to remove
+* Business/Organizational Survey of systems/components to renew
+* Risks (as posed by an inventory of systems/components, e.g. Business, Regulatory, Security, Competition, etc.)
+* Enterprise Alignment assessment of systems/components (e.g. as contrasted against the Technical Reference Model, Enterprise Alignment, Technology Roadmap, etc.)
+* Compliance with Enterprise Archtiecture Standards of systems/components
 * Dollar Cost/Investment (e.g. to build | replace | maintain)
 * Business Revenue (vs. Cost) 
 * Resource Allocation/Staffing
@@ -30,6 +35,7 @@ Some potential dimensions to consider for a Heat Map measurement/visualization o
 
 
 Background Reading Articles & Resources
+* http://www.cs.umd.edu/hcil/treemap-history/
 * http://www.tobeenterprisearchitecture.com/p/visualization-techniques.html
 * http://www.kz-a.net/biz4ge/index.php/business-architecture/opportunity-assessment/
 * http://www.slideshare.net/JudithOja_Gillam/biz-arch-visual-strategic-planning-v6
