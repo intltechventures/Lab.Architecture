@@ -36,19 +36,28 @@ Some potential dimensions to consider for a Heat Map measurement/visualization o
 * Average Response Time (of systems/components)
 
 
-Background Reading Articles & Resources
+Some background reading...
 * http://www.cs.umd.edu/hcil/treemap-history/
 * http://www.tobeenterprisearchitecture.com/p/visualization-techniques.html
 * http://www.kz-a.net/biz4ge/index.php/business-architecture/opportunity-assessment/
 * http://www.slideshare.net/JudithOja_Gillam/biz-arch-visual-strategic-planning-v6
 * http://www.slideshare.net/badarjee/business-architecture-and-enterprise-planning
-* http://www.sparxsystems.com.au/enterprise-architect/charting/heat-maps-in-enterprise-architect.html
-* http://www.sparxsystems.com/enterprise_architect_user_guide/12.1/business_engineering/heat_maps.html
 * https://www.researchgate.net/publication/265612059_The_Creation_of_Business_Architecture_Heat_Maps_to_Support_Strategy-aligned_Organizational_Decisions
 * http://www.liteea.com/wordpress/continuous/segment-performance-analysis/a
 
 
 __Heat Map Generation Tooling Options__
+
+Sparx Enterprise Architect
+* http://www.sparxsystems.com.au/enterprise-architect/charting/heat-maps-in-enterprise-architect.html
+* http://www.sparxsystems.com/enterprise_architect_user_guide/12.1/business_engineering/heat_maps.html
+
+
+IBM System Architect
+* http://www.ibm.com/support/knowledgecenter/SS6RBX_11.4.3/com.ibm.sa.help.doc/topics/c_Heat_Map_Manager.html
+* http://www.ibm.com/support/knowledgecenter/SS6RBX_11.4.2/com.ibm.sa.help.doc/topics/t_use_heatmap_Imported_Elements.html
+* https://www.corso3.com/blog/bid/349118/Roadmaps-in-Enterprise-Architecture-Lifecycles-and-Heatmaps
+
 
 R
 * http://www.r-bloggers.com/search/heatmap
