@@ -1,3 +1,3 @@
-Technology Review Board (TRB)
+Technical Review Board (TRB)
 
 
