@@ -75,7 +75,7 @@ Some background reading...
 * http://www.slideshare.net/JudithOja_Gillam/biz-arch-visual-strategic-planning-v6
 * http://www.slideshare.net/badarjee/business-architecture-and-enterprise-planning
 * https://www.researchgate.net/publication/265612059_The_Creation_of_Business_Architecture_Heat_Maps_to_Support_Strategy-aligned_Organizational_Decisions
-* http://www.liteea.com/wordpress/continuous/segment-performance-analysis/a
+* http://www.liteea.com/wordpress/continuous/segment-performance-analysis/
 
 
 __Heat Map Generation Tooling Options__
