@@ -6,4 +6,5 @@ TO-DO:
 * Add exemplars for Architecture Principles, Policies, Standards, Specifications, Patterns, NFRs
 
 
-
+Interesting Resources
+* http://www.liteea.com/wordpress/
