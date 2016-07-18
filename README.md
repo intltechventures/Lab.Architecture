@@ -8,3 +8,7 @@ TO-DO:
 
 Interesting Resources
 * http://www.liteea.com/wordpress/
+
+
+EA Educational
+* [Why Enterprise Architecture, Youtube Video, by Gerben Wierda & T36] (https://www.youtube.com/watch?v=qDI2oF1bASk)
