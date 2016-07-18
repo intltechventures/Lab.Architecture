@@ -9,4 +9,6 @@ Background Reading
 
 
 
+* [Enterprise Architectture Professional Journal] (http://eapj.org/)
+
 
