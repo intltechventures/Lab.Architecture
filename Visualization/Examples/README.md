@@ -1,5 +1,5 @@
 
-
+Graphviz Related Approaches...
 * https://github.com/mstefaniuk/graph-viz-d3-js
 * https://github.com/cpettitt/graphlib-dot
 * https://github.com/cpettitt/dagre-d3
@@ -7,7 +7,7 @@
 * http://stackoverflow.com/questions/22595493/reading-dot-files-in-javascript-d3
 
 * http://graphviz.it/
-
+* http://www.graphviz.org/Documentation/dotguide.pdf
 
 Ideas / Resources
 * https://news.ycombinator.com/item?id=9325024
