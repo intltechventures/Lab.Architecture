@@ -14,7 +14,9 @@ JavaScript InfoVis Toolkit
 * http://philogb.github.io/jit/
 
 vis.js
-*http://visjs.org/
+* http://visjs.org/
+* https://github.com/almende/vis
+
 
 Ideas / Resources
 * https://news.ycombinator.com/item?id=9325024
