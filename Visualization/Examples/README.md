@@ -13,6 +13,8 @@ Graphviz Related Approaches...
 JavaScript InfoVis Toolkit
 * http://philogb.github.io/jit/
 
+vis.js
+*http://visjs.org/
 
 Ideas / Resources
 * https://news.ycombinator.com/item?id=9325024
