@@ -9,6 +9,11 @@ Graphviz Related Approaches...
 * http://graphviz.it/
 * http://www.graphviz.org/Documentation/dotguide.pdf
 
+
+JavaScript InfoVis Toolkit
+* http://philogb.github.io/jit/
+
+
 Ideas / Resources
 * https://news.ycombinator.com/item?id=9325024
 * http://mbostock.github.io/d3/talk/20111018/cluster.html
