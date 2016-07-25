@@ -1,4 +1,12 @@
 
+D3.js
+* https://github.com/d3/d3/wiki/Tree-Layout
+* https://gist.github.com/d3noob/8375092
+* http://bl.ocks.org/mbostock/4339083
+* https://leanpub.com/D3-Tips-and-Tricks
+* http://www.d3noob.org/2014/01/tree-diagrams-in-d3js_11.html
+
+
 Graphviz Related Approaches...
 * https://github.com/mstefaniuk/graph-viz-d3-js
 * https://github.com/cpettitt/graphlib-dot
