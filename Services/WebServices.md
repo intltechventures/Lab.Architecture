@@ -3,6 +3,7 @@ Notes and links to useful resources for building Web Services (e.g. SOA | RESTfu
 
 
 References
+* http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml
 * https://en.wikipedia.org/wiki/Service-oriented_architecture
 * https://en.wikipedia.org/wiki/Service-orientation_design_principles
 * http://www.infoq.com/articles/tilkov-10-soa-principles  
@@ -53,4 +54,7 @@ PHP Centric
 	* https://phalconist.com/category/rest
 
 
+Interesting Articles
+* https://tools.ietf.org/html/draft-nottingham-http-problem-07
+* https://www.mnot.net/blog/2013/05/15/http_problem
 
