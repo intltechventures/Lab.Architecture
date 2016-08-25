@@ -6,3 +6,9 @@ Useful Tools
 
 Cloud Performance Benchmark Tools
 * https://github.com/GoogleCloudPlatform/PerfKitBenchmarker
+
+
+
+Articles
+* https://www.infoq.com/minibooks/emag-cloud-portability
+
