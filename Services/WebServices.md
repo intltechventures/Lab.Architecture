@@ -9,16 +9,19 @@ References
 * http://www.infoq.com/articles/tilkov-10-soa-principles  
 
 * [Roy Fielding](https://en.wikipedia.org/wiki/Roy_Fielding)'s REST Dissertation
-	* https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
-	* https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
+  * https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+  * https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf
 
 * Thomas Erl's [SOA Patterns] (http://www.soapatterns.org/)
 
 * Martin Fowler
-	* http://martinfowler.com/microservices/
-	* http://martinfowler.com/articles/microservices.html
-	* http://martinfowler.com/tags/microservices.html
+  * http://martinfowler.com/microservices/
+  * http://martinfowler.com/articles/microservices.html
+  * http://martinfowler.com/tags/microservices.html
 
+* Eric Wilde
+  * http://dret.typepad.com/
+  * https://twitter.com/dret
 
 Go Centric
 * Gorrilla Web Toolkit
