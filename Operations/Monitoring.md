@@ -20,6 +20,18 @@ Tools
 * https://www.dynatrace.com
 
 
+osquery (Facebook)
+* https://github.com/facebook/osquery
+* http://osquery.readthedocs.io/en/stable/
+  * http://osquery.readthedocs.io/en/stable/development/osquery-sdk/
+  * http://osquery.readthedocs.io/en/stable/deployment/configuration/
+  * http://osquery.readthedocs.io/en/stable/development/creating-tables/
+  * http://osquery.readthedocs.io/en/stable/introduction/using-osqueryi/
+* Related Articles
+  * https://code.facebook.com/projects/658950180885092
+  * https://code.facebook.com/posts/844436395567983/introducing-osquery/
+  * https://www.facebook.com/notes/protect-the-graph/introducing-osquery-for-windows/1775110322729111/
+
 * https://www.elastic.co/
 
 
