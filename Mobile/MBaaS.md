@@ -60,6 +60,6 @@ MBaaS Related News
   * http://thenextweb.com/insider/2014/02/12/paypal-owned-stackmob-shut-may-11-team-can-focus-mobile-payment-technology/
   * https://blogs.oracle.com/mobile/entry/forrester_wave_mobile_development_platforms
   * http://www.androidnames.com/development/list-of-the-best-mobile-backend-as-a-service-mbaas-providers/
-
+  * http://appcelerator.uberflip.com/i/606792-2015-mobile-trends-report
 
 
