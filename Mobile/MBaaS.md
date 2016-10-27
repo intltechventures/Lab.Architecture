@@ -24,6 +24,9 @@ Industry Analyst Reports
 * Gartner
   * 2016
     * https://blogs.oracle.com/mobile/entry/forrester_wave_mobile_development_platforms
+* Mary Meeker (Kleiner Perkins Caufield Byers)
+  * 2016 
+    * http://www.businessinsider.com/mary-meeker-2016-state-of-the-web-presentation-2016-6?op=0#/#-1
 
 
 
