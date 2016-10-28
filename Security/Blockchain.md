@@ -9,3 +9,10 @@ Learning References
 * https://en.wikipedia.org/wiki/Merkle_tree
 
 
+Github Resources
+* https://github.com/chain/chain
+  * https://chain.com
+
+  
+
+
