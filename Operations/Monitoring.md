@@ -3,21 +3,22 @@ Notes on Operational Monitoring Tools
 
 Tools
 * https://signalfx.com/
-* http://www.solarwinds.com/
+* https://www.solarwinds.com/
 * https://www.nagios.org/
 * https://www.datadoghq.com/
-* http://www.dynatrace.com/en/ruxit/
+* https://www.dynatrace.com
+*   https://www.dynatrace.com/en/ruxit/
 * https://sensuapp.org/
-
 * https://www.takipi.com/
 * https://www.appdynamics.com
 * https://newrelic.com/
-* https://www.dynatrace.com
 * https://instrumentalapp.com/
 
 
-* https://www.pagerduty.com/ 
-* https://www.dynatrace.com
+
+Uptime Monitoring Tools
+* https://uptimerobot.com/
+* https://www.pagerduty.com/
 
 
 osquery (Facebook)
