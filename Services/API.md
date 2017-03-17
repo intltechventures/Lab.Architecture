@@ -10,3 +10,7 @@ References
   * https://github.com/googleapis/googleapis
 
 * https://tools.ietf.org/html/rfc2616
+
+
+Useful Examples / References
+* https://github.com/WhiteHouse/api-standards
