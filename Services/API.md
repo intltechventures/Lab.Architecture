@@ -14,3 +14,4 @@ References
 
 Useful Examples / References
 * https://github.com/WhiteHouse/api-standards
+* https://nifi.apache.org/docs/nifi-docs/rest-api/index.html
