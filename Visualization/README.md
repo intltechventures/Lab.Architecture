@@ -30,8 +30,11 @@
     * https://www.dashingd3js.com/using-the-svg-coordinate-space
   * https://github.com/zemirco/gartner-wcm-d3
     * http://www.mircozeiss.com/gartner-wcm-d3/#
+  * https://jsfiddle.net/phollott/k1xptt9m/
+  * http://www.appstoremarketresearch.com/articles/d3-js-scatter-plot-android-webview/
 * http://datavizcatalogue.com/methods/bubble_chart.html
-* 
+
+
 
 
 
