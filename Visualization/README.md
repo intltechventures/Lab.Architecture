@@ -1,9 +1,14 @@
 
-
+* https://plot.ly/
+  * https://plot.ly/javascript/heatmaps/
+  * https://plot.ly/javascript/
+  * https://github.com/plotly/plotly.js
+* http://stack.gl/
 * http://riccardoscalco.github.io/textures/
 * https://github.com/lferry007/LargeVis
 * http://dygraphs.com/
   * https://github.com/danvk/dygraphs
+* http://www.highcharts.com/
 * http://dimplejs.org/
   * https://github.com/PMSI-AlignAlytics/dimple
   * https://github.com/PMSI-AlignAlytics/dimple/wiki
@@ -14,6 +19,7 @@
 * http://www.babylonjs.com/
 * https://github.com/JasonKessler/scattertext
 * https://www.zingchart.com
+* http://www.jeromecukier.net/blog/category/charts/
 * D3.js
   * https://leanpub.com/d3-t-and-t-v4
 
@@ -32,6 +38,15 @@
     * http://www.mircozeiss.com/gartner-wcm-d3/#
   * https://jsfiddle.net/phollott/k1xptt9m/
   * http://www.appstoremarketresearch.com/articles/d3-js-scatter-plot-android-webview/
+  * http://codepen.io/duncanfinney/pen/xwbOxM
+  * https://swizec.com/blog/quick-scatterplot-tutorial-for-d3-js/swizec/5337
+  * https://engineering.velocityapp.com/building-a-grid-ui-with-d3-js-v4-p1-c2da5ed016
+    * https://bl.ocks.org/evanjmg/c2ffda2df9748e56425194eb5e6ea878
+  * http://www.developer.com/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html
+  * https://bl.ocks.org/mbostock/4063269
+  * https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
+* https://threejs.org/
+  * https://dzone.com/articles/html5-render-urban-population
 * http://datavizcatalogue.com/methods/bubble_chart.html
 
 
