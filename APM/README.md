@@ -4,8 +4,9 @@ Application Portfolio Management (APM) Solution Resources
   * https://avolutionsoftware.com/
   * https://avolutionsoftware.com/products/#abacusproducts
 * BiZZdesign
-  * 
-* ChangePoint, BaromteterIT
+  * http://www.bizzdesign.com/
+  * https://en.wikipedia.org/wiki/BiZZdesign 
+* ChangePoint, BarometerIT
   * https://www.changepoint.com
   * https://www.changepoint.com/products/barometerit/
 * Mega, Hopex
