@@ -1,6 +1,10 @@
 
 E-Commerce Solutions
 
+Standards
+* https://www.w3.org/TR/payment-request/
+
+
 
 E-Commerce Platforms
 * https://www.shopify.com/
