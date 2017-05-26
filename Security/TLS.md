@@ -4,3 +4,7 @@ TLS References
 * https://www.sans.org/reading-room/whitepapers/protocols/ssl-tls-beginners-guide-1029
 
 
+Github Resources 
+* https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
+
+
