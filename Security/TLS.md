@@ -6,10 +6,12 @@ TLS References
 
 Useful Tools
 * https://www.ssllabs.com/projects/index.html
-
+* https://cipherli.st/
+* http://www.g-sec.lu/tools.html
+* https://www.nartac.com/Products/IISCrypto/
 
 
 Github Resources 
 * https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
-
+* https://github.com/ssllabs/research/wiki/PCI-DSS-Requirements
 
