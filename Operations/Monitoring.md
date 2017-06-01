@@ -13,12 +13,16 @@ Tools
 * https://www.appdynamics.com
 * https://newrelic.com/
 * https://instrumentalapp.com/
-
-
+* http://opentsdb.net/
+* https://grafana.com/
 
 Uptime Monitoring Tools
 * https://uptimerobot.com/
 * https://www.pagerduty.com/
+
+
+MySQL
+* https://github.com/box/mysqlutilities
 
 
 osquery (Facebook)
@@ -34,6 +38,7 @@ osquery (Facebook)
   * https://www.facebook.com/notes/protect-the-graph/introducing-osquery-for-windows/1775110322729111/
 
 * https://www.elastic.co/
+
 
 
 Recommended Books
