@@ -5,6 +5,7 @@ Search Solutions
 * Sphinx Search
   * http://sphinxsearch.com/
   * https://github.com/sphinxsearch/sphinx
+  * https://twitter.com/sphinxsearch
   * http://shop.oreilly.com/product/9780596809539.do
   * https://en.wikipedia.org/wiki/Sphinx_(search_engine)
 * Amazon Elasticsearch Service
