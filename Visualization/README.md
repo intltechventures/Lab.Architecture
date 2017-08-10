@@ -52,7 +52,7 @@
 
 
 Interesting Articles
-* (Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing)[https://www.autodeskresearch.com/publications/samestats]
+* [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
 
 
