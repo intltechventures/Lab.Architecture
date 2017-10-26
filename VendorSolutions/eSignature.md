@@ -1,3 +1,6 @@
+This is meant as a placedholder for me to record names of companiest that may be worth considering when evaluating solution architecture options for eSignature type requiremenets:
+
+NOTE: I am not familiar with the majority of these - and some may no longer be viable ooptions.
 
 eSignature Vendor Solution Offerings
 * Accordium
