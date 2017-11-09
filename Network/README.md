@@ -18,3 +18,8 @@ CISCO documentation
 * http://www.cisco.com/cpress/home/home.htm
 * http://www.cisco.com/cpress/cc/td/cpress/fund/ith2nd/index.htm
 
+
+
+News
+* 2017
+  * https://techcrunch.com/2017/11/02/vmware-acquires-velocloud-as-it-moves-deeper-into-networking/
