@@ -51,7 +51,8 @@
 * https://threejs.org/
   * https://dzone.com/articles/html5-render-urban-population
 * http://datavizcatalogue.com/methods/bubble_chart.html
-
+* https://homes.cs.washington.edu/~jheer/
+  * https://www.youtube.com/results?search_query=jeffrey+heer
 
 
 Interesting Articles
