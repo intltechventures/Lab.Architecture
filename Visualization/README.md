@@ -43,8 +43,11 @@
   * https://engineering.velocityapp.com/building-a-grid-ui-with-d3-js-v4-p1-c2da5ed016
     * https://bl.ocks.org/evanjmg/c2ffda2df9748e56425194eb5e6ea878
   * http://www.developer.com/java/fun-with-d3.js-data-visualization-eye-candy-with-streaming-json.html
-  * https://bl.ocks.org/mbostock/4063269
-  * https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
+  * https://bl.ocks.org/
+    * https://bl.ocks.org/mbostock/4063269
+    * https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
+    * https://bl.ocks.org/pbeshai
+      * https://bl.ocks.org/pbeshai/8008075f9ce771ee8be39e8c38907570 
 * https://threejs.org/
   * https://dzone.com/articles/html5-render-urban-population
 * http://datavizcatalogue.com/methods/bubble_chart.html
