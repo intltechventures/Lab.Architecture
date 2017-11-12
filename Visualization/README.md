@@ -53,6 +53,7 @@
 * http://datavizcatalogue.com/methods/bubble_chart.html
 * https://homes.cs.washington.edu/~jheer/
   * https://www.youtube.com/results?search_query=jeffrey+heer
+* https://visual.ly/blog/author/drew/
 
 
 Interesting Articles
