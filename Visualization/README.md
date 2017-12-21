@@ -1,4 +1,5 @@
 
+Useful Visualization Resources
 * https://plot.ly/
   * https://plot.ly/javascript/heatmaps/
   * https://plot.ly/javascript/
@@ -57,6 +58,8 @@
 
 
 Interesting Articles
+* 2017
+  * https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
 
