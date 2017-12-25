@@ -55,7 +55,7 @@ Useful Visualization Resources
 * https://homes.cs.washington.edu/~jheer/
   * https://www.youtube.com/results?search_query=jeffrey+heer
 * https://visual.ly/blog/author/drew/
-
+* http://www.openheatmap.com
 
 Interesting Articles
 * 2017
