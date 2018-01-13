@@ -14,3 +14,9 @@ GitHub Resources
 * https://github.com/IBM/qiskit-sdk-py
 * https://github.com/IBM/qiskit-openqasm
 
+
+News
+* 2018
+  * https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/
+
+
