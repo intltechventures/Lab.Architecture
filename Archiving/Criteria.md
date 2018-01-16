@@ -27,4 +27,12 @@ There are some key questions that should be considered when defining the criteri
 * What is the expected volume of retrieval for the archive solution (e.g. per day, per week, etc.)?
 * What impact may data archival processig (or retrieval) impose on existing network, server, and storage infrastructure?
 * Are there any business requirements (or legal constraints) that may restrict where data archival storage may be implemented (e.g. must remain within the United States, must not be hosted in the cloud, etc.)
-
+* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+  * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+    * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+      * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+        * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+          * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+            * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+              * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
+                * For example: SAP applications
