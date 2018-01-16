@@ -29,10 +29,3 @@ There are some key questions that should be considered when defining the criteri
 * Are there any business requirements (or legal constraints) that may restrict where data archival storage may be implemented (e.g. must remain within the United States, must not be hosted in the cloud, etc.)
 * Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
   * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-    * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-      * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-        * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-          * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-            * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-              * For example: SAP applications* Are there any commercial/proprietary solutions that are optimized for periodically extracting (and retrieving) data for an archive solution?
-                * For example: SAP applications
