@@ -25,4 +25,6 @@ There are some key questions that should be considered when defining the criteri
 * What are the data encryption requirements for the archive solution?
 * What is the expected frequency of access for the archive solution (e.g. per day, per week, etc.)?
 * What is the expected volume of retrieval for the archive solution (e.g. per day, per week, etc.)?
+* What impact may data archival processig (or retrieval) impose on existing network, server, and storage infrastructure?
+* Are there any business requirements (or legal constraints) that may restrict where data archival storage may be implemented (e.g. must remain within the United States, must not be hosted in the cloud, etc.)
 
