@@ -58,6 +58,7 @@ Useful Visualization Resources
 * http://www.openheatmap.com
 
 Interesting Articles
+* 2018
 * 2017
   * https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
