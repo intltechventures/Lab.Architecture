@@ -10,4 +10,8 @@ ArchiMate
 * Using the ArchiMate® Language with UML®
   * https://www2.opengroup.org/ogsys/catalog/w134
 
+* Archimate v3.x, Visio Stencils
+  * https://publications.opengroup.org/i163
+
+* Archimate v2.x, Visio Stencils
 
