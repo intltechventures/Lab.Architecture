@@ -8,6 +8,7 @@ API Development Toolchains
 
 Third-Party API Service Registration
 * http://www.apigee.com
+  * Acquired by Google, $625M USD 
 * http://www.3scale.com
 * http://www.mashery.com/
 
