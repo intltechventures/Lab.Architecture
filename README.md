@@ -9,6 +9,10 @@ TO-DO:
 Interesting Resources
 * http://www.liteea.com/wordpress/
 
+Books
+* http://pubs.opengroup.org/opengrouppress/managing-digital/
+
+
 
 EA Educational
 * [Why Enterprise Architecture, Youtube Video, by Gerben Wierda & T36] (https://www.youtube.com/watch?v=qDI2oF1bASk)
