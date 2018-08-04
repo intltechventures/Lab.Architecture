@@ -15,3 +15,21 @@ ArchiMate
 
 * Archimate v2.x, Visio Stencils
 
+
+Use of Colors: 
+* https://ea.rna.nl/2011/06/05/on-the-use-of-colours-in-archimate/https://ea.rna.nl/2011/06/05/on-the-use-of-colours-in-archimate/Colors:
+* Original color usage:
+  * ‘deep’ ~ Technology
+  * ‘light’ ~ Business
+  * Blue ~ Active Objects (e.g. Actor, Role, Application Component, Device, ...)
+  * Yellow ~ Behaviourial Objects (e.g. Business Process, Business Service, Application Function, Application Service, Infrastructure Service,...)
+  * Green ~ Passive Objects (e.g. Contract, Data Objects, Infrastructure Artifct)
+* Also used:
+  * Yellow ~ Business Layer
+  * Blue ~ Application Layer
+  * Green ~ Infrastructure Layer
+
+
+
+
+
