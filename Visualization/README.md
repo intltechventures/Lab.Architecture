@@ -11,6 +11,14 @@ AnyChart
 * https://www.anychart.com/products/anychart/gallery/
 
 
+BriteCharts (leverages D3.js)
+* https://github.com/eventbrite/britecharts
+  * https://www.npmjs.com/package/britecharts
+* https://www.eventbrite.com/engineering/introducing-britecharts/
+* https://eventbrite.github.io/britecharts/getting-started.html
+* https://twitter.com/britecharts?lang=en
+
+
 Plotly
 * https://plot.ly/
   * https://plot.ly/javascript/heatmaps/
