@@ -4,7 +4,9 @@ Feature Flag/Toggle Resources
 
 ### Some Definitions:
 * https://en.wikipedia.org/wiki/Feature_toggle
-* "DevOps is the union of people, process, and products to enable continuous deliver of value to our end user"
+  * "A feature toggle (also feature switch, feature flag, feature flipper, conditional feature, etc.) is a technique in software development that attempts to provide an alternative to maintaining multiple source-code branches (known as feature branches), such that a feature can be tested even before it is completed and ready for release. Feature toggle is used to hide, enable or disable the feature during run time. For example, during the development process, a developer can enable the feature for testing and disable it for other users."
+  * "Continuous release and continuous deployment provide developers with rapid feedback about their coding. This requires the integration of their code changes as early as possible. Feature branches introduce a bypass to this process. Feature toggles are an important technique used for the implementation of continuous delivery."
+  * "The technique allows developers to release a version of a product that has unfinished features. These unfinished features are hidden (toggled) so they do not appear in the user interface. This allows many small incremental versions of software to be delivered without the cost of constant branching and merging. Feature toggles may allow shorter software integration cycles. A team working on a project can use feature toggle to speed up the process of development, that can include the incomplete code as well."
 
 
 
