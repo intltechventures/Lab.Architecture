@@ -198,7 +198,7 @@ Feature Flag/Toggle Resources
 
 
 
-###Use Cases / Case Studies:
+### Use Cases / Case Studies:
 * https://launchdarkly.com/use-cases/
 * Netflix
   * https://launchdarkly.com/blog/tag/netflix/
@@ -225,7 +225,7 @@ Feature Flag/Toggle Resources
   * https://openlmis.atlassian.net/wiki/spaces/OP/pages/38371426/2.0+Feature+Toggle+Mechanism
 
 
-###Slideshare.net
+### Slideshare.net
 * Microsoft
   * [Lessons Learned Doing DevOps at Scale at Microsoft ](https://www.slideshare.net/BuckHodges/lessons-learned-doing-devops-at-scale-at-microsoft?qid=fc47221a-23fc-4a82-8a95-49e00023f18d&v=&b=&from_search=8)
 * Upwork
@@ -241,7 +241,7 @@ Feature Flag/Toggle Resources
 
 
 
-###Videos / Podcasts:
+### Videos / Podcasts:
 * [GOTO 2017 • Feature Branches and Toggles in a Post-GitHub World • Sam Newman](https://www.youtube.com/watch?v=lqRQYEHAtpk)
   * Sam Newman - Author of "Building Microservices" from O'Reilly 
 * [Dan Piessens presentation, DevOpsDays Chicago 2015 - It's More Than Feature Toggles](https://www.youtube.com/watch?v=G-3FOxesB14)
