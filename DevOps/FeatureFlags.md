@@ -33,7 +33,7 @@ Feature Flag/Toggle Resources
 ### Caveats:
 * Feature Flags/Toggles ARE TECHNICAL DEBT (!!)
 * Beware Feature Flag Hell
-* Increaes Testing Complexity 
+* Increases Testing Complexity 
 * Harder to Debug, Test, Support 
 * [Feature Flags Are Flawed: Let's Make Them Better](https://www.slideshare.net/StephenYoung6/feature-flags-are-flawed-lets-make-them-better-dpc?qid=722f4a70-ec48-41da-a5d4-93a664f0754d&v=&b=&from_search=14)
 * [Knightmare: A DevOps Cautionary Tale](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
@@ -51,9 +51,12 @@ Feature Flag/Toggle Resources
 * [Don‘t run with Feature Toggles in your hands](https://serialseb.com/blog/2016/01/26/dont-run-with-feature-toggles-in-your-hands/)
 
 
+
+
 ### Useful Refernces
 * http://featureflags.io/feature-flags/
-* 
+
+
 
 ### Frameworks/Tooling
 * http://enterprisedevops.org/feature-toggle-frameworks-list/
@@ -184,6 +187,7 @@ Feature Flag/Toggle Resources
 * [Fun with Feature Flags](https://www.centric.eu/NL/Default/Craft/Blogs/2018/03/13/Fun-with-Feature-Flags)
 
 
+
 ### My Backlog to read: Still need to review/assess whether there's any value in these articles... 
 * http://wiki.glitchdata.com/index.php/Feature_toggle
 * https://blog.getambassador.io/deploy-and-release-decouple-for-speed-and-safety-a8c99a9b4d7b
@@ -191,7 +195,7 @@ Feature Flag/Toggle Resources
 * https://willmendesneto.github.io/ngx-feature-toggle/index.html
 * https://www.equinox.co.nz/blog/feature-toggles-on-net-core-api
 * https://blog.objectivity.co.uk/feature-toggle/
-* 
+
 
 
 ###Use Cases / Case Studies:
