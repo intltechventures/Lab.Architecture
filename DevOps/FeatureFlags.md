@@ -104,8 +104,8 @@ Feature Flag/Toggle Resources
   * https://www.togglz.org/
 * JavaScript Programming
   * https://github.com/bigodines/feature-flipper-js
+    * NOTE: No longer being actively maintained
   * https://www.npmjs.com/package/angular-feature-toggle
-    * 
   * https://github.com/michaeltaranto/angular-feature-flags
     * NOTE: No longer being maintained, last commit, July 26, 2017 
     * "An AngularJS module that can be used to hide/exclude application features until they are ready."
