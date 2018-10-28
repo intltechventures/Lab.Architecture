@@ -6,6 +6,8 @@ AntiPattern Template
 
 ###Also Known As: 
 
+###Related AntiPatterns
+
 ###Most Frequent Scale:
 
 ###Refactored Solution Name: 
@@ -18,3 +20,21 @@ AntiPattern Template
 
 ###Anecdotal Evidence:
 
+
+###Background
+
+###General Form
+
+###Symptoms 
+
+###Consequences
+
+###Causes
+
+###Refactored SOlution
+
+###Variations
+
+###Example 
+
+###Related Solutions
