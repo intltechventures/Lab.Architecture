@@ -86,6 +86,7 @@ Feature Flag/Toggle Resources
     * https://github.com/opentable/hobknob-client-net
       * A .net client library for Hobknob 
   * [Introducing Hobknob: Feature toggling with etcd](http://tech.toptable.co.uk/blog/2014/09/04/introducing-hobknob-feature-toggling-with-etcd/)
+  * [Hobknob v2.0: A new dimension](http://tech.toptable.co.uk/blog/2014/11/26/hobknob-v2-dot-0-a-new-dimension/)
 * Archaius (Netflix)
   * Doesn't appear to be very active, last commit was Nov 11, 2017...
   * https://github.com/Netflix/archaius
