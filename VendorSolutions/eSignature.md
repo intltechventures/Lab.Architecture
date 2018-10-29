@@ -4,7 +4,8 @@ NOTE: I am not familiar with the majority of these - and some may no longer be v
 
 eSignature Vendor Solution Offerings
 * Accordium
-* Adobe Sign
+* [Adobe Sign](https://acrobat.adobe.com/us/en/sign.html)
+  * Note: EchoSign, formerly
 * Assently E-Sign
 * AssureSign
 * Comsigntrust
@@ -14,7 +15,6 @@ eSignature Vendor Solution Offerings
 * E-Lock
 * E-Sign
 * E-Signature, by DocVerify
-* [EchoSign.com](https://www.echosign.com)
 * eOriginal SmartSign
 * eSign Genie
 * eSignLive by VASCO, Silanis Technology, Inc.
