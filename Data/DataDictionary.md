@@ -57,9 +57,15 @@ This document is inteded as a collection of links to resources, and suggested id
   * https://www.w3.org/OWL/
   * [W3 OWL Web Ontology Language Reference, ~2004](https://www.w3.org/TR/owl-ref/)
     * "The Web Ontology Language OWL is a semantic markup language for publishing and sharing ontologies on the World Wide Web. OWL is developed as a vocabulary extension of RDF (the Resource Description Framework) and is derived from the DAML+OIL Web Ontology Language"
+  * https://www.w3.org/2001/sw/wiki/OWL/Implementations
+* W3C OWL 2
   * [W3 OWL 2 Web Ontology Language Document Overview, ~2012](https://www.w3.org/TR/owl2-overview/)
   * "The OWL 2 Web Ontology Language, informally OWL 2, is an ontology language for the Semantic Web with formally defined meaning. OWL 2 ontologies provide classes, properties, individuals, and data values and are stored as Semantic Web documents. OWL 2 ontologies can be used along with information written in RDF, and OWL 2 ontologies themselves are primarily exchanged as RDF documents."
-  * [W3C Semantic Web Development Tools](https://www.w3.org/2001/sw/wiki/Tools)
+  * [W3C OWL 2 Web Ontology Language Quick Reference Guide ](https://www.w3.org/TR/owl2-quick-reference/)
+  * [W3C OWL 2 Web Ontology Language Structural Specification and Functional-Style Syntax](https://www.w3.org/TR/owl2-syntax/)
+  * [W3C OWL 2 Web Ontology Language New Features and Rationale](https://www.w3.org/TR/owl2-new-features/)
+  * [W3C OWL 2 Web Ontology Language Primer ](https://www.w3.org/TR/owl2-primer/)
+* [W3C Semantic Web Development Tools](https://www.w3.org/2001/sw/wiki/Tools)
 * [DOD 8320.1-M Data Administration Procedures](http://www.dtic.mil/docs/citations/ADA343735)
   * 17 properties (class words) defined for a data element 
     * Amount		A monetary value
@@ -127,11 +133,17 @@ This document is inteded as a collection of links to resources, and suggested id
     * "VMF is a downloadable tool, originally developed with funding from the Joint Information Services Committee (JISC), currently hosted and administered by the International DOI Foundation (IDF) under the guidance of an independent multi-stakeholder Advisory Board. It provides support for semantic interoperability across communities by providing extensive and authoritative mapping of vocabularies from content metadata standards and proprietary schemes."
   * https://www.doi.org/doi_handbook/schemas/dd/intro.html
   * https://www.doi.org/doi_handbook/DataModelUnderlyingOntology.pdf
+* Real Estate Standards Organization, Data Dictionary 
+  * https://www.reso.org/wp-content/uploads/2016/11/RESO-DD-OWL-Fall-Conference-reduced_Chime.pdf
+    * "Introduce a knowledge representation technology (Ontology Web Language) to the Data Dictionary to prevent misunderstanding in communication and ensure semantic interoperability"
+  * https://www.reso.org/data-dictionary/#download
 * Adobe Experience Manager (v6.4) - Data Dictionary Feature
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html#DDValidations
 *  Financial Industry Business Ontology (FIBO) 
   * https://spec.edmcouncil.org/fibo/
+  * https://spec.edmcouncil.org/fibo/fibopedia/master/latest/FIBOpedia.html
+
   * https://spec.edmcouncil.org/fibo/doc/FIBO_Primer.pdf
     * "Industry standard resource for the definitions of business concepts in the financial services industry"
     * "developed and hosted by the Enterprise Data Management Council (EDMC)"
@@ -251,6 +263,9 @@ This document is inteded as a collection of links to resources, and suggested id
   * [Using OWL for the Real Estate Standards Organization (RESO) Data Dictionary](https://www.reso.org/wp-content/uploads/2016/11/RESO-DD-OWL-Fall-Conference-reduced_Chime.pdf)
 * 2006  
   * [Data Modeling, RDF, & OWL – Part One: An Introduction To Ontologies](http://tdan.com/data-modeling-rdf-owl-part-one-an-introduction-to-ontologies/5025)
+* ????
+  * [Relational.OWL - A Data and Schema Representation Format Based on OWL, Institute of Computer Science
+Heinrich-Heine-Universit ̈at D ̈usseldor](http://crpit.com/confpapers/CRPITV43deLaborda.pdf?q=relational)
 
 
 
