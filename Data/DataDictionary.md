@@ -165,6 +165,23 @@ This document is inteded as a collection of links to resources, and suggested id
 
 
 ### Open Source Tools
+* Wizard for documenting ontologies
+  * https://github.com/dgarijo/Widoco
+  * "WIDOCO is a step by step generator of HTML templates with the documentation of your ontology. It uses the LODE environment to create part of the template."
+  * "WIDOCO helps you to publish and create an enriched and customized documentation of your ontology, by following a series of steps in a wizard. We extend the LODE framework by Silvio Peroni to describe the classes, properties and data properties of the ontology, the OOPS! webservice by María Poveda to print an evaluation and the Licensius service by Victor Rodriguez Doncel to determine the license URI and title being used. In addition, we use WebVowl to visualize the ontology and have extended Bubastis to show a complete changelog between different versions of your ontology."
+  * http://dgarijo.github.io/Widoco/doc/gallery/
+* VOWL: Visual Notation for OWL Ontologies
+  * http://vowl.visualdataweb.org/
+  * http://vowl.visualdataweb.org/v2/
+  * WebVowl: Web-based Visualization of Ontologies
+    * http://vowl.visualdataweb.org/
+    * http://vowl.visualdataweb.org/webvowl.html
+    * https://github.com/VisualDataWeb/WebVOWL
+    * http://vowl.visualdataweb.org/webvowl.html#installationOWL2VOWL
+    * Exemplars: 
+      * Friend-of-a-Friend Vocabulary 
+        * http://visualdataweb.de/webvowl/#iri=http://xmlns.com/foaf/0.1/
+        * http://visualdataweb.de/webvowl/#url=http://vowl.visualdataweb.org/webvowl/foaf.json
 * http://jena.apache.org/
   * "A free and open source Java framework for building Semantic Web and Linked Data applications."
 * https://marmotta.apache.org/
@@ -219,7 +236,10 @@ This document is inteded as a collection of links to resources, and suggested id
   * "Protégé’s plug-in architecture can be adapted to build both simple and complex ontology-based applications. Developers can integrate the output of Protégé with rule systems or other problem solvers to construct a wide range of intelligent systems."
   * "Protégé fully supports the latest OWL 2 Web Ontology Language and RDF specifications from the World Wide Web Consortium. "
   * https://protege.stanford.edu/support.php#documentationSupport
-  * https://github.com/protegeproject/webprotege
+  * https://github.com/protegeproject
+    * https://github.com/protegeproject/webprotege
+  * http://vowl.visualdataweb.org/protegevowl.html
+    * "ProtégéVOWL is a Protégé plugin for the user-oriented visualization of ontologies. It implements the Visual Notation for OWL Ontologies (VOWL) by providing graphical depictions for elements of the Web Ontology Language (OWL) that are combined to a force-directed graph layout representing the ontology. ProtégéVOWL is based on VOWL 2, which focuses on the visualization of the ontology schema (i.e., the classes, properties and datatypes, also known as TBox)."
 * RDF Pro
   * http://rdfpro.fbk.eu/
   * "RDFpro (RDF Processor) is a public domain, Java command line tool and library for RDF processing. RDFpro offers a suite of stream-oriented, highly optimized RDF processors for commo    n tasks that can be assembled in complex pipelines to efficiently process RDF data in one or more passes. RDFpro originated from the need of a tool supporting typical Linked Data integration tasks, involving dataset sizes up to few billions triples."
