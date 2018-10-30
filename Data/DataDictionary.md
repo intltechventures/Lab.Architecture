@@ -85,7 +85,9 @@ This document is inteded as a collection of links to resources, and suggested id
     * Time:     	A notation of a specified chronological point within a period.
     * Volume:   	A measurement of space occupied by a three-dimensional figure.
     * Weight:   	The force with which an object is attracted toward the earth and/or other celestial body by gravitation.
-* ISO/IEC Standard 11179 Specification and Standardization of Data Elements
+* [ISO/IEC Standard 11179 Specification and Standardization of Data Elements](https://en.wikipedia.org/wiki/ISO/IEC_11179)
+  * http://metadata-standards.org/11179/ 
+
 
 
 
