@@ -271,8 +271,12 @@ This document is inteded as a collection of links to resources, and suggested id
 
 
 
-### GraphDB Tools 
+### Somewhat Related Tooling...
 * https://www.ontotext.com/products/graphdb/
+* https://www.opensemanticsearch.org/
+  * https://github.com/opensemanticsearch?tab=repositories
+  * https://github.com/opensemanticsearch/open-semantic-visual-graph-explorer
+  * https://opensemanticsearch.org/graph-explorer
 
 
 
