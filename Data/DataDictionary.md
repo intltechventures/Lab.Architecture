@@ -140,10 +140,9 @@ This document is inteded as a collection of links to resources, and suggested id
 * Adobe Experience Manager (v6.4) - Data Dictionary Feature
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html#DDValidations
-*  Financial Industry Business Ontology (FIBO) 
+* Financial Industry Business Ontology (FIBO) 
   * https://spec.edmcouncil.org/fibo/
   * https://spec.edmcouncil.org/fibo/fibopedia/master/latest/FIBOpedia.html
-
   * https://spec.edmcouncil.org/fibo/doc/FIBO_Primer.pdf
     * "Industry standard resource for the definitions of business concepts in the financial services industry"
     * "developed and hosted by the Enterprise Data Management Council (EDMC)"
