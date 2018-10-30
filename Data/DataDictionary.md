@@ -130,6 +130,24 @@ This document is inteded as a collection of links to resources, and suggested id
 * Adobe Experience Manager (v6.4) - Data Dictionary Feature
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html
   * https://helpx.adobe.com/experience-manager/6-4/forms/using/data-dictionary.html#DDValidations
+*  Financial Industry Business Ontology (FIBO) 
+  * https://spec.edmcouncil.org/fibo/
+  * https://spec.edmcouncil.org/fibo/doc/FIBO_Primer.pdf
+    * "Industry standard resource for the definitions of business concepts in the financial services industry"
+    * "developed and hosted by the Enterprise Data Management Council (EDMC)"
+    * "developed as a series of ontologies in the Web Ontology Language (OWL)... it is not a data model but a representation of the “things in the world” of financial services."
+    * "ensures that each real-world concept is framed in a way that is unambiguous and that is readable both by humans and machines."
+    * FIBO Product:
+      * FiboPedia - Annotated structure of FIBO ontologies and modules
+      * Glossary  - Human-readable, cross-referenced dictionary of terms in FIBO (in HTML, .csv and Excel™)
+      * Data Dictionary  – Am Excel spreadsheet of FIBO terms in .csv and Excel™. Included is an unabridged version, i.e. 100% of FIBO. CAUTION – contains much unvetted material
+      * FIBO-Vocabulary  - A machine-readable taxonomy of terms in FIBO (in extended SKOS)
+      * SMIF - Machine- and human-readable UML diagrams of FIBO (using the forthcoming OMG UML profile “SMIF”) Semantic Modeling for Information Federation)
+      * VOWL (Visual OWL) - Generated web documentation for each ontology, including graphical depictions of FIBO concepts (using the VOWL notation)
+      * Ontology Files  – Machine-readable files in the Web Ontology Language (OWL), in a variety of different formats
+      * Linked Data Fragments – A way of searching for a particular FIBO Triple, or executing a query 
+      * Ontology Files  – Machine-readable files in the Web Ontology Language (OWL), in a variety of different formats
+      * schema.org - A vocabulary for marking up web pages for search engines, which has been extended with terms taken from FIBO
 
 
 
@@ -151,8 +169,6 @@ This document is inteded as a collection of links to resources, and suggested id
 * https://github.com/nicholsn/rdflib
   * RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information. 
   * https://rdflib.readthedocs.io/en/stable/
-
-
 * https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
   * "Semantic MediaWiki is also a full-fledged frame­work, in con­junc­tion with many spin­off ex­ten­sions, that can turn a wiki into a pow­er­ful and flex­i­ble know­ledge manage­ment sys­tem. All data cre­ated with­in Semantic MediaWiki can easi­ly be ex­port­ed or pub­lish­ed via the Semantic Web, al­low­ing other sys­tems to use this data seam­less­ly."
 * https://github.com/opensemanticsearch/solr-ontology-tagger
@@ -248,7 +264,7 @@ This document is inteded as a collection of links to resources, and suggested id
 * [Tutorial 3: Semantic Modeling](http://www.linkeddatatools.com/semantic-modeling)
 * [Tutorial 4: Introducing RDFS & OWL](http://www.linkeddatatools.com/introducing-rdfs-owl)
 * [RDF & OWL: A simple overview of the building blocks of the Semantic Web](https://www.slideshare.net/rlovinger/rdf-and-owl)
-
+* [Data Modeling, RDF, & OWL – Part One: An Introduction To Ontologies, by David Hay, TDAN.com April 2006](http://tdan.com/data-modeling-rdf-owl-part-one-an-introduction-to-ontologies/5025)
 
 
 ### Footnotes
