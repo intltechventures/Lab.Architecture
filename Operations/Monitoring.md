@@ -1,7 +1,16 @@
 Notes on Operational Monitoring Tools
+==== 
 
 
-Tools
+### Application Performance Monitoring (APM) Tools
+* https://stackify.com/
+* https://newrelic.com/
+  * KM: Excellent tool
+* https://www.appdynamics.com/
+  * KM: Excellent tool
+
+
+### General Monitoring Tools
 * https://www.site24x7.com/
   * Key Features
     * Website Performance Monitoring
@@ -39,16 +48,16 @@ Tools
   * https://github.com/wu-sheng
 
 
-Uptime Monitoring Tools
+### Uptime Monitoring Tools
 * https://uptimerobot.com/
 * https://www.pagerduty.com/
 
 
-MySQL
+### MySQL
 * https://github.com/box/mysqlutilities
 
 
-osquery (Facebook)
+### osquery (Facebook)
 * https://github.com/facebook/osquery
 * http://osquery.readthedocs.io/en/stable/
   * http://osquery.readthedocs.io/en/stable/development/osquery-sdk/
@@ -64,19 +73,21 @@ osquery (Facebook)
 
 
 
-Recommended Books
+### Recommended Books
 * [Systems Performance: Enterprise and Cloud] (http://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098)
 
 
-Articles
+### Articles
 * http://www.gfi.com/blog/the-top-20-free-network-monitoring-and-analysis-tools-for-sys-admins/
 * https://www.linux.com/learn/how-use-incron-monitor-important-files-and-folders
 
 
-Interesting Presentations
+### Interesting Presentations
 * https://www.infoq.com/presentations/broken-performance-tools
 
 
-Github Resources
+### Github Resources
 * https://github.com/go-playground/stats
 * https://github.com/prometheus/prometheus
+
+
