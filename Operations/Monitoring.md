@@ -2,6 +2,14 @@ Notes on Operational Monitoring Tools
 ==== 
 
 
+### Book Suggestions, General:
+* [Effective Monitoring and Alerting: For Web Operations 1st Edition](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524/)
+* [Practical Monitoring: Effective Strategies for the Real World 1st Edition](https://www.amazon.com/Practical-Monitoring-Effective-Strategies-World/dp/1491957352/) 
+
+
+
+
+
 ### Application Performance Monitoring (APM) Tools
 * https://stackify.com/
 * https://newrelic.com/
@@ -46,6 +54,9 @@ Notes on Operational Monitoring Tools
 * http://skywalking.io/
   * https://github.com/apache/incubator-skywalking
   * https://github.com/wu-sheng
+* Promethueus
+  * Book [Prometheus: Up & Running: Infrastructure and Application Performance Monitoring 1st Edition](https://www.amazon.com/Prometheus-Infrastructure-Application-Performance-Monitoring/dp/1492034142)
+  * 
 
 
 ### Uptime Monitoring Tools
