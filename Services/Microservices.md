@@ -18,7 +18,7 @@ Microservices Notes
 * https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/
 
 * Sidecar: "An application is deployed alongside each microservice that you have developed and deployed to a server/hosting instance. ... A sidecar runs alongside your service as a second process and provides 'platform infrastructure features' exposed via a homogeneous interface such as a REST-like API over HTTP."
-  * source: 
+  * source: https://www.voxxed.com/2015/01/use-container-sidecar-microservices/ 
   * https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar
   * https://blog.davemdavis.net/2018/03/13/the-sidecar-pattern/
   * https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/
