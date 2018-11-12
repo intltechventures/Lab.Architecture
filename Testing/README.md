@@ -63,7 +63,7 @@ Testing Resource
 * http://robotframework.org/ 
 
 * Cucumber
-  8 https://en.wikipedia.org/wiki/Cucumber_(software)
+  * https://en.wikipedia.org/wiki/Cucumber_(software)
   * https://cucumber.io/
     * "open source tool tests business-readable specifications against your code on any modern development stack."
   * https://docs.cucumber.io/
