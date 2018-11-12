@@ -14,14 +14,16 @@ Testing Resources
 * http://toolsqa.com/
 
 
-### Ideas for Test Types/Categories:
-* Unit 
+### Ideas for Test Types/Categories: (TO-DO, organize and order these better...)
+* Unit  
   * Boundary Value 
   * Equivalance Class 
   * Decision Table 
   * Path
   * Data Flow 
 * Configuration 
+* Installation
+* Deployment
 * Compatibility 
 * Black Box
 * Grey Box
@@ -29,7 +31,8 @@ Testing Resources
 * UI
 * String
 * Integration
-* System
+* Interface
+* System 
   * Data
   * Actions
   * Devices
@@ -37,14 +40,27 @@ Testing Resources
   * Threads
 * All Pairs 
 * Smoke
+  * aka build verification test
+* Sanity 
 * Acceptance 
+* Regression
+* Compatibility
+  * OS
+  * Browser
 * Usability 
-  * Internationalization 
+  * Localization / Internationalization 
+  * Compliance
+    * ADA / Accessiblity 
 * Exploratory 
 * Stress
-* Performance/Load
+* Performance
+* Load
+* Stability 
+* Volume
 * Stability/Long Running 
 * Security
+  * Penetration
+  * Vulnerability 
 
 
 ### Cloud Based Testing Platforms
