@@ -77,6 +77,15 @@ Testing Resources
   * https://www.blazemeter.com/pricing
     * "50 concurrent users, free"
 
+* https://saucelabs.com/
+  * "Sauce Labs ensures your favorite mobile apps and websites work flawlessly on every browser, operating system, and device."
+  * https://saucelabs.com/pricing
+  * Frameworks Supported:
+    * https://saucelabs.com/products/open-source-frameworks/selenium
+    * https://saucelabs.com/products/open-source-frameworks/appium
+    * https://saucelabs.com/products/open-source-frameworks/espresso
+    * https://saucelabs.com/products/open-source-frameworks/xcuitest 
+
 
 ### Testing Tooling: General 
 * http://robotframework.org/ 
@@ -125,7 +134,8 @@ Testing Resources
 * Espresso (Android)
   * https://developer.android.com/training/testing/espresso/
     * https://developer.android.com/studio/test/espresso-test-recorder
-
+* xcuitest (iOS)
+  * ...to be added...
 
 
 ### Testing Tooling, Language Specific: JavaScript
