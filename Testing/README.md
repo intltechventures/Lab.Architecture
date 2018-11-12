@@ -406,6 +406,7 @@ Mockito
 
 ### Article:
 * 2018
+  * https://www.infoq.com/articles/james-bach-testing-career
 * 2017  
   * https://www.testingexcellence.com/selenium-and-cucumber-ui-automation-challenges/
     * "When we get to System Integration Testing or UI Testing, it is best to use Selenium without the underlying Cucumber framework as trying to write Cucumber feature files for user journeys, can get very cumbersome and would not serve the purpose the tool is built for."
