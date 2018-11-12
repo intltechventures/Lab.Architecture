@@ -1,17 +1,18 @@
 
 Useful Visualization Resources
+==== 
 
-Micrsoft Graph
+### Micrsoft Graph
 * https://developer.microsoft.com/en-us/graph
 
 
-AnyChart
+### AnyChart
 * https://www.anychart.com/
 * https://www.anychart.com/products/anychart/
 * https://www.anychart.com/products/anychart/gallery/
 
 
-BriteCharts (leverages D3.js)
+### BriteCharts (leverages D3.js)
 * https://github.com/eventbrite/britecharts
   * https://www.npmjs.com/package/britecharts
 * https://www.eventbrite.com/engineering/introducing-britecharts/
@@ -19,26 +20,26 @@ BriteCharts (leverages D3.js)
 * https://twitter.com/britecharts?lang=en
 
 
-Plotly
+### Plotly
 * https://plot.ly/
   * https://plot.ly/javascript/heatmaps/
   * https://plot.ly/javascript/
   * https://github.com/plotly/plotly.js
 
-Others to organize...
+### Others to organize...
 * http://stack.gl/
 * http://riccardoscalco.github.io/textures/
 * https://github.com/lferry007/LargeVis
 
-Dygraphs
+### Dygraphs
 * http://dygraphs.com/
   * https://github.com/danvk/dygraphs
 
 
-HighCharts.com
+### HighCharts.com
 * http://www.highcharts.com/
 
-Dimple.js
+### Dimple.js
 * http://dimplejs.org/
   * https://github.com/PMSI-AlignAlytics/dimple
   * https://github.com/PMSI-AlignAlytics/dimple/wiki
@@ -46,23 +47,23 @@ Dimple.js
   * http://dimplejs.org/examples_viewer.html?id=bubbles_horizontal_grouped
   * http://dimplejs.org/advanced_examples_index.html
 
-Blend4web
+### Blend4web
 * https://www.blend4web.com/en/
 
-Babylon.js
+### Babylon.js
 * http://www.babylonjs.com/
 
-...to organize
+### ...to organize
 * https://github.com/JasonKessler/scattertext
 
 
-Zinghart
+### Zinghart
 * https://www.zingchart.com
 
-...to organize
+###...to organize
 * http://www.jeromecukier.net/blog/category/charts/
 
-D3.js
+### D3.js
 * https://leanpub.com/d3-t-and-t-v4
 * https://bl.ocks.org/d3noob
 * https://bl.ocks.org/alandunning/18c5ec8d06938edd31968e2fd104a58a
@@ -89,28 +90,28 @@ D3.js
   * https://bl.ocks.org/pbeshai
     * https://bl.ocks.org/pbeshai/8008075f9ce771ee8be39e8c38907570 
 
-Three.js
+### Three.js
 * https://threejs.org/
   * https://dzone.com/articles/html5-render-urban-population
 * http://datavizcatalogue.com/methods/bubble_chart.html
 
 
-...to organize
+### ...to organize
 * https://homes.cs.washington.edu/~jheer/
   * https://www.youtube.com/results?search_query=jeffrey+heer
 * https://visual.ly/blog/author/drew/
 * http://www.openheatmap.com
 
 
-Angular-based Solutions
+### Angular-based Solutions
 * http://jtblin.github.io/angular-chart.js/
 
 
-Chart.js
+### Chart.js
 * http://www.chartjs.org/
 
 
-Structurizr
+### Structurizr
 * Structurizr is a publishing platform for software architecture diagrams and documentation based upon the C4 model; available as a free/paid cloud service and an on-premises installation
 * https://structurizr.com/
   * https://structurizr.com/help/tour
@@ -119,11 +120,12 @@ Structurizr
 
 
 
+### Kibana
+* Book: [Mastering Kibana 6.x: Visualize your Elastic Stack data with histograms, maps, charts, and graphs](https://www.amazon.com/Mastering-Kibana-6-x-Visualize-histograms/dp/1788831039/)
 
 
 
-
-Interesting Articles
+### Interesting Articles
 * 2018
 * 2017
   * https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
