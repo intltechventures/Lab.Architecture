@@ -1,5 +1,5 @@
 
-Testing Resource
+Testing Resources
 ====
 
 ### Testing: Associations/Organizations
