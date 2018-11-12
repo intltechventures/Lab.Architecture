@@ -31,6 +31,9 @@ Testing Resources
 * UI
 * String
 * Integration
+  * Class
+  * Subsystem
+  * System 
 * Interface
 * System 
   * Data
@@ -248,11 +251,17 @@ It can be used to simulate a heavy load on a server, group of servers, network o
 NOTE: Those books I have personally read, and recommend - will be denoted with a "RECOOMEND" prefix to the title
 
 ### Suggested Books: General Testing Topics
+* Beautiful Testing: Leading Professionals Reveal How They Improve Software (Theory in Practice) 1st Edition (2009)
+  * https://www.amazon.com/Beautiful-Testing-Professionals-Software-Practice/dp/0596159811
+* Perfect Software: And Other Illusions about Testing
+  * https://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692
+* Developer Testing: Building Quality into Software, 1st Edition (2016) 
+  * https://www.amazon.com/Developer-Testing-Building-Addison-Wesley-Signature/dp/0134291069/
 * How Google Tests Software 1st Edition (2012) 
   * https://www.amazon.com/Google-Tests-Software-James-Whittaker/dp/0321803027/
-* Agile Testing: A Practical Guide for Testers and Agile Teams
+* Agile Testing: A Practical Guide for Testers and Agile Teams (2009) 
   * https://www.amazon.com/Agile-Testing-Practical-Guide-Testers/dp/0321534468
-* More Agile Testing: Learning Journeys for the Whole Team
+* More Agile Testing: Learning Journeys for the Whole Team (2014) 
   * https://www.amazon.com/More-Agile-Testing-Addison-Wesley-Signature/dp/0321967054/
 * ```Lessons Learned in Software Testing: A Context-Driven Approach```
   * https://www.amazon.com/Lessons-Learned-Software-Testing-Context-Driven/dp/0471081124/
@@ -264,6 +273,11 @@ NOTE: Those books I have personally read, and recommend - will be denoted with a
   * https://www.amazon.com/Friendly-Introduction-Software-Testing/dp/1523477377/
 * ```Software Testing: A Craftsman’s Approach, Fourth Edition```
   * https://www.amazon.com/Software-Testing-Craftsmans-Approach-Fourth/dp/1466560681/
+* Experiences of Test Automation: Case Studies of Software Test Automation 1st Edition (2012) 
+  * https://www.amazon.com/Experiences-Test-Automation-Studies-Software/dp/0321754069/ 
+* Testing in Scrum: A Guide for Software Quality Assurance in the Agile World (Rocky Nook Computing) 1st Edition
+  * https://www.amazon.com/Testing-Scrum-Software-Assurance-Computing/dp/1937538397/
+
 
 
 ### Suggested Books: Testing, Technology Specific Topics
