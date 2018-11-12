@@ -15,6 +15,8 @@ Microservices Notes
       * Work queue pattern
       * Scatter/gather pattern 
 
+* https://kubernetes.io/blog/2015/06/the-distributed-system-toolkit-patterns/
+
 * Sidecar: "An application is deployed alongside each microservice that you have developed and deployed to a server/hosting instance. ... A sidecar runs alongside your service as a second process and provides 'platform infrastructure features' exposed via a homogeneous interface such as a REST-like API over HTTP."
   * source: 
   * https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar
@@ -22,6 +24,11 @@ Microservices Notes
   * https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/
   * https://dzone.com/articles/microservices-sidecar-pattern-implementation-using-1
   * http://blog.christianposta.com/microservices/00-microservices-patterns-with-envoy-proxy-series/
+  * https://developer.ibm.com/code/2017/05/22/polyglot-microservices-and-the-sidecar-pattern/
+  * https://medium.com/netflix-techblog/prana-a-sidecar-for-your-netflix-paas-based-applications-and-services-258a5790a015
+  * https://blog.turbinelabs.io/the-first-step-in-modern-networking-isnt-a-sidecar-ed657db67cd3 
+  * https://www.thoughtworks.com/radar/techniques/sidecars-for-endpoint-security
+  * https://blog.openshift.com/kerberos-sidecar-container/
 
 
 ### Frameworks & Tooling
