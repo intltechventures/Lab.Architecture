@@ -2,13 +2,35 @@
 Microservices Notes
 ==============================
 
+### Concepts/Patterns 
+* Sidecar: "An application is deployed alongside each microservice that you have developed and deployed to a server/hosting instance. ... A sidecar runs alongside your service as a second process and provides 'platform infrastructure features' exposed via a homogeneous interface such as a REST-like API over HTTP."
+  * source: 
+  * https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar
+  * https://blog.davemdavis.net/2018/03/13/the-sidecar-pattern/
+  * https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/
+  * https://dzone.com/articles/microservices-sidecar-pattern-implementation-using-1
+  * http://blog.christianposta.com/microservices/00-microservices-patterns-with-envoy-proxy-series/
+
+### Frameworks & Tooling
+* Envoy 
+  * https://www.envoyproxy.io/
+    * "Originally built at Lyft, Envoy is a high performance C++ distributed proxy designed for single services and applications, as well as a communication bus and “universal data plane” designed for large microservice “service mesh” architectures. Built on the learnings of solutions such as NGINX, HAProxy, hardware load balancers, and cloud load balancers, Envoy runs alongside every application and abstracts the network by providing common features in a platform-agnostic manner. When all service traffic in an infrastructure flows via an Envoy mesh, it becomes easy to visualize problem areas via consistent observability, tune overall performance, and add substrate features in a single place."
+
+* Istio
+  * https://istio.io/
+    * "Istio makes it easy to create a network of deployed services with load balancing, service-to-service authentication, monitoring, and more, without any changes in service code. You add Istio support to services by deploying a special sidecar proxy throughout your environment that intercepts all network communication between microservices, then configure and manage Istio using its control plane functionality, which includes:"
+      * "Automatic load balancing for HTTP, gRPC, WebSocket, and TCP traffic."
+      * "Fine-grained control of traffic behavior with rich routing rules, retries, failovers, and fault injection."
+      * "A pluggable policy layer and configuration API supporting access controls, rate limits and quotas."
+      * "Automatic metrics, logs, and traces for all traffic within a cluster, including cluster ingress and egress."
+      * "Secure service-to-service communication in a cluster with strong identity-based authentication and authorization."
 
 
 
-
-
-
-Interesting Articles
+### Interesting Articles
+* 2017
+  * https://www.infoq.com/news/2017/01/production-ready-microservices
+  * https://www.theregister.co.uk/2017/05/24/google_lyft_ibm_mix_microservices_into_management_mesh/
+* 2016 
 * https://www.susanjfowler.com/blog/2016/12/18/the-four-layers-of-microservice-architecture
-* https://www.infoq.com/news/2017/01/production-ready-microservices
 
