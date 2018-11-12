@@ -134,7 +134,7 @@ Testing Resources
 * Espresso (Android)
   * https://developer.android.com/training/testing/espresso/
     * https://developer.android.com/studio/test/espresso-test-recorder
-* xcuitest (iOS)
+* XCUITest (iOS)
   * ...to be added...
 
 
@@ -377,13 +377,13 @@ NOTE: Those books I have personally read, and recommend - will be denoted with a
   * Mastering Unit Testing Using Mockito and JUnit (2014) 
     * https://www.amazon.com/dp/1783982500/
 
-Mockito
+* Mockito
   * Mockito for Spring (2015) 
     * https://www.amazon.com/dp/1783983787
-
+   
 * TestNG 
   * ...
-
+   
 * Watir
   * http://watir.com/
   * Watir Recipes: The problem solving guide to Watir (Web Test Automation Recipes Series) (Volume 1) (2014) 
