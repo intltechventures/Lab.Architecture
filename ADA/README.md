@@ -7,8 +7,7 @@ Americans with Disabilities Act (ADA), Compliance Resources
   * https://www.ada.gov/pcatoolkit/toolkitmain.htm
 
 
-Web Content Accessbility Guidelines (WCAG) Resources
-====
+### Web Content Accessbility Guidelines (WCAG) Resources
 * Web Content Accessibility Guidelines (WCAG) Overview
   * https://www.w3.org/WAI/standards-guidelines/wcag/
   * https://www.w3.org/TR/WCAG20/
@@ -19,15 +18,26 @@ Web Content Accessbility Guidelines (WCAG) Resources
   * https://www.w3.org/TR/WCAG20-TECHS/
  
 
-Articles
-====
+### Articles
 * 2018
   * Designing For Accessibility And Inclusion
     * https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/ 
+      * The Lenses of Accessibility are:
+        * Lens of Animation and Effects
+        * Lens of Audio and Video
+        * Lens of Color
+        * Lens of Controls
+        * Lens of Font
+        * Lens of Images and Icons
+        * Lens of Keyboard
+        * Lens of Layout
+        * Lens of Material Honesty
+        * Lens of Readability
+        * Lens of Structure
+        * Lens of Time
 
 
 
 
-Also see:  
-====
+### Also see:  
 * Section 508 of the U.S. Rehabilitation Act of 1973, as amended by the Workforce Investment Act of 1998.
