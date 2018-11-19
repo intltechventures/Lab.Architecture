@@ -7,6 +7,12 @@ Notes on Operational Monitoring Tools
 * [Practical Monitoring: Effective Strategies for the Real World 1st Edition](https://www.amazon.com/Practical-Monitoring-Effective-Strategies-World/dp/1491957352/) 
 
 
+### Distributed Tracing Tools
+* Zipkin
+* Jaeger
+* HTrace
+* OpenTracing
+* X-Trace
 
 
 
