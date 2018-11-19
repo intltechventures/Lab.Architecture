@@ -47,6 +47,7 @@ Notes on Operational Monitoring Tools
 * https://sensuapp.org/
 * https://www.takipi.com/
 * https://www.appdynamics.com
+* Netsil
 * https://newrelic.com/
 * https://instrumentalapp.com/
 * http://opentsdb.net/
