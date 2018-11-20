@@ -162,6 +162,10 @@ Gift and gift-planning data
 
 
 ### References/Sources 
+* https://en.wikipedia.org/wiki/Classified_information_in_the_United_States
+* https://en.wikipedia.org/wiki/Classified_information
+* https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+* https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act
 * Secrecy and Security Library, Project on Government Secrecy, Federation of American Scientists
   * https://fas.org/sgp/library/
 * Security Classification of Information, 
