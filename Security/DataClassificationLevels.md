@@ -7,6 +7,7 @@ The following data classification designations may be useful in preparing data s
 ### Classifications Exemplars 
 * Public
   * Encompasses public information and data for which disclosure poses little to no risk to individuals or the university.
+  * Public data is the least sensitive data used by the organization and would cause the least harm if disclosed. This could be anything from data used for marketing to the number of employees in the organization.
   * Anyone regardless of organizational affiliation can access without limitation.
   * For Example:
     * Information in the public domain
@@ -16,19 +17,26 @@ The following data classification designations may be useful in preparing data s
     * Research Proposals
     * Employee IDs, not associated with names 
 * Non-Public | Internal
+    *  Data that is disclosed outside the company on a limited basis or contains information that could reduce the organization's competitive advantage, such as the technical specifications of a new product.
     * For Example:
       * Evaluations/Discussions with prospective third-party vendors
-* Confidential | Sensitive
-  * Low
-    * Encompasses information and data for which disclosure poses little to no risk to individuals or the organization.
+* Confidential 
+  * Low | Private
+    * Potential Impact:
+      * Encompasses information and data for which disclosure poses little to no risk to individuals or the organization.
+      * The unauthorized disclosure of information could be expected to have a limited adverse effect on organizational operations, organizational assets, or individuals.
+      * Usually compartmental data that might not do the organizationo damage but must be keep private for other reasons. Human resources data is one example of data that can be classified as private.
     * For Example:
         * Employee directory information
         * General organizational and business information not classified as Restricted, High, or Moderate
-  * Medium
-    * Disclosure could cause limited harm to individuals and the organizaton with some risk of civil liability.
-    * Either subject to contractual agreements or regulatory compliance or is individually identifiable, confidential, and/or proprietary. 
+  * Medium | Proprietary
+    * Potential Impact:
+      * Disclosure could cause limited harm to individuals and the organizaton with some risk of civil liability.
+      * The unauthorized disclosure of information could be expected to have a serious adverse effect on organizational operations, organizational assets, or individuals.
     * For Example:
       * Unpublished Intellectual Property
+      * Unpublished Research
+        * Unpublished grant proposals, research data, manuscripts and associated correspondence.
       * Patent applications and work papers
       * Contracts with third-party entities
       * Employee records (multiple types)
@@ -40,8 +48,10 @@ The following data classification designations may be useful in preparing data s
       * Telecommunications systems information
       * Employee ID Numbers 
       * Building plans, physical plant information
-  * Highly Confidential 
+      * Either subject to contractual agreements or regulatory compliance or is individually identifiable, confidential, and/or proprietary.
+  * Highly Confidential | Sensitive 
     * Disclosure could cause significant/material harm to individuals and the organization, including exposure to criminal and civil liability - if diclosed 
+    * The unauthorized disclosure of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
     * Usually subject to legal and regulatory requirements due to data that are individually identifiable, highly sensitive and/or confidential. 
       * For Example:
         * Non-Public Financial records 
@@ -54,8 +64,57 @@ The following data classification designations may be useful in preparing data s
         * Export controlled information (ITAR, EAR)
         * IT security information
         * Protected health information (HIPAA)
+          * Protected Health Information (PHI) is defined by the Health Insurance Portability and Accountability Act (HIPAA). PHI is individually identifiable health information that relates to the:i
+            * Past, present, or future physical or mental health or condition of an individual.
+            * Provision of health care to the individual by a covered entity (for example, hospital or doctor).
+            * Past, present, or future payment for the provision of health care to the individua
+          * The following individually identifiable data elements, when combined with health information about that person, make such information protected health information (PHI):                 * Names
+            * Telephone numbers
+            * Fax numbers
+            * Email addresses
+            * Social Security numbers
+            * Medical record numbers
+            * Health plan beneficiary numbers
+            * License plate numbers
+            * URLs
+            * Full-face photographic images
+            * Any other unique identifying number, characteristic, code, or combination that allows identification of an individual
         * Personally Identifiable Information (PII)
+          * For Example:
+            * Social Security number
+            * National ID number
+            * Passport number
+            * Visa permit number
+            * Driver’s license number
+            * Bank and credit/debit card numbers
+            * Tax information (e.g., W-2, W-4, 1099)
+            * Disability information
+            * Ethnicity
+            * Gender
+            * Biometric information
+            * Biographic/demographic data (Date and location of birth, Country of citizenship, Citizenship status, Marital status, Military status)
+            * Criminal record & criminal background check information
+            * Home address
+            * Grievance information
+            * Discipline information
+            * Leave-of-absence reason
+            * Payroll and benefits information
+            * Health information
+            * Conflict of Interest information
+            * Prospect data
+Gift and gift-planning data            
         * Payment Card Industry (PCI) Information
+          * Information related to credit, debit, or other payment cards. This data type is governed by the Payment Card Industry (PCI) Data Security Standards
+          * For Example:            
+            * Cardholder name
+            * Credit/debit card account number
+            * Credit/debit card expiration date
+            * Credit/debit card verification number
+            * Credit/debit card security code
+        * Student Education Records (FERPA)
+          * Records that contain information directly related to a student and that are maintained by the organization or by a person acting for the organization. The Family Educational Rights and Privacy Act (FERPA) governs release of, and access to, student education records. “Directory information” about a student is not regulated by FERPA and can be released by the organization without the student’s permission. 
+        * Student Loan Application Information (GLBA)
+          * Personal financial information held by financial institutions and higher education organizations as related to student loan and financial aid applications. Gramm Leach Bliley Act (GLBA) provisions govern this data type.
         * Other personal information protected under state, federal and foreign privacy laws 
 * Restricted
   * Confidential information requiring the highest level of security and privacy protection. Access is only permitted as directed by CxO or Legal Counsel.
@@ -72,6 +131,10 @@ The following data classification designations may be useful in preparing data s
     * Must be protected to prevent loss, theft, unauthorized access, and / or unauthorized disclosure as dictated by the regulating body or council
     * Must be destroyed when no longer needed.  Destruction must be per the body or council data policies
     * Will require specific methodologies, procedures and reporting requirements for the response and handling of incidents
+    * FISMA Data
+      * The Federal Information Security Management Act (FISMA) requires federal agencies and those providing services on their behalf to develop, document, and implement security programs for information technology systems and store the data on U.S. soil. This means that, under some federal contracts or grants, information the organization collects or information systems that the organization uses to process or store research data need to comply with FISMA.
+    * Law Enforcement Information
+      * Non-public law enforcement records generated or maintained by the organization.
 * Secret
   * Usually only applicable to a government agency information
 * Top Secret
@@ -79,7 +142,7 @@ The following data classification designations may be useful in preparing data s
 
 
 
-### References
+### References/Sources 
 * Secrecy and Security Library, Project on Government Secrecy, Federation of American Scientists
   * https://fas.org/sgp/library/
 * Security Classification of Information, 
@@ -90,5 +153,8 @@ Volume 2. Principles for Classification of Information, Oak Ridge National Labor
 * https://policy.security.harvard.edu/view-data-security-level
   * https://security.harvard.edu/dct
   * https://security.harvard.edu/files/it-security-new/files/info_security_data_classification_table_full_11.17.14_0.pdf
+* https://its.uchicago.edu/data-classification-guideline/
+* https://www.cmu.edu/iso/governance/guidelines/data-classification.html
+
 
 
