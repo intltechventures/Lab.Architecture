@@ -20,6 +20,7 @@ The following data classification designations may be useful in preparing data s
     *  Data that is disclosed outside the company on a limited basis or contains information that could reduce the organization's competitive advantage, such as the technical specifications of a new product.
     * For Example:
       * Evaluations/Discussions with prospective third-party vendors
+      * For Official Use Only ("FOUO")
 * Confidential 
   * Low | Private
     * Potential Impact:
@@ -79,6 +80,20 @@ The following data classification designations may be useful in preparing data s
             * URLs
             * Full-face photographic images
             * Any other unique identifying number, characteristic, code, or combination that allows identification of an individual
+        * Electronic Protected Health Information ("EPHI")
+          * EPHI is defined as any Protected Health Information ("PHI") that is stored in or transmitted by electronic media. For the purpose of this definition, electronic media includes:
+            * Electronic storage media includes computer hard drives and any removable and/or transportable digital memory medium, such as magnetic tape or disk, optical disk, or digital memory card.
+            * Transmission media used to exchange information already in electronic storage media.  Transmission media includes, for example, the Internet, an extranet (using Internet technology to link a business with information accessible only to collaborating parties), leased lines, dial-up lines, private networks and the physical movement of removable and/or transportable electronic storage media. Certain transmissions, including of paper, via facsimile, and of voice, via telephone, are not considered to be transmissions via electronic media because the information being exchanged did not exists in electronic form before the transmission.
+        * Federal Tax Information ("FTI")
+          * FTI is defined as any return, return information or taxpayer return information that is entrusted to the organization by the Internal Revenue Services
+        * Personal Data from European Union (EU)
+          * Any personal data that is collected from individuals in European Economic Area (EEA) countries is subject to GDPR.
+          * The EU’s General Data Protection Regulation (GDPR) defines personal data as any information that can identify a natural person, directly or indirectly, by reference to an identifier including
+            * Name
+            * An identification number
+            * Location data
+            * An online identifier
+            * One or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
         * Personally Identifiable Information (PII)
           * For Example:
             * Social Security number
@@ -126,11 +141,15 @@ Gift and gift-planning data
         * Services related to a contract dispute with a vendor.
     * Attorney Working Documents
       * Internal investigation information, pre-litigation, and non-public litigation and administrative agency charge, audit and inquiry information.
-* Regulatory Data Classification
+* Regulatory Restricted Data Classification
   * For Example:
     * Must be protected to prevent loss, theft, unauthorized access, and / or unauthorized disclosure as dictated by the regulating body or council
     * Must be destroyed when no longer needed.  Destruction must be per the body or council data policies
     * Will require specific methodologies, procedures and reporting requirements for the response and handling of incidents
+    * Export Controlled Materials
+      * Export Controlled Materials is defined as any information or materials that are subject to United States export control regulations including, but not limited to, the Export Administration Regulations (EAR) published by the U.S. Department of Commerce and the International Traffic in Arms Regulations (ITAR) published by the U.S. Department of State.
+    * Controlled Technical Information ("CTI")
+      * Controlled Technical Information means "technical information with military or space application that is subject to controls on the access, use, reproduction, modification, performance, display, release, disclosure, or dissemination" per DFARS 252.204-7012.
     * FISMA Data
       * The Federal Information Security Management Act (FISMA) requires federal agencies and those providing services on their behalf to develop, document, and implement security programs for information technology systems and store the data on U.S. soil. This means that, under some federal contracts or grants, information the organization collects or information systems that the organization uses to process or store research data need to comply with FISMA.
     * Law Enforcement Information
