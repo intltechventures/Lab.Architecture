@@ -96,6 +96,8 @@ Notes on Operational Monitoring Tools
 
 
 ### Articles
+* 2018 
+  * https://nickcraver.com/blog/2018/11/29/stack-overflow-how-we-do-monitoring/ 
 * http://www.gfi.com/blog/the-top-20-free-network-monitoring-and-analysis-tools-for-sys-admins/
 * https://www.linux.com/learn/how-use-incron-monitor-important-files-and-folders
 
