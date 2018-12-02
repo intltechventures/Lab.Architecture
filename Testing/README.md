@@ -261,6 +261,8 @@ It can be used to simulate a heavy load on a server, group of servers, network o
 NOTE: Those books I have personally read, and recommend - will be denoted with a "RECOOMEND" prefix to the title
 
 ### Suggested Books: General Testing Topics
+* A Practical Guide to Testing in DevOps
+  * https://leanpub.com/testingindevops
 * Beautiful Testing: Leading Professionals Reveal How They Improve Software (Theory in Practice) 1st Edition (2009)
   * https://www.amazon.com/Beautiful-Testing-Professionals-Software-Practice/dp/0596159811
 * Perfect Software: And Other Illusions about Testing
