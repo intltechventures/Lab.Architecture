@@ -14,6 +14,11 @@ Testing Resources
 * http://toolsqa.com/
 
 
+### Testing Related Blogs, New Resources 
+* https://www.deagiletesters.nl/en/blog/
+
+
+
 ### Ideas for Test Types/Categories: (TO-DO, organize and order these better...)
 * Unit  
   * Boundary Value 
@@ -89,6 +94,9 @@ Testing Resources
 
 ### Testing Tooling: General 
 * http://robotframework.org/ 
+  * https://github.com/robotframework/robotframework
+  * https://twitter.com/robotframework
+  
 
 * Cucumber
   * https://en.wikipedia.org/wiki/Cucumber_(software)
