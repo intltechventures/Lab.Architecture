@@ -1,6 +1,11 @@
 Notes on Operational Monitoring Tools
 ==== 
 
+### Suggested Response Time SLA Definitions:
+* 75th percentile is 1 second or less
+* 90 percentile is 3 seconds or less
+* 99 percentile is no more 12 seconds
+
 
 ### Book Suggestions, General:
 * [Effective Monitoring and Alerting: For Web Operations 1st Edition](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524/)
