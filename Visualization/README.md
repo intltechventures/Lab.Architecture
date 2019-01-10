@@ -2,10 +2,39 @@
 Useful Visualization Resources
 ==== 
 
+### References
+* https://www.data-to-viz.com/
+  * "From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid."
+* https://serialmentor.com/dataviz/
+* https://flowingdata.com/
+* http://www.storytellingwithdata.com/
+  * https://twitter.com/storywithdata
+* https://www.oreilly.com/library/view/visualization-analysis-and/9781466508910/
+* https://www.patreon.com/thepudding
+  * "* "The Pudding explains ideas debated in culture with visual essays. By wielding original datasets, primary research, and interactivity, we try to thoroughly explore complex topics."
+  * https://twitter.com/puddingviz
+
+	
+
 ### Micrsoft Graph
 * https://developer.microsoft.com/en-us/graph
 
+### Machine Learning Visualization
+* http://www.scikit-yb.org/en/latest/
+  * "Yellowbrick is a suite of visual diagnostic tools called “Visualizers” that extend the Scikit-Learn API to allow human steering of the model selection process. In a nutshell, Yellowbrick combines scikit-learn with matplotlib in the best tradition of the scikit-learn documentation, but to produce visualizations for your models!"
 
+
+  
+### Python Resources
+* https://python-graph-gallery.com/
+
+
+
+### R Resources
+* https://www.r-graph-gallery.com/
+
+
+  
 ### AnyChart
 * https://www.anychart.com/
 * https://www.anychart.com/products/anychart/
@@ -124,11 +153,20 @@ Useful Visualization Resources
 * Book: [Mastering Kibana 6.x: Visualize your Elastic Stack data with histograms, maps, charts, and graphs](https://www.amazon.com/Mastering-Kibana-6-x-Visualize-histograms/dp/1788831039/)
 
 
+### Observable
+* https://beta.observablehq.com/
+  * "Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration."
+* https://twitter.com/observablehq
+ 
+
+
 
 ### Interesting Articles
 * 2018
 * 2017
   * https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
+  * [Visualization in Bayesian workflow](https://arxiv.org/abs/1709.01449)
+    "Bayesian data analysis is about more than just computing a posterior distribution, and Bayesian visualization is about more than trace plots of Markov chains. Practical Bayesian data analysis, like all data analysis, is an iterative process of model building, inference, model checking and evaluation, and model expansion. Visualization is helpful in each of these stages of the Bayesian workflow and it is indispensable when drawing inferences from the types of modern, high-dimensional models that are used by applied researchers."
 * [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
 
