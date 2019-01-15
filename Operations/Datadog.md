@@ -11,6 +11,11 @@ re: Application Portfolio Monitorintg (APM) tool
   * https://docs.datadoghq.com/tracing/visualization/search/
 
 
+### News
+* https://twitter.com/datadoghq
+* https://www.datadoghq.com/blog/
+* https://www.datadoghq.com/blog/engineering/
+
 ### Tutorials
 * https://www.datadoghq.com/blog/set-and-monitor-slas/
 
