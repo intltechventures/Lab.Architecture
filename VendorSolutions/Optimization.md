@@ -71,20 +71,20 @@ Optimization Solution Resources
     * https://www.tscp.com/press-release/thompson-street-capital-partners-recapitalizes-gurobi-optimization/
 
 
-### SOlverStudio
+### SolverStudio
 * https://solverstudio.org/
-* SolverStudio is an add-in for Excel 2007 and later on Windows that allows you to build and solve optimisation models in Excel using any of the following optimisation modelling languages:
-  * PuLP, an open-source Python-based COIN-OR modelling language developed by Stu Mitchell. PuLP is included with SolverStudio.
-  * COOPR/Pyomo, an open source COIN-OR modelling language for Python which extends Pulp with abstract models, support for stochastic programming, and a larger range of solvers.
-  * AMPL, a commercial modelling language. SolverStudio either requires AMPL to be installed by the user, or can automatically install a free “demo” version of AMPL.  (The
-    Demo comes with 11 solvers; AMPL’s variable/constraint limits are 500 for linear and 300 for nonlinear, though 4 of the solvers are limited to 10.) We have a tutorial on using AMPL with SolverStudio. We also support running AMPL models in the cloud using the excellent NEOS server; see AMPL on NEOS. See our SolverStudio AMPL page for more information.
-  * GMPL (GNU MathProg Language), an open source AMPL look-alike developed as part of GLPK (GNU Linear Programming Kit). GMPL is included with SolverStudio.
-  * GAMS, a commercial modelling language. SolverStudio requires GAMS to be installed by the user. GAMS provide a free trial version. Support for solving GAMS models using the NEOS server is working in our new beta version.
-  * Gurobi, a commercial solver which can be accessed from SolverStudio using the Gurobi Python modelling interface. This requires the Gurobi solver be installed. SolverStudio provides a license manager to help manage Gurobi licenses.
-  * CMPL, an open source COIN-OR  modelling language that also includes a remote server for solving on external computers. Also available from Python.
-  * SimPy, an open source Python simulation language, which is now included with the SolverStudio download.
-  * Any other Python software that runs under either IronPython or standard Python (i.e ‘CPython‘). IronPython comes built in, while the user needs to install their own choice of CPython.
-  * We hope to add Zimpl in the near future, and allow GMPL to be used with CBC.
+* "SolverStudio is an add-in for Excel 2007 and later on Windows that allows you to build and solve optimisation models in Excel using any of the following optimisation modelling languages:"
+  * "PuLP, an open-source Python-based COIN-OR modelling language developed by Stu Mitchell. PuLP is included with SolverStudio."
+  * "COOPR/Pyomo, an open source COIN-OR modelling language for Python which extends Pulp with abstract models, support for stochastic programming, and a larger range of solvers."
+  * "AMPL, a commercial modelling language. SolverStudio either requires AMPL to be installed by the user, or can automatically install a free “demo” version of AMPL.  (The
+    Demo comes with 11 solvers; AMPL’s variable/constraint limits are 500 for linear and 300 for nonlinear, though 4 of the solvers are limited to 10.) We have a tutorial on using AMPL with SolverStudio. We also support running AMPL models in the cloud using the excellent NEOS server; see AMPL on NEOS. See our SolverStudio AMPL page for more information."
+  * "GMPL (GNU MathProg Language), an open source AMPL look-alike developed as part of GLPK (GNU Linear Programming Kit). GMPL is included with SolverStudio."
+  * "GAMS, a commercial modelling language. SolverStudio requires GAMS to be installed by the user. GAMS provide a free trial version. Support for solving GAMS models using the NEOS server is working in our new beta version."
+  * "Gurobi, a commercial solver which can be accessed from SolverStudio using the Gurobi Python modelling interface. This requires the Gurobi solver be installed. SolverStudio provides a license manager to help manage Gurobi licenses."
+  * "CMPL, an open source COIN-OR  modelling language that also includes a remote server for solving on external computers. Also available from Python."
+  * "SimPy, an open source Python simulation language, which is now included with the SolverStudio download."
+  * "Any other Python software that runs under either IronPython or standard Python (i.e ‘CPython‘). IronPython comes built in, while the user needs to install their own choice of CPython."
+  * "We hope to add Zimpl in the near future, and allow GMPL to be used with CBC."
 
 
 
