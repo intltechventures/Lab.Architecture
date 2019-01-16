@@ -108,6 +108,7 @@ Feature Flag/Toggle Resources
 ### Language Specific Tools...
 * Java Programming
   * https://www.togglz.org/
+  * https://github.com/Nike-Inc/moirai
 * JavaScript Programming
   * https://github.com/bigodines/feature-flipper-js
     * NOTE: No longer being actively maintained
@@ -145,7 +146,11 @@ Feature Flag/Toggle Resources
 
 
 ### Articles:
+* 2019
+  [Moirai: A Feature Flag Library for the JVM](https://medium.com/nikeengineering/moirai-a-feature-flag-library-for-the-jvm-98974c4e1d1b)
+* 2016
 * [Infoq: Feature Toggles Revisited](https://www.infoq.com/news/2016/02/featuretoggles)
+* ???? - to be organnized...
 * https://rollout.io/blog/ultimate-feature-flag-guide/
 * https://rollout.io/blog/top-5-use-cases-feature-flags/
 * Angular related articles:
