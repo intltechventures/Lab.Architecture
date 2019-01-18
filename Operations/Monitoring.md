@@ -20,6 +20,12 @@ Notes on Operational Monitoring Tools
 * X-Trace
 
 
+### Network Monitoring Tools
+* Thousand Eyes
+  * https://www.thousandeyes.com/
+  * https://www.thousandeyes.com/solutions/multi-cloud-monitoring
+  * https://www.thousandeyes.com/solutions/azure-monitoring
+
 
 ### Application Performance Monitoring (APM) Tools
 * https://stackify.com/
