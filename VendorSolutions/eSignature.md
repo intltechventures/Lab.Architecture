@@ -1,7 +1,7 @@
 eSignature Solution Resources
 ====
 
-### TO-OD: 
+### TO-DO:
 * continue elaborting and citing URLs
 * create a feature comparison matrix (?)
 * add links to pricing
