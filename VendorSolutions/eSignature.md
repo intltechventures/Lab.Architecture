@@ -9,7 +9,7 @@ eSignature Solution Resources
 * identify products that may no longer be offered
 
 
-This is meant as a placedholder for me to record names of companiest that may be worth considering when evaluating solution architecture options for eSignature type requiremenets:
+This is meant as a placedholder for me to record names of companies that may be worth considering when evaluating solution architecture options for eSignature type requiremenets:
 
 NOTE: I am not familiar with the majority of these - and some may no longer be viable ooptions.
 
