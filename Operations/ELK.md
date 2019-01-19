@@ -21,6 +21,15 @@ ElasticSearch Resources
   * [Log Analytics with Elastic Stack](https://www.elastic.co/videos/logstash-analytics-with-elastic-stack)
   * [Getting Started with Logstash](https://www.elastic.co/guide/en/logstash/current/getting-started-with-logstash.html)
   * [Using Elasticsearch for Log Search and Analysis](https://www.elastic.co/webinars/using-elasticsearch-for-log-search-and-analysis)
+  * [Getting Started with the Elastic Stack on Microsoft Azure, (2017)](https://www.elastic.co/blog/getting-started-with-elasticsearch-and-the-elastic-stack-on-microsoft-azure)
+  * [Deploying Elasticsearch on Microsoft Azure, (2017)](https://www.elastic.co/blog/deploying-elasticsearch-on-microsoft-azure)
+    * "Elasticsearch - Data Nodes We found the DS series of memory optimized instances to be a good fit. Like every other data store Elasticsearch is very dependent on the amount of memory available to itself (as the JVM heap) and to the underlying host system (used for the important filesystem cache). You can read a bit more about how memory should be assigned in this blog post."
+    * "We also recommend using Premium Storage. Backed by Solid State Drives (SSD) it allows Elasticsearch to reach its stored data quickly - and users will benefit from improved response times. Premium Managed Disks also come with encryption at rest (via Storage Service Encryption)."
+    * "Elasticsearch - Master Nodes For bigger clusters, we recommend having three dedicated master nodes. They will not be storing any data, but will handle cluster management tasks like creating new indices and rebalancing shards. Small D series instances are most often good enough."
+    * "Kibana Same as master nodes, Kibana has relatively light resource requirements. Most computations are pushed down to Elasticsearch, so you can usually run Kibana on small D series instances as well."
+    * "Logstash Since it typically does a lot of processing it is best deployed on the FS series."
+  * [Elasticsearch and Kibana Deployments on Azure](https://www.elastic.co/blog/elasticsearch-and-kibana-deployments-on-azure)
+  * [Spinning up a cluster with Elastic's Azure Marketplace template, (2016)](https://www.elastic.co/blog/spinning-up-a-cluster-with-elastics-azure-marketplace-template]
 
 * Sematext Youtube Channel
   * [Log Analysis with Elasticsearch, part 1](https://www.youtube.com/watch?v=dkauUMimEgc)
@@ -64,6 +73,7 @@ ElasticSearch Resources
   * [Best of 2018: Log Monitoring and Analysis: Comparing ELK, Splunk and Graylog](https://devops.com/log-monitoring-and-analysis-comparing-elk-splunk-and-graylog/)
   * [ELK Adventures Part 1](https://medium.com/@Joachim8675309/elk-adventures-part-1-99de2a234423)
     * Related: [Vagrant: Dynamic Multi-Machines](https://medium.com/@Joachim8675309/vagrant-dynamic-multi-machines-1aaad3e64c96)
+  * [ElasticSearch, LogStash and Kibana (ELK) on Azure App Services](http://lukieb.blogspot.com/2018/01/elasticsearch-logstash-and-kibana-elk.html)
 
 
 * 2017
@@ -74,6 +84,7 @@ ElasticSearch Resources
   * [How to Use Elasticsearch, Logstash, and Kibana to Manage Logs](https://qbox.io/blog/how-to-elasticsearch-logstash-kibana-manage-logs)
   * [Research on Establish an Efficient Log Analysis System with Kafka and Elastic Search](https://www.scirp.org/Journal/PaperInformation.aspx?PaperID=79974)
   * [(Designing the Perfect Elasticsearch Cluster: the (almost) Definitive Guide](https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87)
+  * [Splunk and the ELK Stack: A Side-by-Side Comparison](https://devops.com/splunk-elk-stack-side-side-comparison/)
 
 
 * 2015
@@ -86,4 +97,11 @@ ElasticSearch Resources
 ### Github Resources
 * AWS
   * https://github.com/aws-samples/amazon-cloudfront-log-analysis/tree/master/lab2-elk-cloudfront-log-analysis
+* Azure
+  * https://github.com/Azure/azure-quickstart-templates/tree/master/elasticsearch
+    * https://www.elastic.co/blog/azure-cloud-plugin-for-elasticsearch
+* Elastic, re: Azure Marketplace
+  * https://github.com/elastic/azure-marketplace
+    * https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.elasticsearch/
+
 
