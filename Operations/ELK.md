@@ -103,5 +103,7 @@ ElasticSearch Resources
 * Elastic, re: Azure Marketplace
   * https://github.com/elastic/azure-marketplace
     * https://azuremarketplace.microsoft.com/en-us/marketplace/apps/elastic.elasticsearch/
+* Serilog
+  * https://github.com/serilog/serilog-sinks-elasticsearch
 
 
