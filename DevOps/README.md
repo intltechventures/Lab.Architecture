@@ -2,7 +2,7 @@
 DevOps Resources
 ====
 
-Checklists
+### Checklists
 * https://docs.microsoft.com/en-us/azure/architecture/checklist/dev-ops
 * http://devopschecklist.com/
 * https://medium.com/devopslinks/the-15-point-devops-check-list-8cd2afb4a448
@@ -26,7 +26,7 @@ Checklists
 
 
 
-Useful Sites
+### Useful Sites
 * https://dzone.com/devops-tutorials-tools-news
 * https://continuousdelivery.com/
   * https://continuousdelivery.com/principles/
@@ -38,14 +38,20 @@ Useful Sites
 
 
 
-Videos
+### Videos
 * 2009
   * [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Per Day at Flicker](https://www.youtube.com/watch?v=LdOe18KhtT4)
 
 
 
-Books
+### Suggested Books
 * [The Phoenix Project](http://itrevolution.com/book/the-phoenix-project/)
 * [The Jumpstart Up](https://leanpub.com/the-jumpstart-up) 
 
+
+### Interesting Articles
+* 2018 
+  * [2018 Accelerate: State of DevOps Strategies for a New Economy](https://cloudplatformonline.com/rs/248-TPC-286/images/DORA-State%20of%20DevOps.pdf)
+    * https://cloudplatformonline.com/2018-state-of-devops.html 
+    * https://jaxenter.com/devops-research-2018-148805.html
 
