@@ -107,3 +107,8 @@ ElasticSearch Resources
   * https://github.com/serilog/serilog-sinks-elasticsearch
 
 
+
+### Azure Resources
+* Bitnami
+  * https://docs.bitnami.com/azure/apps/elasticsearch/
+
