@@ -20,6 +20,18 @@ Logging Resources
 * https://github.com/elmahio/Elmah.Io.Extensions.Logging
 
 
+
+### Fluentd
+* https://www.fluentd.org/
+* https://docs.fluentd.org/v1.0/articles/quickstart
+* https://www.fluentd.org/plugins/all
+* https://fluentbit.io/documentation/current/
+  * Fluent Bit is a Fast and Lightweight Log Processor and Forwarder for Linux, OSX and BSD family operating system
+* https://www.fluentd.org/slides
+* https://www.fluentd.org/videos
+
+
+
 ### GELF
 * http://docs.graylog.org/en/2.5/pages/gelf.html
 * https://github.com/mattwcole/gelf-extensions-logging
