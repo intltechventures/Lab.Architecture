@@ -26,10 +26,20 @@ Logging Resources
   * "GELF provider for Microsoft.Extensions.Logging for sending logs to Graylog, Logstash and more from .NET Standard 1.3+ compatible components."
 
 
+
+### Google Cloud
+* https://cloud.google.com/dotnet/
+* http://googleapis.github.io/google-cloud-dotnet/docs/
+  * "The Google Cloud Client Libraries for .NET support accessing Google Cloud Platform services in a way that significantly reduces the boilerplate code you have to write. The libraries provide high-level API abstractions so they're easier to understand. They embrace idioms of C#, work well with the standard library, and integrates better with your codebase."
+* https://googleapis.github.io/google-cloud-dotnet/
+  * "Google Cloud Client Libraries for .NET provide an idiomatic, intuitive, and natural way for .NET developers to integrate with Google Cloud Platform services, like Cloud Datastore and Cloud Storage."
+* https://github.com/googleapis/google-cloud-dotnet
+  * ".NET idiomatic client libraries for Google Cloud Platform services."
+
+
 ### Graylog
 * https://www.graylog.org/
   * "Graylog is a centralized logging solution that allows the user to aggregate and search through logs. It provides a powerful query language, a processing pipeline for data transformation, alerting abilities and much more. It is fully extensible through a REST API. Add-Ons can be downloaded from the Graylog Marketplace."
-
 * https://www.graylog.org/products/open-source
 * https://www.graylog.org/products/open-source-vs-enterprise
 * https://marketplace.graylog.org/
@@ -91,7 +101,7 @@ Logging Resources
   * https://www.nuget.org/packages/NLog
 * https://github.com/NLog/NLog
 * https://github.com/NLog/NLog.Extensions.Logging
-
+* https://github.com/justeat/NLog.StructuredLogging.Json#best-practices
 
 
 ### Sentry.io
@@ -112,6 +122,9 @@ Logging Resources
 ### Serilog
 * https://serilog.net/
 * https://github.com/serilog/serilog
+* https://github.com/serilog/serilog-extensions-logging
+  * A Serilog provider for Microsoft.Extensions.Logging, the logging subsystem used by ASP.NET Core.
+
 
 
 
@@ -123,6 +136,8 @@ Logging Resources
 
 
 ### Interesting Articles
+* Software Engineering Stack Exchange
+  * [Benefits of Structured Logging vs basic logging](https://softwareengineering.stackexchange.com/questions/312197/benefits-of-structured-logging-vs-basic-logging)
 * 2018
   * https://jaxenter.com/devops-guide-log-management-tools-148468.html
 
