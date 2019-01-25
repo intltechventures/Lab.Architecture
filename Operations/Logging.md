@@ -100,6 +100,11 @@ Logging Resources
 * nuget.org
   * https://www.nuget.org/packages/NLog
 * https://github.com/NLog/NLog
+* https://github.com/NLog/NLog/wiki/
+  * https://github.com/NLog/NLog/wiki/Tutorial
+  * https://github.com/NLog/NLog/wiki/Examples
+  * https://github.com/NLog/NLog/wiki/Web-resources
+* https://nlog-project.org/config/
 * https://github.com/NLog/NLog.Extensions.Logging
 * https://github.com/justeat/NLog.StructuredLogging.Json#best-practices
 
