@@ -1,6 +1,7 @@
 
 Elastic Stack Resources
 ====
+(NOTE the ">>>" entires as suggested first-look)
 
 ### References
 * https://www.elastic.co/
@@ -19,7 +20,7 @@ Elastic Stack Resources
 * Elastic Docker Images
   * https://hub.docker.com/search/?q=ELK&type=image
 
-  * Install Elasticsearch with Docker
+  * ">>>" Install Elasticsearch with Docker
     * https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
     * https://www.elastic.co/guide/en/elasticsearch/reference/6.5/docker.html
       * ```docker pull docker.elastic.co/elasticsearch/elasticsearch:6.5.4```
@@ -29,10 +30,12 @@ Elastic Stack Resources
     * "At Elastic, we care about Docker. We provide Docker images for all the products in our stack, and we consider them a first-class distribution format. We also host a dedicated Docker Registry to provide the best possible experience and the most reliable service for you."
     * "On this page, you'll find all the resources — docker commands, links to product release notes, documentation and source code — for installing and using the Docker images."
 
-* https://www.elastic.co/blog/a-full-stack-in-one-command
-  * "As illustrated above, as well as starting containers for Elasticsearch, Kibana and each of our Beats, we spin up instances of NGINX, Apache2 and MySQL.  These provide interfaces for Metricbeat modules (apache, nginx, mysql) to monitor, as well as generating logs that can be consumed by equivalent modules in Filebeat (apache2, nginx, mysql). Furthermore, with some careful bind-mounting of local filesystem locations, Metricbeat can be used to monitor both the host's system statistics (via the system module) and the Docker containers themselves (via the docker module).  Filebeat can additionally be used to collect and ingest the host's system logs using its equivalent of the system module, as well as the Docker JSON logs generated as a result of the containers sending their output to stdout. We use Packetbeat to collect and monitor any DNS, HTTP, or other layer-7 traffic traffic occurring on the host, including MySQL transaction data. Although not illustrated above (to avoid a spider web of connecting lines), Heartbeat monitors all other containers via ICMP,  performs health checks against Kibana, Elasticsearch, Apache2 and NGINX over HTTP, and against MySQL through a raw TCP socket connection."
+* ">>>" ELastic full install, in one command
+  * https://www.elastic.co/blog/a-full-stack-in-one-command
+    * "As illustrated above, as well as starting containers for Elasticsearch, Kibana and each of our Beats, we spin up instances of NGINX, Apache2 and MySQL.  These provide interfaces for Metricbeat modules (apache, nginx, mysql) to monitor, as well as generating logs that can be consumed by equivalent modules in Filebeat (apache2, nginx, mysql). Furthermore, with some careful bind-mounting of local filesystem locations, Metricbeat can be used to monitor both the host's system statistics (via the system module) and the Docker containers themselves (via the docker module).  Filebeat can additionally be used to collect and ingest the host's system logs using its equivalent of the system module, as well as the Docker JSON logs generated as a result of the containers sending their output to stdout. We use Packetbeat to collect and monitor any DNS, HTTP, or other layer-7 traffic traffic occurring on the host, including MySQL transaction data. Although not illustrated above (to avoid a spider web of connecting lines), Heartbeat monitors all other containers via ICMP,  performs health checks against Kibana, Elasticsearch, Apache2 and NGINX over HTTP, and against MySQL through a raw TCP socket connection."
 
-  * https://github.com/elastic/stack-docker
+  * ">>>" Install Elsatic Stack, running on a single machine
+    * https://github.com/elastic/stack-docker
     * The Elastic Stack, on Docker, right now. 
       * "This example Docker Compose configuration demonstrates many components of the Elastic Stack, all running on a single machine under Docker."
       * "At least 4GiB of RAM for the containers. Windows and Mac users must configure their Docker virtual machine to have more than the default 2 GiB of RAM"
@@ -42,16 +45,16 @@ Elastic Stack Resources
     * Official Kibana Docker image 
     * The images have been tested on Docker 17.03.1-ce.
 
-  * https://hub.docker.com/r/sebp/elk
+  * ">>>" Popular Docker contributed image for Elastic Search
+    * https://hub.docker.com/r/sebp/elk
     * NOTE: Over 5M downloads...
     * This Docker image provides a convenient centralised log server and log management web interface, by packaging Elasticsearch, Logstash, and Kibana, collectively known as ELK.
     * https://github.com/spujadas/elk-docker
 
-* ```For Azure```
+* ">>>" ```For Azure```
   * https://www.elastic.co/guide/en/logstash/current/azure-module.html
     * "The Microsoft Azure module in Logstash helps you easily integrate your Azure activity logs and SQL diagnostic logs with the Elastic Stack."
     * "You can monitor your Azure cloud environments and SQL DB deployments with deep operational insights across multiple Azure subscriptions. You can explore the health of your infrastructure in real-time, accelerating root cause analysis and decreasing overall time to resolution."
-    * "
     * "The Elastic Stack version 6.4 (or later) is required for this module."
     * "Azure Monitor should be configured to stream logs to one or more Event Hubs. Logstash will need to access these Event Hubs instances to consume your Azure logs and metrics."
     * "An Azure Blob Storage account is an essential part of Azure-to-Logstash configuration. It is required for users who want to scale out multiple Logstash instances to consume from Event Hubs."
@@ -62,7 +65,7 @@ Elastic Stack Resources
   * [Deployment of Kibana+Elasticsearch Containers with Docker Compose](https://github.com/Azure/azure-quickstart-templates/tree/master/docker-kibana-elasticsearch)
     * "This template allows you to deploy an Ubuntu Server 15.04 VM with Docker (using the Docker Extension) and starts a Kibana container listening on port 5601 which uses Elasticsearch database running in a separate but linked Docker container, which are created using Docker Compose capabilities of the Azure Docker Extension."
 
-* Examples:
+* ">>>" Examples:
   * https://github.com/elastic/examples
     * "Home for Elasticsearch examples available to everyone. It's a great way to get started."
     * "This is a collection of examples to help you get familiar with the Elastic Stack and X-Pack. Each example folder includes a README with detailed instructions for getting up and running with the particular example. The following information pertains to the examples repo as a whole."
