@@ -11,6 +11,7 @@ Privacy Regulation Resources
 
 
 ### GDRP 
+* http://www.sqlservercentral.com/articles/GDPR/165180/
 
 
 ### NYDFS
