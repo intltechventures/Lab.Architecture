@@ -36,7 +36,7 @@ Resources for Genetic Algorithms to Auto-Generate Test Cases (and/or Test Data)
 
 
 
-### Interesting Githoub Resources
+### Interesting Github Resources
 * TBD...
 
 
