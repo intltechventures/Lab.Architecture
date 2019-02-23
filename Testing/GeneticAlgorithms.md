@@ -2,7 +2,63 @@
 Resources for Genetic Algorithms to Auto-Generate Test Cases (and/or Test Data)
 ====
 
+
 ### Background Reading
+* https://en.wikipedia.org/wiki/Genetic_algorithm
+  * "In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on bio-inspired operators such as mutation, crossover and selection.[1] John Holland introduced genetic algorithms in 1960 based on the concept of Darwin’s theory of evolution; afterwards, his student Goldberg extended GA in 1989.[2]"
+
+* https://en.wikipedia.org/wiki/Evolutionary_algorithm
+  * "In artificial intelligence, an evolutionary algorithm (EA) is a subset of evolutionary computation,[1] a generic population-based metaheuristic optimization algorithm. An EA uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection. Candidate solutions to the optimization problem play the role of individuals in a population, and the fitness function determines the quality of the solutions (see also loss function). Evolution of the population then takes place after the repeated application of the above operators."
+  * "Evolutionary algorithms often perform well approximating solutions to all types of problems because they ideally do not make any assumption about the underlying fitness landscape. Techniques from evolutionary algorithms applied to the modeling of biological evolution are generally limited to explorations of microevolutionary processes and planning models based upon cellular processes. In most real applications of EAs, computational complexity is a prohibiting factor.[2] In fact, this computational complexity is due to fitness function evaluation. Fitness approximation is one of the solutions to overcome this difficulty. However, seemingly simple EA can solve often complex problems[citation needed]; therefore, there may be no direct link between algorithm complexity and problem complexity."
+
+* https://en.wikipedia.org/wiki/All-pairs_testing
+  * "Using carefully chosen test vectors, this can be done much faster than an exhaustive search of all combinations of all parameters, by "parallelizing" the tests of parameter pairs."
+
+* https://en.wikipedia.org/wiki/Orthogonal_array_testing
+  * "Orthogonal array testing is a black box testing technique that is a systematic, statistical way of software testing.[1][2] It is used when the number of inputs to the system is relatively small, but too large to allow for exhaustive testing of every possible input to the systems.[1] It is particularly effective in finding errors associated with faulty logic within computer software systems.[1] Orthogonal arrays can be applied in user interface testing, system testing, regression testing, configuration testing and performance testing. The permutations of factor levels comprising a single treatment are so chosen that their responses are uncorrelated and therefore each treatment gives a unique piece of information. *```The net effects of organizing the experiment in such treatments is that the same piece of information is gathered in the minimum number of experiments```*."
+  * "Testing cycle time is reduced and analysis is simpler."
+  * "Test cases are balanced, so it's straightforward to isolate defects and assess performance. This provides a significant cost savings over pair-wise testing."
+
+
+
+### Software Libraries/Frameworks (TBD...)
+* C/C++
+* C#
+* Java
+* JavaScript
+* Python
+* R
+
+
+
+### Interesting Githoub Resources
+* TBD...
+
+
+
+### Background Reading, Academic Papers: Still need to read, select, sort & organize 
+* Path-oriented test cases generation based adaptive genetic algorithm
+  * https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187471
+* A Review of Random Test Case Generation using Genetic Algorithm
+  * http://www.indjst.org/index.php/indjst/article/viewFile/107654/81470
+* Path Coverage Test Case Generation Using Genetic Algorithms
+  * http://journal.utem.edu.my/index.php/jtec/article/viewFile/2230/1348
+* Test Data Generation Using Genetic Algorithms
+  * https://www.cc.gatech.edu/~harrold/6340/cs6340_fall2009/Readings/pga.pdf
+* Optimization of Test Case Generation using Genetic Algorithm (GA)
+  * https://arxiv.org/ftp/arxiv/papers/1612/1612.08813.pdf
+* Efficient Software Test Case Generation Using Genetic Algorithm Based Graph Theory
+  * https://dl.acm.org/citation.cfm?id=1445617
+* Genetic Algorithm-Based Test Data Generation for Multiple Paths via Individual Sharing
+  * https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4323069/
+* Automatic Generation of Test Case based on GATS Algorithm
+  * https://www.computer.org/csdl/proceedings/grc/2009/4830/00/05255070.pdf
+* Generating Test Case for Object-Oriented Software Using Genetic Algorithm and Mutation Testing Method
+  * https://econpapers.repec.org/article/iggjamc00/v_3a3_3ay_3a2012_3ai_3a1_3ap_3a15-23.htm
+
+
+
+### Background Reading, Academic Papers
 * 2017
   * [Genetic Algorithm Approach For Test Case Generation Randomly: A Review](https://www.researchgate.net/publication/320038807_Genetic_Algorithm_Approach_For_Test_Case_Generation_Randomly_A_Review)
     * International Journal of Computer Trends and Technology (IJCTT) – Volume 49 Number 4 July 2017
@@ -39,4 +95,10 @@ are compared and improvements have been observed over random and hamming code te
 * 2010
   * [Using genetic algorithms for test case generation and selection optimization, Izzat Alsmadi](https://ieeexplore.ieee.org/document/5575262)
     * Abstract: "Genetic Algorithms (GAs) are adaptive search techniques that imitate the processes of evolution to solve optimization problems when traditional methods are considered too costly in terms of processing time and output effectiveness. In This research, we will use the concept of genetic algorithms to optimize the generation of test cases from the application user interfaces. This is accomplished through encoding the location of each control in the GUI graph to be uniquely represented and forming the GUI controls' graph. After generating a test case, the binary sequence of its controls is saved to be compared with future sequences. This is implemented to ensure that the algorithm will generate a unique test case or path through the GUI flow graph every time"
+
+* 2008
+  * [Efficient Software Test Case Generation Using Genetic Algorithm Based Graph Theory](https://www.computer.org/csdl/proceedings/icetet/2008/3267/00/3267a298-abs.html)
+    * Emerging Trends in Engineering & Technology, International Conference on (2008)
+    * Authors: Velur Rajappa, Arun Biradar, Satanik Panda
+    * Abstract: "In orthodox software testing approach we generally use modeling based testing approach for generating the test cases of a given problem. This leads to confusion of the test input and the expected output for a given test case. More over we also can miss some of the test cases due to lack of clarity in the test paths. To over come such sort of predictive modeling we propose graph theory based genetic approach to generate test cases for software testing. At first we will create a directed graph of all the intermediate state of the system for the expected behavior of the system. Then we will create a population of all the nodes of the graph as the base population of genetic algorithm. From this population we can find a pair of node the parents and perform genetic crossover and mutation on them for the getting the optimum child nodes as the out put. We should continue this process of genetic operation until all the nodes are covered or any of the nodes, which are visited more than once, should be discarded form the population. Then follow the same process for the generation of test case in the real time system. This technique will be more concrete in case of network testing or any of the system testing where the predictive model based tests are not optimized to produced the out put."
 
