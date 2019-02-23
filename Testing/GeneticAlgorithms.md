@@ -2,6 +2,11 @@
 Resources for Genetic Algorithms to Auto-Generate Test Cases (and/or Test Data)
 ====
 
+### TO-DO
+* Add DOI citation to each academic paper entry
+* Organize academic papers, within year, by publication date, in descending order
+
+
 
 ### Background Reading
 * https://en.wikipedia.org/wiki/Genetic_algorithm
@@ -92,9 +97,16 @@ are compared and improvements have been observed over random and hamming code te
     * "Although the cost incurred in producing N versions of the same module will be large but by using the technique judiciously in those modules only where a high level of reliability is required, the benefits accrued override the cost incurred."
       * KM Commentary: ```Where is the data and anlaysis to support this opinion, statd as fact?```
 
+  * [Generating Test Case for Object-Oriented Software Using Genetic Algorithm and Mutation Testing Method](https://www.igi-global.com/article/generating-test-case-object-oriented/64641)
+    * Authors: Yamina Mohamed Ben Ali (University of Badji Mokhtar, Algeria) and Fatma Benmaiza (University of Badji Mokhtar, Algeria)
+    * International Journal of Applied Metaheuristic Computing (IJAMC) 3(1)
+    * Abstract "This paper presents an automatic creation of software test cases based on the use of a genetic algorithm and a mutation testing technique. The aim of this work is then the optimization of a score function in order to give the best set of optimal test case needed for testing an oriented-object program. Therefore, the proposed search-based approach generates in a first time a set of mutants according to an input program for testing the output of methods belonging in the tested class. On the second time, the output of the mutants and the input program are compared to evaluate the performance of all chromosomes in the genetic population. Finally, at the end of the chromosomes evolution the best test case in retrieved as the optimal one"
+
+
 * 2010
   * [Using genetic algorithms for test case generation and selection optimization, Izzat Alsmadi](https://ieeexplore.ieee.org/document/5575262)
     * Abstract: "Genetic Algorithms (GAs) are adaptive search techniques that imitate the processes of evolution to solve optimization problems when traditional methods are considered too costly in terms of processing time and output effectiveness. In This research, we will use the concept of genetic algorithms to optimize the generation of test cases from the application user interfaces. This is accomplished through encoding the location of each control in the GUI graph to be uniquely represented and forming the GUI controls' graph. After generating a test case, the binary sequence of its controls is saved to be compared with future sequences. This is implemented to ensure that the algorithm will generate a unique test case or path through the GUI flow graph every time"
+
 
 * 2008
   * [Efficient Software Test Case Generation Using Genetic Algorithm Based Graph Theory](https://www.computer.org/csdl/proceedings/icetet/2008/3267/00/3267a298-abs.html)
