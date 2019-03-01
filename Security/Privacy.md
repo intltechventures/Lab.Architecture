@@ -23,4 +23,6 @@ Privacy Regulation Resources
 
 
 
-
+### News, Articles
+* 2019
+  * [This Is How the Federal Government Can – and Can’t – Use Census Information](https://www.brennancenter.org/blog/how-federal-government-can-and-cant-use-census-information)
