@@ -38,8 +38,11 @@ Cloud Computing Architecture Resources
 
 
 
-### Articles
-* https://www.infoq.com/minibooks/emag-cloud-portability
+### Articles, News Sources
+* http://highscalability.com/
+* https://medium.com/s-c-a-l-e
+* https://insidehpc.com/
+
 * 2018
   * [ZDnet: What is cloud computing? Everything you need to know about the cloud, explained](https://www.zdnet.com/article/what-is-cloud-computing-everything-you-need-to-know-from-public-and-private-cloud-to-software-as-a/)
   * [InfoWorld: What is cloud computing? Everything you need to know now](https://www.infoworld.com/article/2683784/what-is-cloud-computing.html?nsdr=true)
@@ -54,6 +57,11 @@ Cloud Computing Architecture Resources
 
 
 ### Suggested Books for Management
+* https://www.infoq.com/cloud/
+* https://www.infoq.com/cloud-computing
+* https://www.infoq.com/minibooks/
+
+
 * KM Commentary: Thomas Erl is an excellent writer that makes complex topics easy to understand - I have several of his books in my personal library.
   * [Cloud Computing: Concepts, Technology & Architecture (The Prentice Hall Service Technology Series from Thomas Erl) 1st Edition](https://www.amazon.com/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)
   * [Cloud Computing Design Patterns (paperback) (The Prentice Hall Service Technology Series from Thomas Erl) 1st Edition](https://www.amazon.com/gp/product/0134767411/ref=dbs_a_def_rwt_bibl_vppi_i2)
