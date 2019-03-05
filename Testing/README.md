@@ -97,7 +97,6 @@ Testing Resources
   * https://github.com/robotframework/robotframework
   * https://twitter.com/robotframework
 
-  
 
 * Cucumber
   * https://en.wikipedia.org/wiki/Cucumber_(software)
@@ -133,6 +132,20 @@ Testing Resources
   * https://en.wikipedia.org/wiki/Spock_(testing_framework)
     * "Spock is a Java testing framework capable of handling the full life cycle of a computer program. It was initially created in 2008 by Peter Niederwieser, a software engineer with GradleWare. A second Spock committer is Luke Daley who is also the creator of the popular Geb functional testing framework."
 
+
+### Testing Tooling: API focused
+* Dredd - HTTP API Testing Framework
+  * https://dredd.org/en/latest/
+    * Languages supported:
+      * Go
+      * Node.js (JavaScript)
+      * Perl
+      * PHP
+      * Python
+      * Ruby
+      * Rust
+  * "Language-agnostic HTTP API Testing Tool"
+  * https://github.com/apiaryio/dredd
 
 
 
