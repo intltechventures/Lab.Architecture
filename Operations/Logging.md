@@ -121,6 +121,16 @@ Logging Resources
 * https://github.com/justeat/NLog.StructuredLogging.Json#best-practices
 
 
+
+### Scalyr 
+* https://www.scalyr.com/
+* https://www.scalyr.com/blog
+* https://www.scalyr.com/product
+* https://www.scalyr.com/pricing
+* https://twitter.com/scalyr
+
+
+
 ### Sentry.io
 * https://sentry.io/welcome/
 * https://sentry.io/features/
