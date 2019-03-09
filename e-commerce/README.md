@@ -11,7 +11,7 @@ E-Commerce Solutions
 ### E-Commerce Platforms
 * https://www.shopify.com/
 * https://www.flow.io/
-
+* https://gumroad.com/
 
 
 ### News
