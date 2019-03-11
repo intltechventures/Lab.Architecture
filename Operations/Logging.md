@@ -64,6 +64,25 @@ Logging Resources
 
 
 
+### Humio
+* https://humio.com/
+  * (based in Denmark?)
+* https://humio.com/features
+* https://humio.com/pricing
+* https://docs.humio.com/
+  * https://docs.humio.com/configuration/
+  * https://docs.humio.com/configuration/authentication/
+    * "Authentication disabled by default"
+    * Also supports: "SAML SSO Leverages a SAML 2.0 compatible IDP for a seamless single sign-on experience"
+  * https://docs.humio.com/integrations/
+  * https://docs.humio.com/administration/backup/
+    * "The files written on the backup drive are encrypted using a secret provided in the configuration of Humio to allow storing the backup on e.g. a network drive where others may have read access."
+* https://humio.com/getting-started
+* https://cloud.humio.com/
+* https://docs.humio.com/tutorial/
+
+
+
 ### JSNLog
 * http://jsnlog.com/
   * Log JavaScript client side events in your server side logs
