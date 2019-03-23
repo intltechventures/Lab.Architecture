@@ -92,6 +92,16 @@ Useful Visualization Resources
 ###...to organize
 * http://www.jeromecukier.net/blog/category/charts/
 
+
+### Anime.js
+* https://animejs.com/
+* https://github.com/juliangarnier/anime	
+* JavaScript animation engine 
+  * "Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API."
+  * "It works with CSS properties, SVG, DOM attributes and JavaScript Objects."
+
+
+
 ### D3.js
 * https://leanpub.com/d3-t-and-t-v4
 * https://bl.ocks.org/d3noob
