@@ -57,8 +57,15 @@ re: Application Portfolio Monitorintg (APM) tool
   * https://www.datadoghq.com/blog/sql-server-performance/
   * https://www.datadoghq.com/blog/sql-server-metrics/
 * Azure
+  * [How to collect Azure metrics](https://www.datadoghq.com/blog/how-to-collect-azure-metrics/)
   * [Monitor your Azure SQL Databases with Datadog](https://www.datadoghq.com/blog/monitor-azure-sql-databases-datadog/)
+  * [Monitor your Azure App Service applications with Datadog](https://www.datadoghq.com/blog/monitor-azure-app-service-applications-datadog/)
+  * [Microsoft Azure App Service](https://docs.datadoghq.com/integrations/azure_app_services/)
+  * [Monitor Azure Kubernetes Service with Datadog](https://www.datadoghq.com/blog/announcing-aks/)
 * AWS 
   * [Using Enhanced RDS Monitoring with Datadog](https://aws.amazon.com/blogs/aws/using-enhanced-rds-monitoring-with-datadog/)
+
+
+
 
 
