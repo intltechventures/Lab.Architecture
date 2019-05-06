@@ -35,10 +35,10 @@
     * deliver and support. 
 
 - Four dimensiions model: 
-  + People
-  + Products
-  + Partners
-  + Processes
+  + People (and, Organizations)
+  + Products (and, Information)
+  + Partners (and, Suppliers)
+  + Processes (and, Value Streams)
 
 - "ITIL processes are now named as practices... grouped as 14 general management practices, 17 service management practices, and three technical management practices."
 
@@ -64,4 +64,45 @@
     * How do we keep the momentum going?
 
 
+## 14 General Management Practices
+- Strategy management
+- Portfolio management
+- Architecture management
+- Service financial management
+- Workforce and talent management
+- Continual improvement - The operational, day-to-day part of continual improvement along with the strategic view and the improvement of the service value chain.
+- Measurement and reporting
+- Risk management - A link to ISO 31000:2018 Risk Management as a summary to have a step in.
+- Information security management
+- Knowledge management
+- Organizational change management
+- Project management
+- Relationship management
+- Supplier management
+
+
+## 17 Service Management Practices
+- Business analysis
+- Service catalogue management
+- Service design
+- Service level management
+- Availability management
+- Capacity and performance management
+- Service continuity management
+- Monitoring and event management
+- Service desk
+- Incident management
+- Service request management - Includes both Request Fulfilment and Access Management of ITIL V3
+- Problem management
+- Release management - Includes an explanation about releases in waterfall driven environments and DevOps driven organizations.
+- Change control - Formerly known as change management.
+- Service validation and testing
+- Service configuration management
+- IT asset management
+
+
+## 3 Technical Management Practices
+- Deployment management - In alignment with release management and change control for the administrative activities deployment management carries out all real doing on systems and clouds. Including a list of different approaches of deployment.
+- Infrastructure and platform management - It comes with a wide alignment for cloud computing.
+- Software development and management
 
