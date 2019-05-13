@@ -1,12 +1,15 @@
 
-References
+# Serverless Architecture Resources 
+
+## References / Overviews / Introductions
 * https://en.wikipedia.org/wiki/Serverless_computing
 * https://www.quora.com/What-is-Serverless-Computing
 * https://developer.ibm.com/openwhisk/media/#serverless
 * https://martinfowler.com/articles/serverless.html
+* https://www.zdnet.com/article/executives-guide-to-serverless-architecture/
 
 
-Supporting Platforms
+## Supporting Platforms
 * AWS
   * https://en.wikipedia.org/wiki/AWS_Lambda
   * https://aws.amazon.com/lambda/
@@ -33,12 +36,17 @@ Supporting Platforms
 
 
 
-Github Resources
+## Github Resources
 * https://github.com/anaibol/awesome-serverless
 
 
 
-Interesting Articles
+## Interesting Articles
+
+* 2019 
+
+* 2018
+
 * 2017
   * https://redmonk.com/fryan/2017/03/02/serverless-redefining-devops/
   * http://www.infoworld.com/article/3193393/cloud-computing/why-everyones-so-excited-about-serverless-computing.html
