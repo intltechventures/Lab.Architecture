@@ -1,8 +1,7 @@
 
-Americans with Disabilities Act (ADA), Compliance Resources
-====
+# Americans with Disabilities Act (ADA), Compliance Resources
 
-### References
+## References
 * https://en.wikipedia.org/wiki/Web_Accessibility_Initiative#User_Agent_Accessibility_Guidelines_(UAAG)
 * https://www.ada.gov/
 * ADA Best Practices Tool Kit for State and Local Governments
@@ -10,13 +9,13 @@ Americans with Disabilities Act (ADA), Compliance Resources
 
 
 
-### Web Content Accessbility Guidelines (WCAG) Resources (2.1)
+## Web Content Accessbility Guidelines (WCAG) Resources (2.1)
 * https://www.w3.org/TR/WCAG21/
 * https://w3c.github.io/wcag/21/guidelines/
 * https://www.w3.org/WAI/standards-guidelines/wcag/new-in-21/
 
 
-### Web Content Accessbility Guidelines (WCAG) Resources (2.0)
+## Web Content Accessbility Guidelines (WCAG) Resources (2.0)
 * Web Content Accessibility Guidelines (WCAG) Overview
   * https://www.w3.org/WAI/standards-guidelines/wcag/
   * https://www.w3.org/TR/WCAG20/
@@ -28,7 +27,7 @@ Americans with Disabilities Act (ADA), Compliance Resources
 
 
 
-### Other Resources
+## Other Resources
 * https://webaccessibility.guide/
 * https://accessibilityinsights.io/en/
 * https://webaim.org/standards/wcag/ 
@@ -39,11 +38,13 @@ Americans with Disabilities Act (ADA), Compliance Resources
     * Section 508 Checklist - Note: superseded by WCAG 2.0/2.1
 
 
-### Section 508 of the U.S. Rehabilitation Act of 1973, as amended by the Workforce Investment Act of 1998.
+## Section 508 of the U.S. Rehabilitation Act of 1973, as amended by the Workforce Investment Act of 1998.
 * https://en.wikipedia.org/wiki/Section_508_Amendment_to_the_Rehabilitation_Act_of_1973
 
 
-### Articles
+## Articles
+* 2019 
+
 * 2018
   * Designing For Accessibility And Inclusion
     * https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/ 
@@ -62,7 +63,7 @@ Americans with Disabilities Act (ADA), Compliance Resources
         * Lens of Time
 
 
+## Suggested Consulting Resources:  
+- [Suzanne Singman, President at Usability Insights, Inc.](linkedin.com/in/suzanne-singman-88b784)
+  + http://www.usabilityinsights.com/
 
-
-### Also see:  
-* Section 508 of the U.S. Rehabilitation Act of 1973, as amended by the Workforce Investment Act of 1998.
