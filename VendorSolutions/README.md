@@ -6,3 +6,9 @@ This sub-directory of my Lab.Architecture repository is intended as a collection
 Often, during my client engagements - I am involved in the preliminary search/evaluation of potential vendor solutions - for solving large-scale enterprise business needs. Having these handy lists helps my ability to accelerate delivery of services to clients - and gives me a good starting point when I need to revisit a particular category. 
 
 
+## Possible Vendor Solutions, Revies & Comparison Resources
+- https://www.g2.com/
+
+
+
+
