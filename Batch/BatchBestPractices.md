@@ -252,8 +252,17 @@
   + External Third-Party Partners/Agencies
 
 
+# Appendices
 
-## 17. Batch Job Run Book Exemplar
+## A. Exemplars: Batch Principles
+
+## B. Exemplars: Batch Policies
+
+## C. Exemplars: Batch Standards
+
+## D. Exemplars: Batch Specifications
+
+## E. Exemplars: Batch Job Run Book 
 
 
 
