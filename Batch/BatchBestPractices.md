@@ -1,8 +1,12 @@
 
 # Batch Best Practices
+- by Kelvin D. Meeks
+- Work-in-progress, WORKING DRAFT
+
 
 ## 1. Introduction
 
+- This document is intended to provide an overview of lessons learned over the course of my career - that may be beneficial to other architects or engineers - who may not yet have had broad exposure to some of the different design patterns that can arise in the design of highly reliable (or high performance) batch integration architecture problems. 
 
 ## 2. Batch Domain Model
 
@@ -18,25 +22,33 @@
 
 ### 2.6 Process
 
-## 3. Batch Patterns & Concepts
+## 3. Batch Design Concepts, Patterns, and Anti-Patterns
 
-### 3.1 Pattern: Batch Control File
+### 3.1 Batch Design Concepts 
 
-### 3.2 Pattern: Header-Footer
+### 3.2 Batch Design Patterns
+#### 3.2.1 Pattern: Batch Control File
 
-### 2.3 Pattern: Single-Line Item Records
+#### 3.2.2 Pattern: Header-Footer
 
-### 2.4 Pattern: Multi-Line Item Records
+#### 3.2.3 Pattern: Single-Line Item Records
 
-### 2.5 Pattern: Parallel Item Processing
+#### 3.2.4 Pattern: Multi-Line Item Records
 
-### 2.6 Pattern: Chunking
+#### 3.2.5 Pattern: Parallel Item Processing
 
-### 2.7 Pattern: All-or-None
+#### 3.2.6 Pattern: Chunking
 
-### 2.8 Pattern: Error Threshhold 
+#### 3.2.7 Pattern: All-or-None
 
-### 2.9 Pattern: Rejected-Recovery
+#### 3.2.8 Pattern: Error Threshhold 
+
+#### 3.2.9 Pattern: Rejected-Recovery
+
+### 3.3 Batch Design Anti-Patterns
+
+#### 3.3.1 [m] x [n] Processing Loops
+
 
 
 ## 4. Technology Selection
@@ -188,6 +200,64 @@
 ### 15.2 Disadvantage of Batch Processing
 
 ### 15.3 Advantages of Batch Processing
+
+
+
+## 16. Batch Design Checklists
+
+- Input Data Quality
+  + Missing Data
+  + Incorrectly Labeled Fields
+  + Invalid Data in Fields
+  + Mixed Use Fields
+    * Concatentated Data in Single Field
+      * Delimiter Usage
+      * Consistent Delimiter Usage
+- Input Data Format
+  + Encoding
+    * UTF-8
+    * ASCII
+    * EBSIDIC
+  + Record Type
+    * Fixed Length
+    * Variable Length
+      * Delimiter Selection
+    * JSON
+    * XML
+    * Binary
+ 
+- Average Record Size
+- Average Record Count
+- Average File Size
+
+- {Inbound | Outbound} File Retention Requirments
+
+- Expected Average Max Batch Job Duration
+
+- Pre-Processing Job Step Dependencies
+
+- Post-Processing Job Step Dependencies
+
+- {Source | Target} System Dependencies
+  + System Availability Windows
+
+- Escalation Procedures for Job Execution Issues
+
+- Contract Details, for:
+  + Operations 
+  + Engineering 
+    * Development Team
+    * Support Staff
+  + Business Stakeholders
+  + External Third-Party Partners/Agencies
+
+
+
+## 17. Batch Job Run Book Exemplar
+
+
+
+
 
 
 
