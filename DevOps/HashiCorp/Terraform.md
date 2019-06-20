@@ -22,7 +22,7 @@
 
 ## Tutorials
 - https://learn.hashicorp.com/terraform/
-
+- https://learn.hashicorp.com/terraform/getting-started/install.html
 
 
 ## Provisioners
