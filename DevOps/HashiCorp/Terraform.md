@@ -15,6 +15,10 @@
 ## CLI 
 - https://www.terraform.io/docs/cli-index.html
 
+## Download
+- https://www.terraform.io/downloads.html
+  + https://www.hashicorp.com/security.html
+
 
 ## Tutorials
 - https://learn.hashicorp.com/terraform/
@@ -22,6 +26,7 @@
 
 
 ## Provisioners
+- https://www.terraform.io/docs/provisioners/index.html
 
 ### Docker:
 - https://www.terraform.io/docs/providers/docker/index.html
