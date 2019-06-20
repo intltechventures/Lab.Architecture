@@ -2,6 +2,7 @@
 # Terraform (HashiCorp) Resources
 
 ## References
+- https://www.terraform.io/
 - https://www.terraform.io/docs/index.html
 - https://www.terraform.io/intro/index.html
 - https://www.terraform.io/docs/configuration/index.html
