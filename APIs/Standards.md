@@ -53,12 +53,16 @@
 
 ## OpenAPI Specification (OAS)
 - https://openapis.org
-- https://github.com/OAI/OpenAPI-Specification
-- OAS 2.0 
-  + https://swagger.io/specification/v2/
-- OAS 3.0 
-  + https://swagger.io/specification/
 
+- https://github.com/oai
+
+- https://github.com/OAI/OpenAPI-Style-Guide
+  + "On Nov. 5, 2015, SmartBear in conjunction with 3Scale, Apigee, Capital One, Google, IBM, Intuit, Microsoft, PayPal, and Restlet announced the formation of the OpenAPI Initiative, an open source project under the Linux Foundation. As part of the formation of the OAI, SmartBear donated the Swagger specification to the Linux Foundation, meaning that the OpenAPI Specification is semantically identical to the specification formerly known as the Swagger 2.0 specification. It is widely recognized as the most popular open source framework for defining and creating RESTful APIs, and today tens of thousands of developers are building thousands of open source repos of tools leveraging the OpenAPI Specification. In 2010, the Swagger specification was created by Wordnik, who published it under an open source license one year later. In March of 2015, SmartBear acquired Wordnik's interests in the Swagger projects from its parent company, Reverb Technologies."
+
+- https://github.com/OAI/OpenAPI-Specification
+  + https://github.com/OAI/OpenAPI-Specification/tree/master/versions
+    * https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md
+    * https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md
 
 
 ## Swagger
@@ -66,6 +70,11 @@
   + https://swagger.io/resources/open-api/
   + https://swagger.io/solutions/getting-started-with-oas/
   + https://swagger.io/docs/open-source-tools/swagger-editor/
+  + https://swagger.io/docs/specification/about/
+    * https://swagger.io/specification/v2/
+    * https://swagger.io/specification/
+  + https://swagger.io/tools/open-source/open-source-integrations/   
+
 - https://en.wikipedia.org/wiki/Swagger_(software)
   + "In November 2015, SmartBear Software, the company that maintained Swagger, announced that it was helping create a new organization, under the sponsorship of the Linux Foundation, called the Open API Initiative. A variety of companies, including Google, IBM and Microsoft are founding members."
   + On 1 January 2016, the Swagger specification was renamed to OpenAPI Specification, and was moved to a new repository in [GitHub](https://github.com/OAI/OpenAPI-Specification)
