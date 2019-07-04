@@ -4,9 +4,9 @@
 ## HTTP Response Codes
 - [RFC-7231:  Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content, 6.  Response Status Codes](https://tools.ietf.org/html/rfc7231#section-6)
 
-   +------+-------------------------------+--------------------------+
+    
    | Code | Reason-Phrase                 | Defined in...            |
-   +------+-------------------------------+--------------------------+
+   |------|-------------------------------|--------------------------|
    | 100  | Continue                      | Section 6.2.1            |
    | 101  | Switching Protocols           | Section 6.2.2            |
    | 200  | OK                            | Section 6.3.1            |
@@ -48,7 +48,6 @@
    | 503  | Service Unavailable           | Section 6.6.4            |
    | 504  | Gateway Timeout               | Section 6.6.5            |
    | 505  | HTTP Version Not Supported    | Section 6.6.6            |
-   +------+-------------------------------+--------------------------+
 
 
 
