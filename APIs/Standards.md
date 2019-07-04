@@ -74,6 +74,9 @@
     * https://swagger.io/specification/v2/
     * https://swagger.io/specification/
   + https://swagger.io/tools/open-source/open-source-integrations/   
+ 
+- http://editor.swagger.io/
+  + https://github.com/swagger-api/swagger-editor
 
 - https://en.wikipedia.org/wiki/Swagger_(software)
   + "In November 2015, SmartBear Software, the company that maintained Swagger, announced that it was helping create a new organization, under the sponsorship of the Linux Foundation, called the Open API Initiative. A variety of companies, including Google, IBM and Microsoft are founding members."
