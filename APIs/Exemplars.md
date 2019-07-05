@@ -34,7 +34,7 @@
 - https://developer.twitter.com/en/docs/api-reference-index
 
 
-## Open Weather APIs
+## OpenWeather APIs
 - https://openweathermap.org/api
 - https://openweathermap.org/guide
   + ```https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=YOUR_API_KEY```
