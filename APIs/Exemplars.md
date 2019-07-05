@@ -23,6 +23,15 @@
 
 
 
+## National Institute of Health (NIH)
+- U.S. National Library of Medicine
+  + National Center for Biotechnology Information (NCBI) 
+    * https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/
+    * The Entrez Programming Utilities (E-utilities) 
+      * https://www.ncbi.nlm.nih.gov/books/NBK25497/
+        * https://www.ncbi.nlm.nih.gov/books/NBK25497/#chapter2.The_Nine_Eutilities_in_Brief
+
+
 ## Twitter APIs
 - https://developer.twitter.com/en/docs.html
   + https://developer.twitter.com/en/docs/basics/authentication/overview/oauth
@@ -32,6 +41,7 @@
   + https://developer.twitter.com/en/docs/basics/cursoring
 - https://developer.twitter.com/en/docs/api-reference-index
 - https://developer.twitter.com/en/docs/api-reference-index
+
 
 
 ## OpenWeather APIs
