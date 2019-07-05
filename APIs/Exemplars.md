@@ -32,3 +32,16 @@
   + https://developer.twitter.com/en/docs/basics/cursoring
 - https://developer.twitter.com/en/docs/api-reference-index
 - https://developer.twitter.com/en/docs/api-reference-index
+
+
+## Open Weather APIs
+- https://openweathermap.org/api
+- https://openweathermap.org/guide
+  + ```https://api.openweathermap.org/data/2.5/weather?q=London,uk&appid=YOUR_API_KEY```
+- Selected APIs
+  + Current Weather:
+    * https://openweathermap.org/current
+  + Hourly forecast:
+    * https://openweathermap.org/api/hourly-forecast
+  + Forecast bulks (bulk download)
+
