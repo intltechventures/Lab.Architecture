@@ -1,6 +1,6 @@
 
 # Business Intelligence Vendor Solution Resources
-
+(...work in progress...)
 
 
 ## Apache Spark (Open Source)
