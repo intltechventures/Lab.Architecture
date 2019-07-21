@@ -9,6 +9,8 @@
 
 
 
+
+
 ## Related Patterns:
 
 ### EDA
@@ -19,8 +21,13 @@
 - https://microservices.io/patterns/data/saga.html
 
 
-## Github Resources
 
+## Suggested Books
+
+
+
+
+## Github Resources
 
 
 
@@ -33,8 +40,10 @@
 
 
 ### 2015
-- https://www.nginx.com/blog/event-driven-data-management-microservices/
-  * seven‑part series...
+- https://www.nginx.com/resources/library/designing-deploying-microservices/
+  + Seven-part series...
+    * 
+    * https://www.nginx.com/blog/event-driven-data-management-microservices/
 
 
 
