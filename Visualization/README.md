@@ -1,8 +1,7 @@
 
-Useful Visualization Resources
-==== 
+# Useful Visualization Resources
 
-### References
+## References
 * https://www.data-to-viz.com/
   * "From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid."
 * https://serialmentor.com/dataviz/
@@ -14,34 +13,41 @@ Useful Visualization Resources
   * "* "The Pudding explains ideas debated in culture with visual essays. By wielding original datasets, primary research, and interactivity, we try to thoroughly explore complex topics."
   * https://twitter.com/puddingviz
 
-	
 
-### Micrsoft Graph
+## Visualization Ideas...
+- Bret Victor
+  + http://worrydream.com/
+- Kaiser Fung,
+  + https://junkcharts.typepad.com/
+
+
+
+## Micrsoft Graph
 * https://developer.microsoft.com/en-us/graph
 
-### Machine Learning Visualization
+## Machine Learning Visualization
 * http://www.scikit-yb.org/en/latest/
   * "Yellowbrick is a suite of visual diagnostic tools called “Visualizers” that extend the Scikit-Learn API to allow human steering of the model selection process. In a nutshell, Yellowbrick combines scikit-learn with matplotlib in the best tradition of the scikit-learn documentation, but to produce visualizations for your models!"
 
 
   
-### Python Resources
+## Python Resources
 * https://python-graph-gallery.com/
 
 
 
-### R Resources
+## R Resources
 * https://www.r-graph-gallery.com/
 
 
   
-### AnyChart
+## AnyChart
 * https://www.anychart.com/
 * https://www.anychart.com/products/anychart/
 * https://www.anychart.com/products/anychart/gallery/
 
 
-### BriteCharts (leverages D3.js)
+## BriteCharts (leverages D3.js)
 * https://github.com/eventbrite/britecharts
   * https://www.npmjs.com/package/britecharts
 * https://www.eventbrite.com/engineering/introducing-britecharts/
@@ -49,26 +55,26 @@ Useful Visualization Resources
 * https://twitter.com/britecharts?lang=en
 
 
-### Plotly
+## Plotly
 * https://plot.ly/
   * https://plot.ly/javascript/heatmaps/
   * https://plot.ly/javascript/
   * https://github.com/plotly/plotly.js
 
-### Others to organize...
+## Others to organize...
 * http://stack.gl/
 * http://riccardoscalco.github.io/textures/
 * https://github.com/lferry007/LargeVis
 
-### Dygraphs
+## Dygraphs
 * http://dygraphs.com/
   * https://github.com/danvk/dygraphs
 
 
-### HighCharts.com
+## HighCharts.com
 * http://www.highcharts.com/
 
-### Dimple.js
+## Dimple.js
 * http://dimplejs.org/
   * https://github.com/PMSI-AlignAlytics/dimple
   * https://github.com/PMSI-AlignAlytics/dimple/wiki
@@ -76,24 +82,24 @@ Useful Visualization Resources
   * http://dimplejs.org/examples_viewer.html?id=bubbles_horizontal_grouped
   * http://dimplejs.org/advanced_examples_index.html
 
-### Blend4web
+## Blend4web
 * https://www.blend4web.com/en/
 
-### Babylon.js
+## Babylon.js
 * http://www.babylonjs.com/
 
-### ...to organize
+## ...to organize
 * https://github.com/JasonKessler/scattertext
 
 
-### Zinghart
+## Zinghart
 * https://www.zingchart.com
 
-###...to organize
+##...to organize
 * http://www.jeromecukier.net/blog/category/charts/
 
 
-### Anime.js
+## Anime.js
 * https://animejs.com/
 * https://github.com/juliangarnier/anime	
 * JavaScript animation engine 
@@ -102,7 +108,7 @@ Useful Visualization Resources
 
 
 
-### D3.js
+## D3.js
 * https://leanpub.com/d3-t-and-t-v4
 * https://bl.ocks.org/d3noob
 * https://bl.ocks.org/alandunning/18c5ec8d06938edd31968e2fd104a58a
@@ -129,28 +135,28 @@ Useful Visualization Resources
   * https://bl.ocks.org/pbeshai
     * https://bl.ocks.org/pbeshai/8008075f9ce771ee8be39e8c38907570 
 
-### Three.js
+## Three.js
 * https://threejs.org/
   * https://dzone.com/articles/html5-render-urban-population
 * http://datavizcatalogue.com/methods/bubble_chart.html
 
 
-### ...to organize
+## ...to organize
 * https://homes.cs.washington.edu/~jheer/
   * https://www.youtube.com/results?search_query=jeffrey+heer
 * https://visual.ly/blog/author/drew/
 * http://www.openheatmap.com
 
 
-### Angular-based Solutions
+## Angular-based Solutions
 * http://jtblin.github.io/angular-chart.js/
 
 
-### Chart.js
+## Chart.js
 * http://www.chartjs.org/
 
 
-### Structurizr
+## Structurizr
 * Structurizr is a publishing platform for software architecture diagrams and documentation based upon the C4 model; available as a free/paid cloud service and an on-premises installation
 * https://structurizr.com/
   * https://structurizr.com/help/tour
@@ -159,11 +165,11 @@ Useful Visualization Resources
 
 
 
-### Kibana
+## Kibana
 * Book: [Mastering Kibana 6.x: Visualize your Elastic Stack data with histograms, maps, charts, and graphs](https://www.amazon.com/Mastering-Kibana-6-x-Visualize-histograms/dp/1788831039/)
 
 
-### Observable
+## Observable
 * https://beta.observablehq.com/
   * "Discover insights faster and communicate more effectively with interactive notebooks for data analysis, visualization, and exploration."
 * https://twitter.com/observablehq
@@ -171,13 +177,16 @@ Useful Visualization Resources
 
 
 
-### Interesting Articles
-* 2018
-* 2017
-  * https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
-  * [Visualization in Bayesian workflow](https://arxiv.org/abs/1709.01449)
+## Interesting Articles
+- 2019 
+
+- 2018
+
+- 2017
+  + https://dzone.com/articles/top-5-best-open-source-javascript-chart-library
+  _ [Visualization in Bayesian workflow](https://arxiv.org/abs/1709.01449)
     "Bayesian data analysis is about more than just computing a posterior distribution, and Bayesian visualization is about more than trace plots of Markov chains. Practical Bayesian data analysis, like all data analysis, is an iterative process of model building, inference, model checking and evaluation, and model expansion. Visualization is helpful in each of these stages of the Bayesian workflow and it is indispensable when drawing inferences from the types of modern, high-dimensional models that are used by applied researchers."
-* [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
+- [Same Stats, Different Graphs: Generating Datasets with Varied Appearance and Identical Statistics through Simulated Annealing](https://www.autodeskresearch.com/publications/samestats)
 
 
 
