@@ -37,7 +37,9 @@
 
 
 ## R Resources
-* https://www.r-graph-gallery.com/
+- https://www.r-graph-gallery.com/
+- Using R for Data Visualization
+  + https://slideplayer.com/slide/12185583/
 
 
   
