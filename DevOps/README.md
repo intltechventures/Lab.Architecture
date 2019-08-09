@@ -47,6 +47,9 @@
 - [The Phoenix Project](http://itrevolution.com/book/the-phoenix-project/)
 - [The Jumpstart Up](https://leanpub.com/the-jumpstart-up) 
 
+- Site Reliability Engineering, How Google Runs Production Systems
+  + https://landing.google.com/sre/
+    * https://landing.google.com/sre/sre-book/chapters/introduction/
 
 
 ## DevOps New Resources
