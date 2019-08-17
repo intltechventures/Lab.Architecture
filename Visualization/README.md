@@ -19,7 +19,21 @@
   + http://worrydream.com/
 - Kaiser Fung,
   + https://junkcharts.typepad.com/
+- Nicolas Belmonte
+  + https://twitter.com/philogb/
+  + http://philogb.github.io/
+  + http://philogb.github.io/#visualizations
 
+
+
+## Autonomous Visualization System (AVS) 
+- a fast, powerful, web-based 3D visualization toolkit for building applications from your autonomous and robotics data.
+- https://avs.auto/#/
+
+
+
+## Mapbox.com 
+- https://www.mapbox.com/
 
 
 ## Micrsoft Graph
@@ -108,6 +122,18 @@
   * "Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API."
   * "It works with CSS properties, SVG, DOM attributes and JavaScript Objects."
 
+
+
+## PhiloGL
+- http://www.senchalabs.org/philogl/
+  + https://github.com/senchalabs/philogl
+
+
+## JavaScript InfoVis Toolkit (jit)
+- http://philogb.github.io/jit/
+  + https://github.com/philogb/jit
+  + http://philogb.github.io/blog/
+  + https://en.wikipedia.org/wiki/JavaScript_InfoVis_Toolkit
 
 
 ## D3.js
