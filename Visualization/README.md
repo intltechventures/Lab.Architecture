@@ -203,7 +203,13 @@
 * https://twitter.com/observablehq
  
 
-
+## Vizceral
+- WebGL visualization for displaying animated traffic graphs 
+- https://github.com/Netflix/vizceral
+  * "vizceral is a component for displaying traffic data on a webgl canvas. If a graph of nodes and edges with data about traffic volume is provided, it will render a traffic graph animating the connection volume between nodes."
+  * "This component can take multiple traffic graphs and will generate a 'global' graph showing all incoming traffic into each of the 'regions', with support for cross-region traffic."
+  * "There are three levels of information, global, regional, and service-level, with clicking or double-clicking on a node bringing you one level deeper."
+  * *NOTE:* ```"We are not using this internally at Netflix at this time and the project is not actively being worked on."```
 
 ## Interesting Articles
 - 2019 
