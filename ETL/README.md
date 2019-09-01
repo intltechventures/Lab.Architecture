@@ -1,7 +1,12 @@
-ETL Resources
+# ETL Resources
 
-* Informatica
-  * https://www.informatica.com/
+## Venor Solutions
 
-* Dell Boomi
-  * http://www.boomi.com/
+- *Etleap*
+  + https://etleap.com
+
+- *Informatica*
+  + https://www.informatica.com/
+
+- *Dell Boomi*
+  + http://www.boomi.com/
