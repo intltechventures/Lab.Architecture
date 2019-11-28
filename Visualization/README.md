@@ -40,7 +40,7 @@
 * https://developer.microsoft.com/en-us/graph
 
 ## Machine Learning Visualization
-* http://www.scikit-yb.org/en/latest/
+- http://www.scikit-yb.org/en/latest/
   * "Yellowbrick is a suite of visual diagnostic tools called “Visualizers” that extend the Scikit-Learn API to allow human steering of the model selection process. In a nutshell, Yellowbrick combines scikit-learn with matplotlib in the best tradition of the scikit-learn documentation, but to produce visualizations for your models!"
 
 
@@ -89,6 +89,7 @@
 
 ## HighCharts.com
 * http://www.highcharts.com/
+
 
 ## Dimple.js
 * http://dimplejs.org/
@@ -162,6 +163,12 @@
   * https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a
   * https://bl.ocks.org/pbeshai
     * https://bl.ocks.org/pbeshai/8008075f9ce771ee8be39e8c38907570 
+
+
+## Orange 
+- https://en.wikipedia.org/wiki/Orange_(software)
+- https://orange.biolab.si/
+
 
 ## Three.js
 * https://threejs.org/
