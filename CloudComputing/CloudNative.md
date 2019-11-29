@@ -49,9 +49,13 @@
 
 
 ## Background Reading 
+- https://www.forbes.com/sites/forbestechcouncil/2019/05/21/what-does-it-mean-to-be-cloud-native/#601a923d5ecc
+
 - https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction
   + https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/
   + https://azure.microsoft.com/en-us/overview/cloudnative/
+
+- https://newrelic.com/resource/cloud-native-is-new-normal
 
 - https://www.ibm.com/cloud/learn/cloud-native
 
@@ -106,5 +110,27 @@
   8. "Managed through agile DevOps processes"
   9. "Automated capabilities"
   10. "Defined, policy-driven resource allocation"
+
+
+
+## Suggested Books (in order suggested reading...)
+
+- [Cloud Native Transformation: Practical Patterns for Innovation, 1st Edition](https://www.amazon.com/Cloud-Native-Transformation-Practical-Innovation/dp/1492048909)
+
+- [Cloud Native Data Center Networking: Architecture, Protocols, and Tools, 1st Edition](https://www.amazon.com/Cloud-Native-Data-Center-Networking-dp-1492045608/dp/1492045608/)
+- [Cloud Native: Using Containers, Functions, and Data to Build Next-Generation Applications, 1st Edition](https://www.amazon.com/Cloud-Native-Containers-Next-Generation-Applications-dp-1492053821/dp/1492053821/)
+
+- [Cloud Native Patterns: Designing change-tolerant software, 1st Edition](https://www.amazon.com/Cloud-Native-Designing-change-tolerant-software/dp/1617294292/)
+
+- [Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud, 1st Edition](https://www.amazon.com/Cloud-Native-DevOps-Kubernetes-Applications/dp/1492040762/)
+
+- [Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment, 1st Edition](https://www.amazon.com/Cloud-Native-Infrastructure-Applications-Environment/dp/1491984309/)
+
+- [Infrastructure as Code: Managing Servers in the Cloud, 1st Edition](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/)
+
+- [Terraform: Up and Running: Writing Infrastructure as Code, 1st Edition](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1491977086/)
+
+- [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React (Developer's Library), 1st Edition](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers-dp-0672337797/dp/0672337797/)
+
 
 
