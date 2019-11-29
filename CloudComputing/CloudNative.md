@@ -21,7 +21,44 @@
     * "These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil."
 
 
+- https://12factor.net/
+- I. Codebase
+  + One codebase tracked in revision control, many deploys
+- II. Dependencies
+  + Explicitly declare and isolate dependencies
+- III. Config
+  + Store config in the environment
+- IV. Backing services
+  + Treat backing services as attached resources
+- V. Build, release, run
+  + Strictly separate build and run stages
+- VI. Processes
+  + Execute the app as one or more stateless processes
+- VII. Port binding
+  + Export services via port binding
+- VIII. Concurrency
+  - Scale out via the process model
+- IX. Disposability
+  + Maximize robustness with fast startup and graceful shutdown
+- X. Dev/prod parity
+  + Keep development, staging, and production as similar as possible
+- XI. Logs
+  + Treat logs as event streams
+- XII. Admin processes
+  + Run admin/management tasks as one-off processes
+
+
 ## Background Reading 
+- https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction
+  + https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/
+  + https://azure.microsoft.com/en-us/overview/cloudnative/
+
+- https://www.ibm.com/cloud/learn/cloud-native
+
+- https://about.gitlab.com/cloud-native/
+
+- https://www.chef.io/solutions/cloud-native/
+
 - https://www.informationweek.com/cloud/platform-as-a-service/cloud-native-what-it-means-why-it-matters/d/d-id/1321539
   + https://www.slideshare.net/CloudFoundryFoundation/cloud-foundry-ceo-sam-ramji-2015-oscon-keynote
   + https://www.linkedin.com/pulse/cloud-native-foundry-docker-kubernetes-sam-ramji/
