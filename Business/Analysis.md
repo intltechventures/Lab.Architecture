@@ -60,13 +60,11 @@
 
 
 - Agile Practices
-  + [The Epic Guide to Agile: More Business Value on a Predictable Schedule with Scrum, – April 19, 2019](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/)
-
   + [Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise (Agile Software Development Series) 1st Edition](https://www.amazon.com/Agile-Software-Requirements-Enterprise-Development/dp/0321635841)
 	* __KM: ***__
 
   + [User Stories Applied: For Agile Software Development 1st Edition](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/)
-	* KM: ***
+	* __KM: ***__
 
 - Visual Modeling for Requirements
   + [User Story Mapping: Discover the Whole Story, Build the Right Product 1st Edition](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
