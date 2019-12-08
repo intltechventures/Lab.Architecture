@@ -33,10 +33,12 @@
 
 
 ## Suggested Books
+- NOTE: I've provided an initial annotation of the entries that I think may be worth reading first, with __"KM: ***"__
 
 - Business Analysis & The Business Analyst Role
 
-  + *[Business Analysis for Practitioners: A Practice Guide Paperback – January 1, 2015](https://www.amazon.com/Business-Analysis-Practitioners-Practice-Guide/dp/1628250690/)*
+  + [Business Analysis for Practitioners: A Practice Guide Paperback – January 1, 2015](https://www.amazon.com/Business-Analysis-Practitioners-Practice-Guide/dp/1628250690/)
+	* __KM: ***__
 
   + [The Agile Business Analyst: Moving from Waterfall to Agile 1st Edition](https://www.amazon.com/Agile-Business-Analyst-Moving-Waterfall/dp/0692481850/)
   
@@ -61,9 +63,10 @@
   + [The Epic Guide to Agile: More Business Value on a Predictable Schedule with Scrum, – April 19, 2019](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/)
 
   + [Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise (Agile Software Development Series) 1st Edition](https://www.amazon.com/Agile-Software-Requirements-Enterprise-Development/dp/0321635841)
+	* __KM: ***__
 
   + [User Stories Applied: For Agile Software Development 1st Edition](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685/)
-
+	* KM: ***
 
 - Visual Modeling for Requirements
   + [User Story Mapping: Discover the Whole Story, Build the Right Product 1st Edition](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
@@ -79,10 +82,10 @@
 - Business Process Modeling
   + [The Complete Business Process Handbook: Body of Knowledge from Process Modeling to BPM, Volume 1 1st Edition](https://www.amazon.com/Complete-Business-Process-Handbook-Knowledge/dp/0127999590/)
 
-  + *[Business Process Management: Concepts, Languages, Architectures 3rd ed. 2019 Edition](https://www.amazon.com/Business-Process-Management-Languages-Architectures/dp/3662594315/)*
+  + [Business Process Management: Concepts, Languages, Architectures 3rd ed. 2019 Edition](https://www.amazon.com/Business-Process-Management-Languages-Architectures/dp/3662594315/)
   
-  + *[Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams 1st Edition](https://www.amazon.com/Mapping-Experiences-Complete-Creating-Blueprints/dp/1491923539/)*
-
+  + [Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams 1st Edition](https://www.amazon.com/Mapping-Experiences-Complete-Creating-Blueprints/dp/1491923539/)
+	* __KM: ***__
 
 - Behavior Driven Development (BDD)
   + [BDD in Action: Behavior-driven development for the whole software lifecycle, 1st Edition](https://www.amazon.com/BDD-Action-Behavior-driven-development-lifecycle/dp/161729165X)
@@ -100,7 +103,7 @@
     * "The clearest way to communicate a software specification is to provide examples of how it should work. Turning these story-based descriptions into a well-organized dev plan is another matter. Gherkin is a human-friendly, jargon-free language for documenting a suite of examples as an executable specification. It fosters efficient collaboration between business and dev teams, and it's an excellent foundation for the specification by example (SBE) process."
 
 
-### Ooder books, methodologies
+### Some older books, but with methodologies that still can offer value
 - General 
   + [Getting It Right: Business Requirement Analysis Tools and Techniques](https://www.amazon.com/Getting-Right-Business-Requirement-Techniques/dp/1567262112/)
 
@@ -123,7 +126,3 @@
 
   + [Managing Software Requirements: A Use Case Approach (2nd Edition) 2nd Edition](https://www.amazon.com/Managing-Software-Requirements-Case-Approach/dp/032112247X/)
  
-
-
-
-
