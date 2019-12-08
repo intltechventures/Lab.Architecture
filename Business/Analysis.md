@@ -1,5 +1,5 @@
 
-# Business Analyst\Analysis Resources 
+# Business Analysis\Analyst Resources 
 
 ## Organizations
 - International Institute of Business Analysts (IIBA)
