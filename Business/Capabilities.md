@@ -2,6 +2,14 @@
 # Business Capabilities Resources 
 
 ## Capability Maps
+- THE CAPABILITY INVENTORY
+  + https://enklare.wordpress.com/2015/06/15/the-capability-inventory/
+  + https://www.slideshare.net/enklare/basic-patterns-for-capability-map-level-0
+  + This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+- (good example of decomposition down to Level-3)
+  + https://docs.servicenow.com/bundle/newyork-it-business-management/page/product/it-finance/concept/preconfigured-prescriptive-cost-models-two.html
+
 - Good example on slide #5
   * http://www.opengroup.org/johannesburg2011/Ulrich%20Kalex%20-%20Business%20Capability%20Management.pdf
   
