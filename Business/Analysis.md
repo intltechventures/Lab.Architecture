@@ -123,4 +123,9 @@
   + [Use Case Driven Object Modeling with UML: Theory and Practice (Expert's Voice in UML Modeling) 2nd ed. Edition](https://www.amazon.com/Use-Case-Driven-Object-Modeling/dp/1430243058/)
 
   + [Managing Software Requirements: A Use Case Approach (2nd Edition) 2nd Edition](https://www.amazon.com/Managing-Software-Requirements-Case-Approach/dp/032112247X/)
- 
+
+
+## Techniques
+
+### Wardley Maps
+- https://github.com/wardley-maps-community/awesome-wardley-maps#readme
