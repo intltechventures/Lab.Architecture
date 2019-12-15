@@ -32,6 +32,12 @@
 - https://stackoverflow.com/search?q=business+analyst
 
 
+## Background Reading
+- A tip of the hat to [Neil Sato](https://www.linkedin.com/in/neilsato/) for offering these suggestions:
+  + https://www.tutorialspoint.com/business_analysis/business_analysis_quick_guide.htm
+  + https://www.joebarrios.com/business-analyst-interview-question-swot-analysis/
+
+
 ## Suggested Books
 - NOTE: I've provided an initial annotation of the entries that I think may be worth reading first, with __"KM: ***"__
 
