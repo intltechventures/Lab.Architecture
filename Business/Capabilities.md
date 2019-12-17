@@ -25,11 +25,6 @@
 - Good summary of WHY capability mapping is valuable
   * https://www.slideshare.net/SatyaIluri/business-capability-mapping-and-business-architecture
 
-- Examples from the Insurance Industry...
-  * https://www.acord.org/library/Documents/ACORDCapabilityModelBook_2010.pdf
-  * https://www.acord.org/resources/framework/Presentations/Framework.pdf
-  * http://www-903.ibm.com/kr/event/download/200804_337/s337_b02_1.pdf
-
 
 
 ## Blogs/Articles
