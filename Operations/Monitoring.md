@@ -28,6 +28,9 @@ Notes on Operational Monitoring Tools
 
 
 ### Application Performance Monitoring (APM) Tools
+- Continuous Application Performance Management: The Top 20 Global Vendors 
+  + https://www.bmc.com/forms/top-vendor-guide-continuous-apm-saas-ria-report.html
+
 * https://stackify.com/
 * https://newrelic.com/
   * KM: Excellent tool
