@@ -6,7 +6,12 @@
 
 
 
+## Community Resources
+- https://help.mulesoft.com/s/forum
+
+
 ## Github 
+- https://github.com/mulesoft-labs 
 
 
 
