@@ -1,6 +1,12 @@
 
 # API Resources
 
+## References
+- https://en.wikipedia.org/wiki/Media_type
+
+- http://standards.rest/
+
+
 ## Style / Design Guides
 - http://apistylebook.com/design/guidelines/
   + http://apistylebook.com/design/guidelines/google-api-design-guide
@@ -22,6 +28,10 @@
 
 - https://client.restlet.com/
 
+
+- [Google's API Linter](https://linter.aip.dev/)
+  + https://linter.aip.dev/rules/
+  + https://linter.aip.dev/rules/core/
 
 
 ## Third-Party API Service Registration
@@ -55,7 +65,6 @@
 
 ### 2017
 - https://www.infoq.com/news/2017/05/ibm-microgateway-opensource 
-
 
 
 
