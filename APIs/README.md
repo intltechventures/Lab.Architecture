@@ -6,6 +6,11 @@
 
 - http://standards.rest/
 
+- http://webconcepts.info/
+  + http://webconcepts.info/concepts/
+  + http://webconcepts.info/specs/
+  + https://github.com/dret/webconcepts
+
 
 ## Style / Design Guides
 - http://apistylebook.com/design/guidelines/

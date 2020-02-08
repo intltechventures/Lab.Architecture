@@ -12,3 +12,12 @@ the Design of Network-based Software Architectures, University of California, Ir
 - https://en.wikipedia.org/wiki/HATEOAS
 - https://en.wikipedia.org/wiki/Overview_of_RESTful_API_Description_Languages
 
+- http://standards.rest/
+  + "A collection of standards and specifications, that help make fantastic HTTP/REST APIs"
+
+
+- http://webconcepts.info/
+  + http://webconcepts.info/concepts/
+  + http://webconcepts.info/specs/
+  + https://github.com/dret/webconcepts
+
