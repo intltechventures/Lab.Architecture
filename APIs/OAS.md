@@ -31,7 +31,9 @@
 - https://stoplight.io/spectral
   + https://github.com/openapi-contrib/style-guides
   + https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/getting-started/rulesets.md
-  
+  + https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/guides/workflows.md#git-hooks
+    * https://github.com/typicode/husky
+      * https://git-scm.com/docs/githooks
 
 ## Github Resources
 
