@@ -5,6 +5,14 @@
 ## References
 - https://docs.mulesoft.com/general/
 
+- [What is Center for Enablement (C4E)](https://blogs.mulesoft.com/biz/connectivity/what-is-a-center-for-enablement-c4e/)
+  + "A C4E is defined as a group that drives the IT operating model shift."
+  + "The C4E is a cross-functional team — typically staffed with members from central IT, line-of-business departments, and digital innovation teams — charged with productizing, publishing, and harvesting reusable assets and best practices."
+  + https://www.mulesoft.com/lp/whitepaper/soa/how-to-build-c4e
+  + https://blogs.mulesoft.com/tag/c4e/
+    * https://blogs.mulesoft.com/biz/customer-stories/how-salesforce-built-a-c4e/
+    * https://blogs.mulesoft.com/dev/api-dev/mulesoft-at-mulesoft-the-center-of-enablement-c4e-discovery-phase/
+
 
 
 ## Community Resources

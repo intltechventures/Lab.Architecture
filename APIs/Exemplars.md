@@ -34,11 +34,13 @@
 - API Improvement Proposals
   + https://aip.dev/
   + https://aip.dev/general
+	* https://github.com/googleapis/aip
   + [AIP-122 Resource names](https://aip.dev/122)
   + [AIP-100 Google's API Design Review FAQ](https://aip.dev/100)
   + [AIP-180 Backwards compatibility](https://aip.dev/180)
   + [API-181 Stability levels](https://aip.dev/181)
   + [AIP-193 Errors](https://aip.dev/193)
+  + [AIP-200 Bad API precedent](https://aip.dev/200)
 
 - [Google's API Linter](https://linter.aip.dev/)
   + https://linter.aip.dev/rules/core/
