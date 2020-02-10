@@ -36,6 +36,30 @@
 - https://blog.labdigital.nl/code-generation-with-python-and-go-d1d91e09a06b
 
 
+## Automated Design-Time Governance Tooling
+
+- https://integralzone.com/products/iz-analyzer/
+  + IZ Analyzer suite consists of the following components for implementing enterprise grade code quality along with a cloud offering IZ Sonar Cloud.
+    * IZ Mule Analyzer
+    * IZ Studio Analyzer
+    * IZ API Analyzer
+  + Features:
+    - Code quality from anypoint studio
+    - Sync with Enterprise SonarQube instance for rules
+    - Show intuitive guidance on quality issues    
+    - Plugs into existing enterprise Sonar Qube instance
+    - Govern quality centrally
+    - Customize rules and severity
+    - Set up custom quality gates
+    - Configure enterprise and project level settings
+    - Apply rules based on project context
+    - Seeded templates and rules to jump start quality
+    - Ability to customize seeded rules
+    - Create custom rules as per enterprise needs
+    - Support for Mule 3.x and Mule 4.x Languages (Coming Soon?, still showing this as of 2020-02-10)
+    - Support for RAML 0.8 and RAML 1.0 Languages (Coming Soon?, still showing this as of 2020-02-10)
+
+
 ## Code Generation Tools
 - https://raml.org/developers/build-your-api
 
