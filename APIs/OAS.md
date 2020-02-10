@@ -33,7 +33,9 @@
   + https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/getting-started/rulesets.md
   + https://stoplight.io/p/docs/gh/stoplightio/spectral/docs/guides/workflows.md#git-hooks
     * https://github.com/typicode/husky
-      * https://git-scm.com/docs/githooks
+      * https://github.com/typicode/husky#ci-servers
+  + https://git-scm.com/docs/githooks
+
 
 ## Github Resources
 
