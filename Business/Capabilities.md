@@ -25,11 +25,24 @@
 - Good summary of WHY capability mapping is valuable
   * https://www.slideshare.net/SatyaIluri/business-capability-mapping-and-business-architecture
 
+- [Microsoft Industry Reference Architecture for Banking](https://news.microsoft.com/download/presskits/msfinancial/docs/MIRAB.pdf)
+  + See page-8
+
+- [Retail Enterprise Architecture mapping using ArchiMate and ARDOQ, by Kurt Hatlevik, February 10, 2019](https://kurthatlevik.com/2019/02/10/retail-enterprise-architecture-mapping-using-archimate-and-ardoq/)
+
+- [Government of New Brunswick, Enterprise Architecture Program, Business Capabilities Reference Model, 2015](https://www2.gnb.ca/content/dam/gnb/Departments/tb-ct/pdf/OCIO/Business_Capabilities_Reference_Model.pdf)
+
+- [International Association of Softwarte Archtiects (IASA) ITABok 3.0 - Business Capabilities - Working Draft](https://itabok.iasaglobal.org/itabok3_0/business-capabilities/)
+
+- [Simplicable, Business Capability Map](https://arch.simplicable.com/arch/new/business-capability-map) 
+
+- [BiZZdesign, ArchiMate 3.0 - Capability Mapping](https://bizzdesign.com/blog/archimate-3-0-capability-mapping/)
+
 
 
 ## Blogs/Articles
 
-# 2018
-- [intltechventures.blostpot.com]
-	- [Business Functions vs. Business Capabilities](https://intltechventures.blogspot.com/2018/09/2018-09-30-sunday-business-functions-vs.html)
+- [intltechventures.blostpot.com](https://intltechventures.blogspot.com)
+  + 2018
+	  * [Business Functions vs. Business Capabilities](https://intltechventures.blogspot.com/2018/09/2018-09-30-sunday-business-functions-vs.html)
 	
