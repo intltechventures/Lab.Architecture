@@ -1,25 +1,28 @@
 
-Testing Resources
-====
+# Testing Resources
 
-### Testing: Associations/Organizations
+## Background Reading
+- [The Way of Testivus: Less Unit Testing Dogma, More Unit Testing Karma](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
+
+
+## Testing: Associations/Organizations
 * https://www.associationforsoftwaretesting.org/
 
 
-### Testing: Useful Groups/Meetups
+## Testing: Useful Groups/Meetups
 * https://www.meetup.com/Software-Testers-of-Seattle/
 
 
-### Testing Tutorial Resources 
+## Testing Tutorial Resources 
 * http://toolsqa.com/
 
 
-### Testing Related Blogs, New Resources 
+## Testing Related Blogs, New Resources 
 * https://www.deagiletesters.nl/en/blog/
 
 
 
-### Ideas for Test Types/Categories: (TO-DO, organize and order these better...)
+## Ideas for Test Types/Categories: (TO-DO, organize and order these better...)
 * Unit  
   * Boundary Value 
   * Equivalance Class 
@@ -71,7 +74,7 @@ Testing Resources
   * Vulnerability 
 
 
-### Cloud Based Testing Platforms
+## Cloud Based Testing Platforms
 * https://www.perfecto.io/
   * "3,000+ Devices available 24/7 in the Cloud"
   * "Test Web, Mobile & IoT devices using a single script"
@@ -92,7 +95,7 @@ Testing Resources
     * https://saucelabs.com/products/open-source-frameworks/xcuitest 
 
 
-### Testing Tooling: General 
+## Testing Tooling: General 
 * http://robotframework.org/ 
   * https://github.com/robotframework/robotframework
   * https://twitter.com/robotframework
@@ -117,7 +120,7 @@ Testing Resources
   * http://watir.com/
 
 
-### Testing Tooling, Language Specific: Java
+## Testing Tooling, Language Specific: Java
 * Junit
   * https://junit.org/junit5/
   * https://en.wikipedia.org/wiki/JUnit
@@ -133,7 +136,7 @@ Testing Resources
     * "Spock is a Java testing framework capable of handling the full life cycle of a computer program. It was initially created in 2008 by Peter Niederwieser, a software engineer with GradleWare. A second Spock committer is Luke Daley who is also the creator of the popular Geb functional testing framework."
 
 
-### Testing Tooling: API focused
+## Testing Tooling: API focused
 * Dredd - HTTP API Testing Framework
   * https://dredd.org/en/latest/
     * Languages supported:
@@ -149,7 +152,7 @@ Testing Resources
 
 
 
-### Testing Tooling: Mobile Apps
+## Testing Tooling: Mobile Apps
 * Appium
   * http://appium.io/
     * "Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol."
@@ -160,23 +163,23 @@ Testing Resources
   * ...to be added...
 
 
-### Testing Tooling, Language Specific: JavaScript
+## Testing Tooling, Language Specific: JavaScript
 * ...to be added...
 
 
-### Testing Tooling, Language Specific: .NET 
+## Testing Tooling, Language Specific: .NET 
 * NUnit
   * https://nunit.org/
     * "NUnit is a unit-testing framework for all .Net languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms."
 
 
-### Testing Tooling, Language Specific: Python
+## Testing Tooling, Language Specific: Python
 * pytest
   * https://docs.pytest.org/en/latest/
   * https://github.com/pytest-dev/pytest
 
 
-### Testing Tooling: Load/Performance
+## Testing Tooling: Load/Performance
 * http://www.opensourcetesting.org/category/performance/
   * several interesting articles...most recent posting appears to have been Dec 26, 2017, as of Nov 11, 2018...
 
@@ -236,7 +239,7 @@ It can be used to simulate a heavy load on a server, group of servers, network o
   * https://www.radview.com/webload-licensing/
 
 
-### Testing Strategies/Concepts:
+## Testing Strategies/Concepts:
 * Conext-Driven Testing
   * http://context-driven-testing.com/
 * Test-Driven Development (TDD)
@@ -260,13 +263,13 @@ It can be used to simulate a heavy load on a server, group of servers, network o
 
 
 
-### Testing: TDD
+## Testing: TDD
 * Test Driven Development: By Example 1st Edition (2002) 
   * https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/
 
 
 
-### Testing: Misc. Idea Resources
+## Testing: Misc. Idea Resources
 * http://commonsensetesting.org/
   * "The Seven Basic Principles of the Context-Driven School"
     * "The value of any practice depends on its context."
@@ -282,7 +285,7 @@ It can be used to simulate a heavy load on a server, group of servers, network o
 
 NOTE: Those books I have personally read, and recommend - will be denoted with a "RECOOMEND" prefix to the title
 
-### Suggested Books: General Testing Topics
+## Suggested Books: General Testing Topics
 * A Practical Guide to Testing in DevOps
   * https://leanpub.com/testingindevops
 * Beautiful Testing: Leading Professionals Reveal How They Improve Software (Theory in Practice) 1st Edition (2009)
@@ -314,7 +317,7 @@ NOTE: Those books I have personally read, and recommend - will be denoted with a
 
 
 
-### Suggested Books: Testing, Technology Specific Topics
+## Suggested Books: Testing, Technology Specific Topics
 * Angular
   * Angular Test-Driven Development - Second Edition (2017) 
     * https://www.amazon.com/dp/1786465477/
@@ -425,12 +428,12 @@ NOTE: Those books I have personally read, and recommend - will be denoted with a
 
 
 
-### Suggested Books: Performance Testing
+## Suggested Books: Performance Testing
   * The Art of Application Performance Testing: From Strategy to Tools 2nd Edition (2014) 
     * https://www.amazon.com/Art-Application-Performance-Testing-Strategy/dp/1491900547
 
 
-### Suggested Books: Test Certifications
+## Suggested Books: Test Certifications
 * ISTQB
   * Sample Exam Questions- ISTQB Foundation Level-Agile Tester Extension Exam 1st Edition (2016) 
     * https://www.amazon.com/Sample-Questions-Foundation-Level-Agile-Extension/dp/1533567425/
@@ -452,7 +455,7 @@ NOTE: Those books I have personally read, and recommend - will be denoted with a
 
 
 
-### Article:
+## Article:
 * 2018
   * https://www.infoq.com/articles/james-bach-testing-career
 * 2017  
