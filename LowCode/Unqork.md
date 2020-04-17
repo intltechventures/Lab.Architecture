@@ -35,6 +35,7 @@
 
 
 ## News Resources
+- https://www.unqork.com/about/newsroom
 - https://twitter.com/Unqork
 
 - 2020
@@ -52,6 +53,10 @@
     * "The reality of agile is that it works for very small deliverables and nothing else. It fails miserably. It fails because business doesn’t know what it needs until it’s in production. There’s always a backlog and it’s always ‘coming’. Also, once they see what’s in production, the problem is time to market. If we use the ‘building a house’ analogy - if they need to move the window to get the exact right lighting, the barrier to moving that window is code."
     * "You could build anything you can imagine without me needing to write a single line of code or generate code, because we think that's also legacy. So the idea is to stop writing code, stop legacy. 90% of what any company does today, we could confidently do on Unqork without a single change today, without a single line of code. The last 10% is where 100% of their engineers should be building."
     * "I would say that that last 10% is purely APIs, interfaces that engineers are building that are unique to them. For example, a new way to create customer risk. A new model for a bank. A new product they’re creating. Where it’s going to be a competitive advantage for them."
+
+  + In October, Unqork, no-code platform for financial institutions, raised a $80M Series B after raising a $22M Series A in April;
+
+  + [Some Startups Are Taking the Coding Out of Software Development, WSJ](https://www.wsj.com/articles/some-startups-are-taking-the-coding-out-of-software-development-11571396400)
 
 
 
