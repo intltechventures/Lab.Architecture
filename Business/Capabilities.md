@@ -1,6 +1,13 @@
 
 # Business Capabilities Resources 
 
+
+## Capability Modeling Tutorials 
+- http://atf.architectural-thinking.com:8090/display/ATF/Business+Capability
+- http://atf.architectural-thinking.com:8090/display/ATF/How-to%3A+Modeling+Business+Capabilities
+- https://architectural-thinking.com/at25-capability-modeling-crash-course-part-2/
+
+
 ## Capability Maps
 - THE CAPABILITY INVENTORY
   + https://enklare.wordpress.com/2015/06/15/the-capability-inventory/
