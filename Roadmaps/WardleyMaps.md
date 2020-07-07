@@ -1,6 +1,8 @@
 
 # Wardley Mapping Resoures
+(strategy mapping)
 
+   
 ## References
 - https://en.wikipedia.org/wiki/Wardley_map
 
