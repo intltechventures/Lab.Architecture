@@ -18,7 +18,8 @@
 
 
 ## YouTube Videos
-- [https://www.youtube.com/watch?v=JMlFv2Sod54](Strategy Mapping with Simon Wardley - Define Tomorrow 2018)
+- https://www.youtube.com/watch?v=JMlFv2Sod54
+  + Strategy Mapping with Simon Wardley - Define Tomorrow 2018
 
 
 
