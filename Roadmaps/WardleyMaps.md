@@ -1,5 +1,5 @@
 
-# Warley Mapping Resoures
+# Wardley Mapping Resoures
 
 ## References
 - https://en.wikipedia.org/wiki/Wardley_map
