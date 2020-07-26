@@ -36,6 +36,14 @@
       * https://github.com/typicode/husky#ci-servers
   + https://git-scm.com/docs/githooks
 
+- https://www.apimatic.io/transformer/
+  + "Transform API specifications to formats of your choice"
+  + https://www.apimatic.io/transformer/#supported-formats
+  + https://github.com/LucyBot-Inc/api-spec-converter
+
+- https://swagger.io/tools/swagger-codegen/
+  + "Swagger Codegen can simplify your build process by generating server stubs and client SDKs for any API, defined with the OpenAPI (formerly known as Swagger) specification, so your team can focus better on your API’s implementation and adoption."
+
 
 ## Github Resources
 
@@ -48,6 +56,15 @@
 - https://github.com/openapitools/openapi-generator/
   + "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)"
   + https://openapi-generator.tech/
+    * https://openapi-generator.tech/docs/usage
+  + https://github.com/OpenAPITools/openapi-style-validator
+    * "A customizable style validator to make sure your OpenApi spec follows your organization's standards."
+
+- https://github.com/LucyBot-Inc/api-spec-converter
+
+- https://github.com/readmeio/oas
+  + https://openap.is/
+    * "A language-agnostic tool for documenting your API right from your code, generating an OpenAPI Spec, and sharing it via a URL."
 
 - https://github.com/APIs-guru/openapi-directory/
   + "Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format"
@@ -71,6 +88,27 @@
 - https://github.com/openapi-contrib/style-guides
   + A shared and somewhat opinionated style guide for everyone to enjoy. 
   + https://github.com/openapi-contrib/style-guides/blob/master/openapi.yml
+
+- https://github.com/Redocly/redoc
+  + https://redocly.github.io/redoc/
+  + Example:
+    * https://github.com/Redocly/create-openapi-repo
+
+
+- https://github.com/hakopako/openapi-cli-tool
+  + "OpenAPI (Swagger 3.x) CLI Tool. Supports multiple file extensions. Can list up defined API paths and bundle multi-file into one."
+  + https://pypi.org/project/openapi-cli-tool/
+    * "OAS interactive scaffolding."
+
+
+- https://github.com/ibm/openapi-to-graphql
+  + https://developer.ibm.com/open/projects/openapi-to-graphql/
+  + https://www.npmjs.com/package/openapi-to-graphql-cli
+    * "Command line interface (CLI) for turning APIs described by OpenAPI Specification (OAS) into GraphQL interfaces."
+    * https://arxiv.org/abs/1809.08319
+      * "Generating GraphQL-Wrappers for REST(-like) APIs"
+        * "Our research paper, "Generating GraphQL-Wrappers for REST(-like) APIs", can be found here. The paper describes the challenges of building OpenAPI-to-GraphQL and an experiment in which we evaluated OpenAPI-to-GraphQL against 959 publicly available OAS, provided by APIs.guru, and successfully created GraphQL interfaces for 89.5% of them."
+
 
 
 ## IDE Tooling
