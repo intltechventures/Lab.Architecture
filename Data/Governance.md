@@ -4,6 +4,12 @@
 - Status: I will be adding some additional content to this topic through the end of July 2020...
 
 
+## Standards
+- ISO 11179 Metadata Registry (MDR) standard
+  + https://en.wikipedia.org/wiki/ISO/IEC_11179
+
+
+
 ## Suggested Books To Read First (listed with a somewhat intentional, initial, order...)
 - [Non-Invasive Data Governance: The Path of Least Resistance and Greatest Success First Edition
 by Robert S. Seiner ](https://www.amazon.com/Non-Invasive-Data-Governance-Robert-Seiner/dp/1935504851/)
