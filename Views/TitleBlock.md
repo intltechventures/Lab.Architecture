@@ -4,6 +4,11 @@
 - If you have ever spent much time looking at building architectural drawings - you'll have noted that there is a convention of placing a "Title Block" in the lower-right hand corner of the drawing. 
 - I've done a brief survey of different diagrams - to gather some examples - as input to writing this document. 
 - I think that the current state (or, lack thereof) of annotating software design architectural drawings - is *abysmal* - and much might be gleaned by looking left-and-right - and seeing how other industries annotate their diagrams. 
+  
+- Problem Statement
+  + Diagrams that are exported from authoring tools - *usually* do not have a proper "Title Block" included
+  + These diagrams are then uplaoded to various placed, email, embedded (e.g. in PPT, Word, web sites, etc.)
+  + Thus, the thread of context is lost - and they become orphans, once separated - with no clear traceability (i.e.  [Who, What, When, Where, Why](https://en.wikipedia.org/wiki/Five_Ws)
 
 ## STATUS: Ideation - *WORKING DRAFT* - An initial example of a suggested "Title Block" outline
 1. Drawing Name
