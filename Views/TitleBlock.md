@@ -97,11 +97,11 @@ I've begun drafting some ideas for what kind of information may be useful to inc
 - Job TItle
 -  Group | Department
 
-19. Work Order No | Project Code | Task ID | Request ID | Deliverable ID
+19. {Work Order No | Project Code | Task ID | Request ID | Deliverable ID}
 
-20. Diagram <Package | Group> ID
+20. Diagram {ackage | Group> ID}
 
-21. Total Diagrams in <Package | Group>
+21. Total Diagrams in {Package | Group}
 
 22. Drawing No.
 
