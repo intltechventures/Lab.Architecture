@@ -33,9 +33,9 @@
 
 6. Perspective
 - Domain values:
-  + AS-IS
-  + TO-BE
-  + WHAT-IF
+  + Current State
+  + Future State
+  + What-If
 
 7. Drawing Notation
 - Domain values:
