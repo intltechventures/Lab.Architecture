@@ -5,42 +5,51 @@
 - I've done a brief survey of different diagrams - to gather some examples - as input to writing this document. 
 - I think that the current state (or, lack thereof) of annotating software design architectural drawings - is *abysmal* - and much might be gleaned by looking left-and-right - and seeing how other industries annotate their diagrams. 
 
-## WORKING DRAFT - Suggested "Title Block" cContent, Example-1
+## STATUS: Ideation - *WORKING DRAFT* - An initial example of a suggested "Title Block" outline
 1. Drawing Name
 
 2. Valid From Date
 3. Valid Till Date
 
 4. Stage:
-  - Ideation
-  - Draft
-  - Revision
-  - Final
+- Domain values:
+  + Ideation
+  + Draft
+  + Revision
+  + Final
 
 5. Status:
-  - Pending
-  - Approved
-  - Obsolete
-  - Withdrawn
-  - Rejected
+- Domain values:
+  + Pending
+  + Approved
+  + Obsolete
+  + Withdrawn
+  + Rejected
 
 6. Perspective
-  - AS-IS
-  - TO-BE
-  - WHAT-IF
+- Domain values:
+  + AS-IS
+  + TO-BE
+  + WHAT-IF
 
 7. Drawing Notation
-  - ArchiMate
-  - UML
-  - BPMN
-  - ...
+- Domain values:
+  + ArchiMate
+  + UML
+  + BPMN
+  + ...
 
 8. Drawing Type
-  - Business
-  - Data
-  - Integration
-  - Infrastructure
-  - Security
+- Domain values:
+  + Enterprise Architecture
+  + Business Architecture 
+  + Data Architecture 
+  + Integration Architecture
+  + Infrastructure Architecture
+  + Security Architecture
+  + Solution Architecture
+  + System Architecture
+  + Detail Design
 
 9. Detail Level
   - Conceptual
@@ -80,16 +89,18 @@
 22. Date
 
 23. Drawing Layer
-  - Enterprise 
-  - Solution
-  - System
-  - Functional
+- Domain values:
+  + Enterprise 
+  + Solution
+  + System
+  + Functional
 
 24. Security Classification
-  - Secret
-  - Classified
-  - Confidential
-  - Public
+- Domain values:
+  + Secret
+  + Classified
+  + Confidential
+  + Public
 
 25. Revision Info
 - Revision No.
