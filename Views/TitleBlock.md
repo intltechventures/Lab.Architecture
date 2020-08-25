@@ -3,7 +3,7 @@
 
 - If you have ever spent much time looking at building architectural drawings - you'll have noted that there is a convention of placing a "Title Block" in the lower-right hand corner of the drawing. 
 - I've done a brief survey of different diagrams - to gather some examples - as input to writing this document. 
-- I think that the current state of annotating software design architectural drawings - is *abysmal* - and much might be leanred by looking left-and-right - and seeing how other industries annotate their diagrams. 
+- I think that the current state (or, lack thereof) of annotating software design architectural drawings - is *abysmal* - and much might be gleaned by looking left-and-right - and seeing how other industries annotate their diagrams. 
 
 ## WORKING DRAFT - Suggested "Title Block" cContent, Example-1
 1. Drawing Name
@@ -60,14 +60,14 @@
 15. Release No.
 
 16.  Author:
-16.1. Name
-16.2. Job Title
-16.3. Group | Department
+- Name
+- Job Title
+- Group | Department
 
 17. Checked by
-17.1 Name
-17.2 Job TItle
-17.3 Group | Department
+- Name
+- Job TItle
+-  Group | Department
 
 18. Work Order No | Project Code | Task ID | Request ID | Deliverable ID
 
@@ -92,7 +92,7 @@
   - Public
 
 25. Revision Info
-25.1 Revision No.
-25.2 Revision Description
-25.3 Revision Date
+- Revision No.
+- Revision Description
+- Revision Date
 
