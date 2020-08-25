@@ -1,16 +1,22 @@
 
 # EA Views - Title Block Ideas
 
-- If you have ever spent much time looking at building architectural drawings - you'll have noted that there is a convention of placing a "Title Block" in the lower-right hand corner of the drawing. 
-- I've done a brief survey of different diagrams - to gather some examples - as input to writing this document. 
-- I think that the current state (or, lack thereof) of annotating software design architectural drawings - is *abysmal* - and much might be gleaned by looking left-and-right - and seeing how other industries annotate their diagrams. 
-  
-- Problem Statement
-  + Diagrams that are exported from authoring tools, culled form PowerPoint, Visio, etc.  - *usually* do not have a proper "Title Block" included
-  + These diagrams are then uploaded to various places, emailed, shared, embedded (e.g. in PPT, Word, web sites, etc.)
-  + Thus, the thread of context is lost - and they become orphans, once separated - with no clear traceability (i.e.  [Who, What, When, Where, Why](https://en.wikipedia.org/wiki/Five_Ws)
+I've begun drafting some ideas for what kind of information may be useful to include in a "[Title Block](https://en.wikipedia.org/wiki/Engineering_drawing#Title_block)" for architecture diagrams. 
 
-## STATUS: Ideation - *WORKING DRAFT* - An initial example of a suggested "Title Block" outline
+- I think that the current state (or, lack thereof) of annotating software design architectural drawings - is *abysmal* - and much might be gleaned by looking left-and-right - and seeing how other industries annotate their diagrams. 
+
+- Problem Statement:
+  + Diagrams that are exported from authoring tools, culled form PowerPoint, Visio, etc.  - *usually* do not have a proper "Title Block" included.
+  + These diagrams are then uploaded to various places, emailed, shared, embedded (e.g. in PPT, Word, web sites, etc.).
+  + Thus, the thread of context is lost - and they become orphans, once separated - with no clear traceability (i.e.  [Who, What, When, Where, Why](https://en.wikipedia.org/wiki/Five_Ws).
+   
+- I've done a brief survey of different Title Block styles - from various construction blueprints and building architecture diagrams - to gather some examples - as input to writing this document. 
+
+- My current working draft (admittedly, I've "boiled the ocean" - and it is a bit of overkill. As always, take what works for you - and discard the rest): 
+
+ 
+
+## STATUS: Ideation - *WORKING DRAFT* - some ideas for "Title Block" content
 1. Drawing Name
 
 2. Valid From Date
