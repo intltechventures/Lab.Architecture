@@ -16,14 +16,14 @@
 2. Valid From Date
 3. Valid Till Date
 
-4. Stage:
+4. Drawing Stage:
 - Domain values:
   + Ideation
   + Draft
   + Revision
   + Final
 
-5. Status:
+5. Drawing Status:
 - Domain values:
   + Pending
   + Approved
@@ -31,7 +31,7 @@
   + Withdrawn
   + Rejected
 
-6. Perspective
+6. Drawing Perspective
 - Domain values:
   + Current State
   + Future State
@@ -44,7 +44,20 @@
   + BPMN
   + ...
 
-8. Drawing Type
+8. Drawing Layer
+- Domain values:
+  + Enterprise 
+  + Solution
+  + System
+  + Functional
+
+9. Drawing Level
+- Domain Values
+  + Conceptual
+  + Logical
+  + Physical
+
+10. Drawing Type
 - Domain values:
   + Enterprise Architecture
   + Business Architecture 
@@ -56,60 +69,46 @@
   + System Architecture
   + Detail Design
 
-9. Detail Level
-- DOmain Values
-  + Conceptual
-  + Logical
-  + Physical
+11. Company
 
-10. Company
+12. Strategic Initiative
 
-11. Strategic Initiative
+13. Program Name
 
-12. Program Name
+14. Project Name
 
-13. Project Name
+15. Phase No.
 
-14. Phase No.
+16. Release No.
 
-15. Release No.
-
-16.  Author:
+17.  Author:
 - Name
 - Job Title
 - Group | Department
 
-17. Checked by
+18. Checked by
 - Name
 - Job TItle
 -  Group | Department
 
-18. Work Order No | Project Code | Task ID | Request ID | Deliverable ID
+19. Work Order No | Project Code | Task ID | Request ID | Deliverable ID
 
-19. Sheet No.
+20. Diagram <Package | Group> ID
 
-20. Sheet total
+21. Total Diagrams in <Package | Group>
 
-21. Drawing No.
+22. Drawing No.
 
-22. Date
-
-23. Drawing Layer
-- Domain values:
-  + Enterprise 
-  + Solution
-  + System
-  + Functional
-
-24. Security Classification
+23. Security Classification
 - Domain values:
   + Secret
   + Classified
   + Confidential
   + Public
 
+24. Date
+
 25. Revision Info
 - Revision No.
 - Revision Description
 - Revision Date
-
