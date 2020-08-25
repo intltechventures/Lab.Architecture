@@ -57,9 +57,10 @@
   + Detail Design
 
 9. Detail Level
-  - Conceptual
-  - Logical
-  - Physical
+- DOmain Values
+  + Conceptual
+  + Logical
+  + Physical
 
 10. Company
 
