@@ -29,6 +29,12 @@
   + https://www.avolutionsoftware.com/resources/
 
 
+- [BiZZdesign Enterprise Studio](https://bizzdesign.com/)
+  + mother-of-god, beware of the "Default" option that any user can set for an Application layer container, at any level of a repository structure - which will create some of the must brutal cluster-fuck conditions you have ever seen.
+    * Why, for the love-of-god, didn't they restrict access to that? Put it in an Admin Config panel?
+    * Seriously, that is one of THE most fucked-up things I've ever seen in an EA tool.
+
+
 - [IBM Rational System Architect](http://www.ibm.com/support/knowledgecenter/SS6RBX/sa_family_welcome.html)
 
 
