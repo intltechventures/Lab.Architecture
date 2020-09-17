@@ -9,6 +9,14 @@
   + https://en.wikipedia.org/wiki/ISO/IEC_11179
 
 
+## Data Quality
+- https://en.wikipedia.org/wiki/Data_cleansing#Data_quality
+  + Validity: The degree to which the measures conform to defined business rules or constraints 
+  + Accuracy: The degree of conformity of a measure to a standard or a true value
+  + Completeness: The degree to which all required measures are known
+  + Consistency: The degree to which a set of measures are equivalent in across systems
+  + Uniformity: The degree to which a set data measures are specified using the same units of measure in all systems
+
 
 ## Suggested Books To Read First (listed with a somewhat intentional, initial, order...)
 - [Non-Invasive Data Governance: The Path of Least Resistance and Greatest Success First Edition
