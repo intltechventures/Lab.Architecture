@@ -2,7 +2,7 @@
 Technical Reference Model
 
 Category | Status 
----|---|---  
+---|---
 Incoming | Under Evaluation
 Supported | Recommended     
 Supported | Accepted  
