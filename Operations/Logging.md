@@ -66,6 +66,7 @@
 ### Humio
 * https://humio.com/
   * (based in Denmark?)
+  * 2020 Gartner "Cool Vendor"
 * https://humio.com/features
 * https://humio.com/pricing
 * https://docs.humio.com/
