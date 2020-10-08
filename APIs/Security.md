@@ -36,6 +36,25 @@
       PingIntelligence for APIs as a high-performance reverse proxy to protect
       APIs deployed on API gateways, PingAccess or APIs deployed directly on
       application servers. "
+  + https://www.pingidentity.com/en/resources/client-library/data-sheets/3341-pingintelligence-apis.html
+    * Rich API traffic visibility & reporting
+    * Automated API discovery
+    * Artificial intelligence for each API
+    * API bad traffic analytics and threat detection
+    * Automated attack blocking—including across clouds
+    * API deception & honeypot for instant hacking detection
+    * Multiple deployment options in public and private clouds
+    * Support for hybrid IT environments
+    * Integration with popular gateways for “drop-in” deployments
+    * Automatic adaptation to changing environments
+    * Continuous self-learning; no rules to write and maintain
+  + [PingIntelligence for APIs: AI-powered API CybersecurityTECHNICAL GUIDE](https://download.pingidentity.com/public/assets/guides/en/3438-pingIntelligence-apis.pdf)
+  + https://www.pingidentity.com/en/resources/client-library/infographics/3428-api-security-enough.html
+  + https://www.pingidentity.com/en/resources/client-library/webinars/2019/architect-api-security-zero-trust.html
+  + https://www.pingidentity.com/en/resources/client-library/white-papers/d/3429-strengthen-your-api-security.html
+  + Integration Direcotory
+    * https://support.pingidentity.com/s/marketplace-integration-home-page?#sort=relevancy&f:@sfintegrateswithc=[PingIntelligence]
+
 
 
 
