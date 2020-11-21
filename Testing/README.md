@@ -120,6 +120,27 @@
   * http://watir.com/
 
 
+## User Interface Scripting/Testing Resoruces
+
+- Playwright
+  + https://playwright.dev/
+    * Playwright is a Node.js library to automate Chromium, Firefox and WebKit with a single API. 
+    * Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
+  * https://github.com/microsoft/playwright
+  + https://twitter.com/playwrightweb
+
+
+- Puppeteer
+  + https://pptr.dev/
+    * "Puppeteer is a Node library which provides a high-level API to control
+    Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by
+    default, but can be configured to run full (non-headless) Chrome or
+    Chromium."
+  + https://github.com/puppeteer/puppeteer
+  +  https://try-puppeteer.appspot.com/
+
+
+
 ## Testing Tooling, Language Specific: Java
 * Junit
   * https://junit.org/junit5/
