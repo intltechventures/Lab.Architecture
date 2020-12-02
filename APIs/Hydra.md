@@ -3,6 +3,8 @@
 
 ## References
 - https://www.ory.sh/hydra/
-- https://github.com/ory/hydra
+
+- https://github.com/ory/hydra/
+  + License: Apache-2.0
 
 
