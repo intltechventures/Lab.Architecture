@@ -20,6 +20,9 @@
 - https://openapi.tools/
 
 - https://openapi-generator.tech/
+  + Generate clients, servers, and documentation from OpenAPI 2.0/3.x documents
+  + https://openapi-generator.tech/docs/generators
+  + https://github.com/OpenAPITools/openapi-generator
 
 - https://apis.guru/openapi-directory/
 
