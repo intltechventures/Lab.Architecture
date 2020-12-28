@@ -35,7 +35,7 @@ scoring strategy (since that is where you will end-up anyway).
 
   + Let the color of a bubble plot correspond to the Business Criticality of an
     Application.
-    * <div class="text-gray mb-2">Low </div>
+    * <div class="text-blue mb-2">Low </div>
     * Medium
     * High
     * Critical 
