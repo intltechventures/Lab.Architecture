@@ -1,5 +1,8 @@
 
-# APM Assessment Resources
+# Application Portfolio Management (APM) Assessment Resources
+
+
+## Introduction
 
 - I have seen organizations waste hundreds of thousands of dollars in useless
 exerecises to attempt to assess applications for Technical and Busienss fit.
@@ -26,6 +29,16 @@ scoring strategy (since that is where you will end-up anyway).
   + Let the y-axis represent the plot for the Technical fit.
 
   + Let the range for the x and y axis be integer values in the range of 0-10. 
+
+  + Let the size of a bubble plot correspond to the Total Annual Costs for an
+    Application.
+
+  + Let the color of a bubble plot correspond to the Business Criticality of an
+    Application.
+    * <div class="bg-gray">Low </div>
+    * Medium
+    * High
+    * Critical 
 
 The following provides some initial guidance for the definition and meeaning of
 Busienss and Technical Fit.
