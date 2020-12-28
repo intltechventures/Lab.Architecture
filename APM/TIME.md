@@ -56,7 +56,7 @@ scoring strategy (since that is where you will end-up anyway).
       * RPO: 1 hour
       * RTO: 1 hour
 
-!(Criticality_Color_Scale.JPG)
+![Business Criticality Color Scale](Criticality_Color_Scale.JPG)
 
 
 The following provides some initial guidance for the definition and meeaning of
