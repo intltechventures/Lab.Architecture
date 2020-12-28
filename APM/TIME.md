@@ -5,10 +5,16 @@
 ## Introduction
 
 - I have seen organizations waste hundreds of thousands of dollars in useless
-exerecises to attempt to assess applications for Technical and Busienss fit.
+exerecises to attempt to assess applications for Technical and Busienss fit - by
+attempting to obtain greater and greater information fideltiy - with more and
+more paramters. Person-years of effort were expended - and no valuable insights
+were obtained.
 
-- Those exercises inevitably devolve into the business stakeholders discarding the
-carefully collected metrics - and dictating to Enterprise Architects where to
+- The intent is not to conduct a highly accurate data science exercise - the
+  intent is to provide a context and framework for the beginning of a discussion on Application Rationalization.
+
+- Those exercises inevitably devolved into the business stakeholders discarding the
+carefully collected _subjective metrics_ - and dictating to Enterprise Architects where to
 plot the applications in a traditional Gartner TIME quadrant diagram:
 
   + Tolerate
@@ -24,21 +30,34 @@ worst of the lot by summing and averaging a value for the x or y axis plot.
 - Therefore, my recommendation is to simply adopt a subjective, and much simpler,
 scoring strategy (since that is where you will end-up anyway).
 
-  + Let the x-axis represent the plot for Business Fit.
+  + Let the x-axis represent the plot for *Business Fit*.
 
-  + Let the y-axis represent the plot for the Technical fit.
+  + Let the y-axis represent the plot for the *Technical fit*.
 
-  + Let the range for the x and y axis be integer values in the range of 0-10. 
+  + Let the range for the x and y axis be integer values in the range of *0-10*. 
 
-  + Let the size of a bubble plot correspond to the Total Annual Costs for an
+  + Let the size of a bubble plot correspond to the *Total Annual Costs* for an
     Application.
 
-  + Let the color of a bubble plot correspond to the Business Criticality of an
-    Application.
-    * <div class="text-blue mb-2">Low </div>
-    * Medium
-    * High
-    * Critical 
+  + Let the color of a bubble plot correspond to the *Business Criticality* of an
+    Application (as defined by an associated *Recovery Point Objective* and
+    *Recovery Time Objective*). The following are suggestive/illustrative only.
+    * *Low*
+      * RPO: 72 hours
+      * RTO: 72 hours
+    * *Medium*
+      * RPO: 24 hours
+      * RTO: 24 hours
+    * *High*
+      * RPO: 8 hours
+      * RTO: 8 hours
+    * *Critical*
+      * RPO: 1 hour
+      * RTO: 1 hour
+
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
 
 The following provides some initial guidance for the definition and meeaning of
 Busienss and Technical Fit.
