@@ -1,5 +1,5 @@
 
-# Application Portfolio Management (APM) Assessment Resources
+# TIME for Application Portfolio Management (APM) Assessments
 
 
 ## Introduction
@@ -17,10 +17,10 @@ were obtained.
 carefully collected _subjective metrics_ - and dictating to Enterprise Architects where to
 plot the applications in a traditional Gartner TIME quadrant diagram:
 
-  + Tolerate
-  + Invest
-  + Migrate
-  + Elimiate
+  + **T**olerate
+  + **I**nvest
+  + **M**igrate
+  + **E**limiate
 
 
 - Additionally, when you have more than a handfull of metrics to aggregate for the
