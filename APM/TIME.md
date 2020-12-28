@@ -43,20 +43,26 @@ scoring strategy (since that is where you will end-up anyway).
   + Let the color of a bubble plot correspond to the **Business Criticality** of an
     Application (as defined by an associated *Recovery Point Objective* and
     *Recovery Time Objective*). The following are suggestive/illustrative only.
+
+    * ![Business Criticality Color Scale](images/Criticality_Color_Scale.JPG)
+
     * **Low**
       * RPO: 72 hours
       * RTO: 72 hours
+
     * **Medium**
       * RPO: 24 hours
       * RTO: 24 hours
+
     * **High**
       * RPO: 8 hours
       * RTO: 8 hours
+
     * **Critical**
       * RPO: 1 hour
       * RTO: 1 hour
 
-![Business Criticality Color Scale](images/Criticality_Color_Scale.JPG)
+
 
 
 The following provides some initial guidance for the definition and meeaning of
