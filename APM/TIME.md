@@ -30,34 +30,32 @@ worst of the lot by summing and averaging a value for the x or y axis plot.
 - Therefore, my recommendation is to simply adopt a subjective, and much simpler,
 scoring strategy (since that is where you will end-up anyway).
 
-  + Let the x-axis represent the plot for *Business Fit*.
+  + Let the x-axis represent the plot for **Business Fit**.
 
-  + Let the y-axis represent the plot for the *Technical fit*.
+  + Let the y-axis represent the plot for the **Technical fit**.
 
-  + Let the range for the x and y axis be integer values in the range of *0-10*. 
+  + Let the range for the x and y axis be integer values in the range of **0-10**. 
 
-  + Let the size of a bubble plot correspond to the *Total Annual Costs* for an
-    Application.
+  + Let the size of a bubble plot correspond to the **Total Annual Costs** for an
+    Application (which should include: Licensing Costs, Internal and External
+    maintenance/development costs, hosting/infrastructure costs).
 
-  + Let the color of a bubble plot correspond to the *Business Criticality* of an
+  + Let the color of a bubble plot correspond to the **Business Criticality** of an
     Application (as defined by an associated *Recovery Point Objective* and
     *Recovery Time Objective*). The following are suggestive/illustrative only.
-    * *Low*
+    * **Low**
       * RPO: 72 hours
       * RTO: 72 hours
-    * *Medium*
+    * **Medium**
       * RPO: 24 hours
       * RTO: 24 hours
-    * *High*
+    * **High**
       * RPO: 8 hours
       * RTO: 8 hours
-    * *Critical*
+    * **Critical**
       * RPO: 1 hour
       * RTO: 1 hour
 
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
 
 The following provides some initial guidance for the definition and meeaning of
 Busienss and Technical Fit.
