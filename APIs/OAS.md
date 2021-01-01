@@ -137,7 +137,14 @@
 
 ## Interesting News Items
 
+### 2021 
+
+
 ### 2020
+- 2020-12-08 MicroProfile OpenAPI Specification, Version: 2.0, Status: Final, Release: December 08, 2020
+  + https://download.eclipse.org/microprofile/microprofile-open-api-2.0/microprofile-openapi-spec-2.0.html
+
+
 - 2020-02-02 OpenAPI v3.1 and JSON Schema 2019-09
   + https://apisyouwonthate.com/blog/openapi-v31-and-json-schema-2019-09
     * "The Schema Object allows the definition of input and output data types. These types can be objects, but also primitives and arrays. This object is a superset of the JSON Schema Draft 2019-09 specification."
