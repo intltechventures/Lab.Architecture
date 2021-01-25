@@ -41,7 +41,7 @@
 
 - The person responsible for leading the development of an overall vision for a particular solution.
 
-- Whereas an Enterprise Architect has responsibility for defining **what has to be done**, the Solution Architect focuses on **hot to do it**.
+- Whereas an Enterprise Architect has responsibility for defining **what has to be done**, the Solution Architect focuses on **how to do it**.
 
 - The Solution Architect role typically does not have responsibility for the software engineering aspects that are usually the responsibility of a Software Architect. 
 
@@ -62,7 +62,7 @@
 - Defines phases
 - Develops specifications by which the solution is defined, managed, and delivered. 
 - Analyzing the technology environment
-- Analyzing and documening requirements 
+- Analyzing and documenting requirements 
 - Creating a solution prototype 
 - Collaborating with other project particpants 
 
