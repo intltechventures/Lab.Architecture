@@ -2,7 +2,7 @@
 # Solution Architect Role
 
 
-## Definitionas
+## Definitions
 - https://en.wikipedia.org/wiki/Solution_architecture
   + **Solution Architecutre**: "A description of a discrete and focused business operation or activity and how IS/IT supports that operation".
 
@@ -88,7 +88,7 @@
 - Projects that involve:
   - High levels of uncertainty 
   - High risks
-  - Busienss transformations
+  - Business transformations
   - High levels of coordiantion and communication between technical and business personnel
   - Spanning multiple teams
 
