@@ -17,19 +17,20 @@ I've begun drafting some ideas for what kind of information may be useful to inc
  
 
 ## STATUS: Ideation - *WORKING DRAFT* - some ideas for "Title Block" content
-1. Drawing Name
 
-2. Valid From Date
-3. Valid Till Date
+1. **Drawing Name:**
 
-4. Drawing Stage:
+2. **Valid From Date:** ```YYYY-MM-DD```
+3. **Valid Till Date:** ```YYYY-MM-DD```
+
+4. **Drawing Stage:**
 - Domain values:
   + Ideation
   + Draft
   + Revision
   + Final
 
-5. Drawing Status:
+5. **Drawing Status:**
 - Domain values:
   + Pending
   + Approved
@@ -37,33 +38,33 @@ I've begun drafting some ideas for what kind of information may be useful to inc
   + Withdrawn
   + Rejected
 
-6. Drawing Perspective
+6. **Drawing Perspective**
 - Domain values:
   + Current State
   + Future State
   + What-If
 
-7. Drawing Notation
+7. **Drawing Notation**
 - Domain values:
   + ArchiMate
   + UML
   + BPMN
   + ...
 
-8. Drawing Layer
+8. **Drawing Layer**
 - Domain values:
   + Enterprise 
   + Solution
   + System
   + Functional
 
-9. Drawing Level
+9. **Drawing Level**
 - Domain Values
   + Conceptual
   + Logical
   + Physical
 
-10. Drawing Type
+10. **Drawing Type**
 - Domain values:
   + Enterprise Architecture
   + Business Architecture 
@@ -75,46 +76,48 @@ I've begun drafting some ideas for what kind of information may be useful to inc
   + System Architecture
   + Detail Design
 
-11. Company
+11. **Company:**
 
-12. Strategic Initiative
+12. **Strategic Initiative:**
 
-13. Program Name
+13. **Program Name:**
 
-14. Project Name
+14. **Project Name:**
 
-15. Phase No.
+15. **Phase No.**
 
-16. Release No.
+16. **Release No.**
 
-17.  Author:
+17. **Author:**
 - Name
 - Job Title
 - Group | Department
 
-18. Checked by
+18. **Checked by:**
 - Name
 - Job TItle
 -  Group | Department
 
-19. {Work Order No | Project Code | Task ID | Request ID | Deliverable ID}
+19. **Work ID:** {Program Increment No. | Work Order No. | Project Code | Task ID | Request ID | Deliverable ID}
 
-20. Diagram {ackage | Group> ID}
+20. **Diagram Collection:** {Package Name | Group ID}
 
-21. Total Diagrams in {Package | Group}
+21. **Total Diagrams:**  {```N```}
 
-22. Drawing No.
+22. **Drawing No.:** {```M of N```}
 
-23. Security Classification
+23. **Security Classification**
 - Domain values:
   + Secret
   + Classified
   + Confidential
   + Public
 
-24. Date
+24. **Creation Date:** ```YYYY-MM-DD```
 
-25. Revision Info
-- Revision No.
-- Revision Description
-- Revision Date
+25. **Revision Info**
+- Revision No.: 
+- Revision Description: 
+- Revision Date: ```YYYY-MM-DD```
+
+
