@@ -24,6 +24,9 @@
     * "We would use swagger 2.0 instead of the newer version of OAS 3.0 because this is recognized by both AWS and Dell
       Boomi."
 
+- https://help.boomi.com/bundle/api_management/page/c-atm-API_design.html
+  + As of 2021-02-01, it appears that there are severly limited API design options - and WSDL/SOAP seem to be the
+    predominate option. No mention of OpenAPI Specification (OAS) support.
 
 
 
