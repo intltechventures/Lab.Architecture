@@ -27,6 +27,7 @@
 - https://help.boomi.com/bundle/api_management/page/c-atm-API_design.html
   + As of 2021-02-01, it appears that there are severly limited API design options - and WSDL/SOAP seem to be the
     predominate option. No mention of OpenAPI Specification (OAS) support.
-
+  + However, Swagger and REST are mentioned here:
+    * https://help.boomi.com/bundle/api_management/page/int-API_Service_components.html
 
 
