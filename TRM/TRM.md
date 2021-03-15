@@ -29,4 +29,12 @@ Prohibited | Not Approved
 - Alignment with vision, strategy, roadmap
 - Consistent technology standards
 
+## TRM Exemplars
+
+### Veteran's Administration TRM
+- https://www.oit.va.gov/Services/TRM/TRMHomePage.aspx
+  + KM: I think one of the most well organized approaches to communicating TRM information is the publicly accessible VA
+    TRM site. In particular, when you click on a specific technology/standard - note the lifecycle time-dimension that illustrates
+    the transition from one status to another. Ssee the *Decision* link for a given entry:
+      * https://www.oit.va.gov/Services/TRM/ToolListSummaryPage.aspx
 
