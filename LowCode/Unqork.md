@@ -27,6 +27,7 @@
 
 - https://www.linkedin.com/company/unqork/
 - https://www.glassdoor.com/Overview/Working-at-Unqork-EI_IE2100426.11,17.htm
+- https://www.builtinnyc.com/company/unqork
 
 
 ## Training Resources
@@ -38,16 +39,23 @@
 - https://www.unqork.com/about/newsroom
 - https://twitter.com/Unqork
 
-- 2020
-  + [Next frontier in Microsoft, Google, Amazon cloud battle is over a world without code](https://www.cnbc.com/2020/04/01/new-microsoft-google-amazon-cloud-battle-over-world-without-code.html)
+### 2020
+  + 2020-10-16 [Former MetLife CIO’s ‘No-Code’ Startup Unqork Hits $2 Billion Valuation With New Fundraise](https://www.forbes.com/sites/martingiles/2020/10/06/no-code-startup-unqork-hits-2-billion-valuation/?sh=6fb9efa5138c)
+
+  + 2020-06-16 [D.C. and NYC built digital COVID-19 portals within days, thanks to this tool](https://www.fastcompany.com/90516276/this-tool-helped-dc-and-nyc-build-digital-covid-19-portals-within-days)
+
+
+  + 2020-04-23 [Using Unqork's No-Code Software, Washington, DC Deploys COVID-19 Support Hub and New York City Delivers Over Two Million Meals](https://www.unqork.com/covid19-management-hub-press-release)
+
+  + 2020-04-01 [Next frontier in Microsoft, Google, Amazon cloud battle is over a world without code](https://www.cnbc.com/2020/04/01/new-microsoft-google-amazon-cloud-battle-over-world-without-code.html)
     * "Start-up Unqork offers no-code software that was just used by New York City to build and launch a coronavirus crisis-management platform in days."
 
-  + [Unqork CEO: Anything Java Coders Can Do, No-Code Can Do 200x Faster](https://developers.slashdot.org/story/20/04/05/2118210/unqork-ceo-anything-java-coders-can-do-no-code-can-do-200x-faster)
+  + 2020-04-05 [Unqork CEO: Anything Java Coders Can Do, No-Code Can Do 200x Faster](https://developers.slashdot.org/story/20/04/05/2118210/unqork-ceo-anything-java-coders-can-do-no-code-can-do-200x-faster)
     * https://slashdot.org/comments.pl?sid=16108584&cid=59914832
     * [Register for Gary's webcast for the Slashdot community on Thursday 11:30AM EDT](https://ghoberman.typeform.com/to/tSlnYG)
 
 
-- 2019 
+### 2019 
   + [Unqork CEO - ‘Agile has failed’](https://diginomica.com/unqork-ceo-agile-has-failed)
     * "Hoberman claims that the previous three phases have failed because there is a breakdown between the ‘idea’ and then the ‘design/build’."
     * "The reality of agile is that it works for very small deliverables and nothing else. It fails miserably. It fails because business doesn’t know what it needs until it’s in production. There’s always a backlog and it’s always ‘coming’. Also, once they see what’s in production, the problem is time to market. If we use the ‘building a house’ analogy - if they need to move the window to get the exact right lighting, the barrier to moving that window is code."
@@ -61,10 +69,10 @@
 
 
 ## YouTube Resources
-- Unqork Channel
+### Unqork Channel
   + https://www.youtube.com/channel/UC4fU3i-_WG4yDn8e2LeYgPQ
 
-- 2019 Videos
+### 2019 Videos
   + [1065: How Unqork Is Driving the No-Code Enterprise Revolution, Neil C. Hughes](https://www.youtube.com/watch?v=890r7r06JkQ)
   + [Interview with Unqork's Founder & CEO, Oliver Wyman](https://www.youtube.com/watch?v=wTrgN3gTnxI)
   + [Unqork - All the Details on the Company & Technology, VentureFizz](https://www.youtube.com/watch?v=rFJG3S_GsoM)
