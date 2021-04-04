@@ -27,7 +27,22 @@ the definition of various terms that are often used when discussing messaging, e
 
 ## Solution Citations/References
 
-## Kafka 
+### AMPQ
+
+
+
+### Apache Pulse
+
+
+
+### IBM MQ
+
+
+
+### JMS
+
+
+### Kafka 
 - https://www.confluent.io/blog/event-streaming-platform-1/
   + *Putting Apache Kafka To Use: A Practical Guide to Building an Event Streaming Platform (Part 1, 2015)*
 
@@ -83,6 +98,15 @@ the definition of various terms that are often used when discussing messaging, e
       * "Messaging systems do not provide semantics that are easily compatible with rich stream processing"
 
   + _"an event streaming platform is a messaging system whose role has been re-thought at a company-wide scale."_
+
+
+
+### MQTT
+
+
+
+### RabbitMQ
+
 
 
 ## Background Reading
