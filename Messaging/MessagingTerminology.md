@@ -10,15 +10,16 @@ the definition of various terms that are often used when discussing messaging, e
     * Message
     * Message Broker
     * Messaging Framework
-    * Message Orietned Middleware (MOM)
+    * Message Oriented Middleware (MOM)
 
   + Streaming
     * Event
     * Streaming Platform
     * Event Stream Platform
 
+  + Pub/Sub
 
-- Useful distinction
+- Useful distinction..._?_
   + real-time data streams 
   + messaging
 
