@@ -63,11 +63,9 @@ the definition of various terms that are often used when discussing messaging, e
         cloud-based, event-driven architectures that are implemented on Pub/Sub"
 
         * image source: google.com
-          * Message Queue model:
             * ![](https://cloud.google.com/solutions/images/event-driven-architecture-pubsub-1-comparison-overview.svg)
 
-          * Pub/Sub model:
-            * ![](https://cloud.google.com/solutions/images/event-driven-architecture-pubsub-1-comparison-overview.svg)
+    * https://cloud.google.com/pubsub/architecture
 
 
   + Real Time Streaming Protocol (RTSP)
