@@ -8,11 +8,22 @@ the definition of various terms that are often used when discussing messaging, e
 - Terms of Art (_"a word or phrase that has a precise, specialized meaning within a particular field or profession."_)
   + Messaging:
     * Message
+
+    * Message Passing
+      * https://en.wikipedia.org/wiki/Message_passing
+
+
+    * Queue
+      * https://en.wikipedia.org/wiki/Queue_(abstract_data_type)
+
     * Message Queue 
       * https://en.wikipedia.org/wiki/Message_queue
         * _"In computer science, message queues and mailboxes are software-engineering components typically used for inter-process communication (IPC), or for inter-thread communication within the same process. They use a queue *for messaging – the passing of control or of content*."_
+
     * Message Broker
+
     * Messaging Framework
+
     * Message Oriented Middleware (MOM)
       * https://en.wikipedia.org/wiki/Message-oriented_middleware
         * "software or hardware infrastructure supporting sending and receiving messages between distributed systems"
@@ -26,6 +37,7 @@ the definition of various terms that are often used when discussing messaging, e
 
   + Streaming
     * Event
+
     * Stream Processing
       * https://en.wikipedia.org/wiki/Stream_processing
         * "Stream processing is a computer programming paradigm, equivalent to dataflow programming, event stream
@@ -36,13 +48,26 @@ the definition of various terms that are often used when discussing messaging, e
           on-chip memory reuse is attempted, in order to minimize the loss in bandwidth, associated with external memory
           interaction. "
         * "Uniform streaming, where one kernel function is applied to all elements in the stream, is typical."
+
     * Streaming Platform
+
     * Event Stream Platform
+
 
   + Broker
     * "A broker is a server that routes published messages to subscribers."
 
   + Pub/Sub
+    * https://cloud.google.com/solutions/event-driven-architecture-pubsub
+      * "This document discusses the differences between on-premises message-queue-driven architectures and the
+        cloud-based, event-driven architectures that are implemented on Pub/Sub"
+
+        * image source: google.com
+          * Message Queue model:
+            * ![](https://cloud.google.com/solutions/images/event-driven-architecture-pubsub-1-comparison-overview.svg)
+
+          * Pub/Sub model:
+            * ![](https://cloud.google.com/solutions/images/event-driven-architecture-pubsub-1-comparison-overview.svg)
 
 
   + Real Time Streaming Protocol (RTSP)
@@ -62,19 +87,21 @@ the definition of various terms that are often used when discussing messaging, e
 - https://www.amqp.org/
   * "The Advanced Message Queuing Protocol (AMQP) is an open standard for passing business messages between applications
     or organizations. "
-  * https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
-    * "The Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented
-      middleware. The defining features of AMQP are message orientation, queuing, routing (including point-to-point and
-      publish-and-subscribe), reliability and security."
-    * "Previous standardizations of middleware have happened at the API level (e.g. JMS) and were focused on
-      standardizing programmer interaction with different middleware implementations, rather than on providing
-      interoperability between multiple implementations.[2] Unlike JMS, which defines an API and a set of behaviors that
-      a messaging implementation must provide, AMQP is a wire-level protocol. A wire-level protocol is a description of
-      the format of the data that is sent across the network as a stream of bytes."
-    * "The link protocol transfers messages between two nodes but assumes very little as to what those nodes are or how
-      they are implemented. "
-    * "A key category is those nodes used as a _*rendezvous point*_ between senders and receivers of messages (e.g. queues
-      or topics). The AMQP specification calls such nodes distribution nodes and codifies some common behaviors."
+
+- https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+  * "The Advanced Message Queuing Protocol (AMQP) is an open standard application layer protocol for message-oriented
+     middleware. The defining features of AMQP are message orientation, queuing, routing (including point-to-point and
+     publish-and-subscribe), reliability and security."
+  * "Previous standardizations of middleware have happened at the API level (e.g. JMS) and were focused on
+    standardizing programmer interaction with different middleware implementations, rather than on providing
+    interoperability between multiple implementations.[2] Unlike JMS, which defines an API and a set of behaviors that
+    a messaging implementation must provide, AMQP is a wire-level protocol. A wire-level protocol is a description of
+    the format of the data that is sent across the network as a stream of bytes."
+  * "The link protocol transfers messages between two nodes but assumes very little as to what those nodes are or how
+    they are implemented. "
+  * "A key category is those nodes used as a _*rendezvous point*_ between senders and receivers of messages (e.g. queues
+     or topics). The AMQP specification calls such nodes distribution nodes and codifies some common behaviors."
+
 
 
 ### Amazon Kinesis
@@ -85,6 +112,13 @@ the definition of various terms that are often used when discussing messaging, e
 
 - https://docs.aws.amazon.com/streams/latest/dev/introduction.html
 
+
+### Amazon Simple Queue Service (SQS)
+- https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service
+
+
+### Apache ActiveMQ
+- https://en.wikipedia.org/wiki/Apache_ActiveMQ
 
 
 ### Apache Flink
@@ -137,11 +171,15 @@ the definition of various terms that are often used when discussing messaging, e
 ### Apache Pulse
 
 
+### Apache Qpid
+
 ### Apache Spark 
 - https://spark.apache.org/
   * "Apache Spark™ is a unified analytics engine for large-scale data processing."
   * "Apache Spark achieves high performance for both batch and streaming data, using a state-of-the-art DAG scheduler, a
     query optimizer, and a physical execution engine. "
+
+- https://spark.apache.org/streaming/
 
 - https://spark.apache.org/docs/latest/
   + https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
@@ -367,6 +405,7 @@ the definition of various terms that are often used when discussing messaging, e
     ensure reliability and some degree of assurance of delivery. These principles also turn out to make the protocol
     ideal of the “Internet of Things” world of connected devices, and for mobile applications where bandwidth and
     battery power are at a premium."
+
 - https://en.wikipedia.org/wiki/MQTT
   * "a lightweight, publish-subscribe network protocol that transports messages between devices. The protocol usually
     runs over TCP/IP; however, any network protocol that provides ordered, lossless, bi-directional connections can
@@ -392,6 +431,20 @@ the definition of various terms that are often used when discussing messaging, e
   * "The default unencrypted MQTT port is 1883. The encrypted port is 8883"
 
 
+
+### Microsoft Message Queuing (MSMQ)
+- https://en.wikipedia.org/wiki/Microsoft_Message_Queuing
+
+
+
+### NATS 
+- https://en.wikipedia.org/wiki/NATS_Messaging
+
+
+
+### Oracle Messaging Cloud Service 
+
+
 ### RabbitMQ
 - https://www.rabbitmq.com/
 
@@ -403,6 +456,14 @@ the definition of various terms that are often used when discussing messaging, e
   * "an open-source message-broker software (sometimes called message-oriented middleware) that originally
     implemented the Advanced Message Queuing Protocol (AMQP) and has since been extended with a plug-in architecture to
     support Streaming Text Oriented Messaging Protocol (STOMP), MQ Telemetry Transport (MQTT), and other protocols."
+
+
+
+### TIBCO Enterprise Message Service 
+
+
+
+### ZeroMQ
 
 
 ## Background Reading
