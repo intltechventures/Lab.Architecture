@@ -119,6 +119,12 @@ the definition of various terms that are often used when discussing messaging, e
 - https://en.wikipedia.org/wiki/Apache_ActiveMQ
 
 
+### Apache Apex
+- 2021-04-05 RETIRED
+  + http://attic.apache.org/projects/apex.html
+    * " Apex was a unified platform for big data stream and batch processing. Use cases included ingestion, ETL, real-time analytics, alerts and real-time actions."
+
+
 ### Apache Flink
 - https://flink.apache.org/
   + source: flink.apache.org
