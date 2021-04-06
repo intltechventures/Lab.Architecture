@@ -355,6 +355,9 @@ the definition of various terms that are often used when discussing messaging, e
     * Streams API – This API converts the input streams to output and produces the result.
     * Admin API – used to manage Kafka topics, brokers and other Kafka objects.
 
+- https://www.confluent.io/designing-event-driven-systems/
+  + (download free eBook)
+
 - https://www.confluent.io/blog/event-streaming-platform-1/
   + *Putting Apache Kafka To Use: A Practical Guide to Building an Event Streaming Platform (Part 1, 2015)*
 
