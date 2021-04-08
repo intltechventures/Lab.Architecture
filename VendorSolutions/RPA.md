@@ -56,6 +56,10 @@
 
 ### UiPath 
 
+- Book: Robotic Process Automation using UiPath StudioX
+  + https://therpabook.com/
+  + https://www.amazon.com/Robotic-Process-Automation-UiPath-StudioX/dp/1484267931/
+
 
 ### Workfusion 
 
