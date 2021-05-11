@@ -8,7 +8,12 @@
       identified the 14 most significant ones — AgilePoint, Appian, GeneXus, HCL Software, Mendix, Microsoft, Oracle,
       OutSystems, Pegasystems, Salesforce, ServiceNow, Thinkwise Software, Unqork, and WaveMaker — and researched,
       analyzed, and scored them."
-  + https://www.linkedin.com/posts/gary-hoberman_the-forrester-wave-low-code-development-activity-6797958107961049088-X1JR
+
+  + Microsoft (see report diagram)
+    * https://powerapps.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-forrester-wave-low-code-development-platforms-q2-2021/
+
+  + Unqork
+    * https://www.linkedin.com/posts/gary-hoberman_the-forrester-wave-low-code-development-activity-6797958107961049088-X1JR
     * “Unqork is the Rookie of the Year.” 
 
 
