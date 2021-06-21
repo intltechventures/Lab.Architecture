@@ -63,8 +63,6 @@ scoring strategy (since that is where you will end-up anyway).
       * RTO: 1 hour
 
 
-
-
 The following provides some initial guidance for the definition and meeaning of
 Busienss and Technical Fit.
 
