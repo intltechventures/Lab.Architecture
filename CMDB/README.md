@@ -22,6 +22,14 @@
   + https://www.servicenow.com/
 
 
+
+## Asset Discovery and Inventory 
+
+- Tanium
+  + https://www.tanium.com/solutions/asset-discovery-and-inventory/
+
+
+
 ## Open Source Solutions
 
 - Ralph
