@@ -6,6 +6,7 @@
 Sources:   
   + https://builtin.com/fintech/fintech-payments-companies-examples (2019)
 
+- Adyen
 
 - Aeropay 
   + ?
@@ -20,6 +21,13 @@ Sources:
   + ?
   + https://www.circle.com/en/
 
+
+- CyberSource
+
+
+- Forter (?)
+
+
 - Incomm Payments
   + https://www.incomm.com/
 
@@ -29,12 +37,23 @@ Sources:
 
 
 - Remittly 
-  * ?
+  + ?
+
 
 - Ripple
-  * ?
+  + ?
+
+- Salesforce Payments (2022?)
+
+
+- Signifyd (?)
+
+
 
 - Square 
 
 
 - Stripe 
+
+
+
