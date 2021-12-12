@@ -15,3 +15,4 @@
   + https://www.indycar.com/Fan-Info/INDYCAR-101/The-Teams/Anatomy-Of-A-Pit-Stop
   + https://en.wikipedia.org/wiki/Pit_Stop_Challenge
   + [F1 Pitstop 1950 vs 2009 vs 2013](https://www.youtube.com/watch?v=12lThqXA-Dg)
+  + [2021-12-12 My reply](https://www.linkedin.com/feed/update/urn:li:activity:6875793881510813697?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6875793881510813697%2C6875849433637097472%29) to Kylie Kirk's LinkedIn post
