@@ -14,3 +14,4 @@
 101:  If you build an Enterprise Architecture  practice along the lines of an "Indy 500 Pit Stop service crew", you'll  have a better chance of providing the business with an "acceleration factor" - and achieving an agile architecture operational model, than if you are still working to implement EA practices along the lines of a construction permitting process.
   + https://www.indycar.com/Fan-Info/INDYCAR-101/The-Teams/Anatomy-Of-A-Pit-Stop
   + https://en.wikipedia.org/wiki/Pit_Stop_Challenge
+  + [F1 Pitstop 1950 vs 2009 vs 2013](https://www.youtube.com/watch?v=12lThqXA-Dg)
