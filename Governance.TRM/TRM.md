@@ -4,16 +4,16 @@
 
 ## TRM Entries - Governance Status Values
 
-Category | Status 
----|---
-Incoming | Under Evaluation
-Supported | Recommended     
-Supported | Accepted  
-Supported | Future   
-Limited | Contain  
-Limited | In Use  
-Prohibited | Obsolete  
-Prohibited | Not Approved  
+Category      | Status 
+--------------|---
+Incoming      | Under Evaluation
+Supported     | Recommended     
+Supported     | Accepted  
+Supported     | Future   
+Limited       | Contain  
+Limited       | In Use  
+Prohibited    | Obsolete  
+Prohibited    | Not Approved  
 
 
 ## References
@@ -29,12 +29,17 @@ Prohibited | Not Approved
 - Alignment with vision, strategy, roadmap
 - Consistent technology standards
 
+
 ## TRM Exemplars
 
 ### Veteran's Administration TRM
 - https://www.oit.va.gov/Services/TRM/TRMHomePage.aspx
   + KM: I think one of the most well organized approaches to communicating TRM information is the publicly accessible VA
     TRM site. In particular, when you click on a specific technology/standard - note the lifecycle time-dimension that illustrates
-    the transition from one status to another. Ssee the *Decision* link for a given entry:
+    the transition from one status to another. Ssee the *Decision* link for a given entry (see *Glassfish* entry below):
       * https://www.oit.va.gov/Services/TRM/ToolListSummaryPage.aspx
+      * https://www.oit.va.gov/Services/TRM/CategorizationHelpPage.aspx
+        * Example Technology entry: *Glassfish*
+          * https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=6563
+      * https://www.oit.va.gov/Services/TRM/ReportVACategoryMapping.aspx
 
