@@ -3,3 +3,6 @@
 
 ## References 
 - https://baserow.io/
+  + Note: Open Source
+  + https://gitlab.com/bramw/baserow
+
