@@ -1,9 +1,14 @@
 
-User Experience (UX) Resources
-====
+# User Experience (UX) Resources
+
+## Journals 
+- Journal of User Experience (JUX)
+  + https://uxpajournal.org/
+    * https://uxpajournal.org/call-for-papers/
 
 
-### News Resources
+
+## News Resources
 * https://www.smashingmagazine.com/
   * https://twitter.com/smashingmag
 
@@ -55,8 +60,11 @@ User Experience (UX) Resources
 * https://measuringu.com/
   * https://twitter.com/MeasuringU
 
+- https://usabilitygeek.com/
+  + https://usabilitygeek.com/landing-page/
+  
 
-### Find Designers / Design Idea Resources
+## Find Designers / Design Idea Resources
 * https://www.behance.net/
   * https://twitter.com/Behance
 
@@ -64,17 +72,17 @@ User Experience (UX) Resources
   * https://twitter.com/dribbble
 
 
-### Interesting UX Twitter Feeds
+## Interesting UX Twitter Feeds
 * https://twitter.com/mikedmorgan
 
 
 
-### Prototyping / Design Tools
+## Prototyping / Design Tools
 * https://framer.com/
   * macOS only
 
 
-### Commercial Design Resources
+## Commercial Design Resources
 * Adobe XD
   * https://www.adobe.com/products/xd.html
   * https://twitter.com/AdobeXD
@@ -83,7 +91,7 @@ User Experience (UX) Resources
 
 
 
-### Open SOurce Illustration Resources
+## Open SOurce Illustration Resources
 * https://undraw.co/
   * https://twitter.com/unDraw_co
 
