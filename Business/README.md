@@ -9,6 +9,10 @@
     * Public storage of Iasa BTABoK including information and tools
 
 
+## Digital Practitioner Body of Knowledge™ Standard, The Open Group
+- https://pubs.opengroup.org/dpbok/standard/_preface.html
+
+
 ## TOGAF Resources
 - https://pubs.opengroup.org/architecture/togaf9-doc/arch/
 
