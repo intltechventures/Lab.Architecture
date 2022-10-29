@@ -75,7 +75,7 @@
   + Annuallly 
 
 - Availability 
-- 
+- Mean Time to Recovery (MTTR) 
 
 
 ## Metrics: Service Management Operations (SMO)
@@ -135,3 +135,28 @@
 - Top 10 Modules, with highest change frequency
 - Open Requests for Enhancements / New Features
 
+- Code Metrics
+  + Cyclometric Complexity
+
+- Agile Process
+  + Sprint Burndown 
+  + Epic Burndown
+  + Release Burdown 
+  + Velocity 
+
+
+- Lead Time to Change 
+
+- Change Failure Rate 
+
+- Mean Time to Recovery
+
+- Deployment Frequency 
+
+
+
+## Security 
+
+- Vulnerabilities, by Severity Level 
+- Time to Resolution 
+- Risks Quantification 
