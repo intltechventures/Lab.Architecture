@@ -22,6 +22,21 @@
       * https://github.com/gwatts/jquery.sparkline/
 
 
+## Metric Dashboards - by Audience Focus
+
+- CEO
+- CIO
+- CTO
+- Senior Leadership Team
+- Division
+- IT Operations
+- IT Engineering / Software Development 
+- IT Infrastructure
+- IT Security
+- IT Architecture
+
+
+
 ## Metrics: Business 
 - Net Promoter Score (NPS)
 
@@ -121,7 +136,7 @@
   + EOL within 180 days 
 
 
-## Software Development Lifecycle 
+## Metrics: Software Development Lifecycle 
 
 - Requirements
   + Story Backlog 
@@ -155,7 +170,7 @@
 
 
 
-## Security 
+## Metrics: Security 
 
 - Vulnerabilities, by Severity Level 
 - Time to Resolution 
