@@ -182,6 +182,10 @@
 
 
 
+## A/B Testing
+- Book: [Trustworthy Online Controlled Experiments 1st Edition](https://www.amazon.com/Trustworthy-Online-Controlled-Experiments-Practical/dp/1108724264)
+  + https://experimentguide.com/
+
 
 
 ## References
