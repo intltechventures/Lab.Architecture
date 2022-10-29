@@ -2,6 +2,9 @@
 # Ideas for Possible Reporting Metrics
 - Status: WORKING DRAFT
 
+- For _most_ of these metrics - you could consider reporting Daily, Weekly, Monthly, Quarterly, Year-to-Date numbers...
+
+
 ## Metrics: Business 
 - Number of Users:
   - New Visitors
