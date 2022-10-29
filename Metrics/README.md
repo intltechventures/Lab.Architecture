@@ -28,7 +28,11 @@
 - CIO
 - CTO
 - Senior Leadership Team
+- Geographic Area
+- Subsidiary
+- Business Line
 - Division
+- Department
 - IT Operations
 - IT Engineering / Software Development 
 - IT Infrastructure
@@ -175,3 +179,20 @@
 - Vulnerabilities, by Severity Level 
 - Time to Resolution 
 - Risks Quantification 
+
+
+
+
+
+## References
+
+### Background Reading
+- https://www.cio.com/article/219666/9-key-metrics-for-it-success.html
+- https://www.eweek.com/cloud/how-cios-measure-themselves-and-why-it-matters/
+
+- https://www.apptio.com/solutions/it-finance/it-metrics-kpis/
+- https://www.apptio.com/de/it-metrics-and-kpis/
+
+- https://www.businessofgovernment.org/sites/default/files/Creating%20a%20Balanced%20Portfolio%20of%20Information%20Technology%20Metrics.pdf
+- https://www.cisa.gov/sites/default/files/publications/FY_2021_FISMA_CIO_Metrics-v1.1.pdf
+
