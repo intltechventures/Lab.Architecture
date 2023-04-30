@@ -6,17 +6,20 @@ This document is placeholder as I collect and organize AI resources that I think
 
 ## Background Reading
 
-What Is ChatGPT Doing … and Why Does It Work?
-Stephen Wolfram
-https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+### Stephen Wolfram:
+- What Is ChatGPT Doing … and Why Does It Work?
+  + https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
+    
+- Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT
+  + https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
+
+- CHATGPT + WOLFRAM - THE FUTURE OF AI!
+  + https://www.youtube.com/watch?v=z5WZhCBRDpU
 
 
-Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT
-https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/
-
-
-Microsoft's AI Future of Work Event: Everything Revealed in 8 Minutes
-https://www.youtube.com/watch?v=VqhDnaqhnd4
+### Microsoft:
+- Microsoft's AI Future of Work Event: Everything Revealed in 8 Minutes
+  + https://www.youtube.com/watch?v=VqhDnaqhnd4
 
 
 Full interview: "Godfather of artificial intelligence" talks impact and potential of AI
@@ -27,36 +30,37 @@ How to learn to code FAST using ChatGPT (it's a game changer seriously)
 https://www.youtube.com/watch?v=VznoKyh6AXs
 
 
-CHATGPT + WOLFRAM - THE FUTURE OF AI!
-https://www.youtube.com/watch?v=z5WZhCBRDpU
-
-
 AutoGPT: This Is ChatGPT Supercharged!
 https://www.youtube.com/watch?v=LqjVMy2qhRY
 
-
-Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367
-https://www.youtube.com/watch?v=L_Guz73e6fw
-
-
-ChatGPT Prompt Engineering Course
-https://www.youtube.com/watch?v=mBYu5NoXBcs
+### Lex Friedman Postcast:
+- Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367
+  + https://www.youtube.com/watch?v=L_Guz73e6fw
 
 
-Chat GPT Examples - 30 INSANE Things YOU Can do with AI RIGHT NOW!
-https://www.youtube.com/watch?v=mFa7Kxwqruc
+## Examples
+
+- Chat GPT Examples - 30 INSANE Things YOU Can do with AI RIGHT NOW!
+  + https://www.youtube.com/watch?v=mFa7Kxwqruc
 
 
-Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]
-https://www.youtube.com/watch?v=jHv63Uvk5VA
+## Training Resources
+
+- ChatGPT Prompt Engineering Course
+  + https://www.youtube.com/watch?v=mBYu5NoXBcs
 
 
-"OpenAI (2023)" GPT-4 Technical Report
-https://cdn.openai.com/papers/gpt-4.pdf
+- Complete ChatGPT Tutorial - [Become A Power User in 30 Minutes]
+  + https://www.youtube.com/watch?v=jHv63Uvk5VA
 
 
-kDimensions a visual introduction to meor amer
-https://media.licdn.com/dms/document/C4E1FAQEavZ7MTF_ezw/feedshare-document-pdf-analyzed/0/1641019789075?e=1681948800&v=beta&t=EPvgkdT3S56jNR5w5fyoaztuHpbW0az3llOEtGX8PGg
+
+## Technical Papers
+
+- "OpenAI (2023)" GPT-4 Technical Report
+  + https://cdn.openai.com/papers/gpt-4.pdf
+    * See page-55, re: halucination concerns
+
 
 
 ## Concerns
@@ -92,5 +96,12 @@ https://www.youtube.com/watch?v=h_cy-xpp7kA
 
 ## Suggested Books 
 
-...
+...more to be added...
+
+
+
+
+- kDimensions a visual introduction to meor amer
+  + https://media.licdn.com/dms/document/C4E1FAQEavZ7MTF_ezw/feedshare-document-pdf-analyzed/0/1641019789075?e=1681948800&v=beta&t=EPvgkdT3S56jNR5w5fyoaztuHpbW0az3llOEtGX8PGg
+
 
