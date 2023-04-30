@@ -104,7 +104,6 @@ This document is placeholder as I collect and organize AI resources that I think
 
 
 
-- kDimensions a visual introduction to meor amer
-  + https://media.licdn.com/dms/document/C4E1FAQEavZ7MTF_ezw/feedshare-document-pdf-analyzed/0/1641019789075?e=1681948800&v=beta&t=EPvgkdT3S56jNR5w5fyoaztuHpbW0az3llOEtGX8PGg
+
 
 
