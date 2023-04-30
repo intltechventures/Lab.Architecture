@@ -22,20 +22,23 @@ This document is placeholder as I collect and organize AI resources that I think
   + https://www.youtube.com/watch?v=VqhDnaqhnd4
 
 
-Full interview: "Godfather of artificial intelligence" talks impact and potential of AI
-https://www.youtube.com/watch?v=qpoRO378qRY
+### Misc. YouTube videos
+- Full interview: "Godfather of artificial intelligence" talks impact and potential of AI
+  + https://www.youtube.com/watch?v=qpoRO378qRY
 
 
-How to learn to code FAST using ChatGPT (it's a game changer seriously)
-https://www.youtube.com/watch?v=VznoKyh6AXs
+- How to learn to code FAST using ChatGPT (it's a game changer seriously)
+  + https://www.youtube.com/watch?v=VznoKyh6AXs
 
 
-AutoGPT: This Is ChatGPT Supercharged!
-https://www.youtube.com/watch?v=LqjVMy2qhRY
+- AutoGPT: This Is ChatGPT Supercharged!
+  + https://www.youtube.com/watch?v=LqjVMy2qhRY
 
-### Lex Friedman Postcast:
+
+### Lex Friedman Postcasts:
 - Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI | Lex Fridman Podcast #367
   + https://www.youtube.com/watch?v=L_Guz73e6fw
+
 
 
 ## Examples
@@ -65,32 +68,32 @@ https://www.youtube.com/watch?v=LqjVMy2qhRY
 
 ## Concerns
 
-The A.I. Dilemma - March 9, 2023
-https://www.youtube.com/watch?v=xoVJKj8lcNQ
+- The A.I. Dilemma - March 9, 2023
+  + https://www.youtube.com/watch?v=xoVJKj8lcNQ
 
 
-Why AI Is Incredibly Smart — and Shockingly Stupid
-https://www.youtube.com/watch?v=SvBR0OGT5VI
+- Why AI Is Incredibly Smart — and Shockingly Stupid
+  + https://www.youtube.com/watch?v=SvBR0OGT5VI
 
 
-Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization |
-https://www.youtube.com/watch?v=AaTRHFaaPG8
+- Eliezer Yudkowsky: Dangers of AI and the End of Human Civilization |
+  + https://www.youtube.com/watch?v=AaTRHFaaPG8
 
 
-Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371
-https://www.youtube.com/watch?v=VcVfceTsD0A
+- Max Tegmark: The Case for Halting AI Development | Lex Fridman Podcast #371
+  + https://www.youtube.com/watch?v=VcVfceTsD0A
 
 
-Sparks of AGI: early experiments with GPT-4
-https://www.youtube.com/watch?v=qbIk7-JPB2c
+- Sparks of AGI: early experiments with GPT-4
+  + https://www.youtube.com/watch?v=qbIk7-JPB2c
 
 
-AI is Scaring Its Own Creators
-https://www.youtube.com/watch?v=Gsu-rjhnekE
+- AI is Scaring Its Own Creators
+  + https://www.youtube.com/watch?v=Gsu-rjhnekE
 
 
-ChatGPT is so dumb... Fooled by Patterns.
-https://www.youtube.com/watch?v=h_cy-xpp7kA
+- ChatGPT is so dumb... Fooled by Patterns.
+  + https://www.youtube.com/watch?v=h_cy-xpp7kA
 
 
 
