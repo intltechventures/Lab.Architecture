@@ -17,8 +17,8 @@ SAD Tier | Tier Description
 -----|------------
 1 | Sufficiently broad and complex dependencies - with a high degree of risk - that it warrants a full ARB review/vote
 2 | Limited/bounded scope - only requiring a subset of ARB participants (e.g., 3-5) to review/approve.
-3 | TThe assigned EA authorized to review/approve
-4 | TThe SA can review/approve
+3 | The assigned EA authorized to review/approve
+4 | The assigned SA can review/approve
 5 | Delivery team, with an attestation that they are compliant with all policies, standards, etc. - and that there are no (substantial) *new* technologies involved in the solution design - and that the solution utilizes approved integration patterns, etc.
 
 For non-ARB organizations - a repository of Architecture Decision Records (ADRs) - used as the basis for recording key architecture decision outcomes. ADRs may be recorded by EAs, SAs, or the delivery team.
