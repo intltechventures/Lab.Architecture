@@ -11,8 +11,11 @@
 
 ## Meeks Enterprise Architecture Conjectures
 
-101:  If you build an Enterprise Architecture  practice along the lines of an "Indy 500 Pit Stop service crew", you'll  have a better chance of providing the business with an "acceleration factor" - and achieving an agile architecture operational model, than if you are still working to implement EA practices along the lines of a construction permitting process.
+101: If you build an Enterprise Architecture  practice along the lines of an "Indy 500 Pit Stop service crew", you'll  have a better chance of providing the business with an "acceleration factor" - and achieving an agile architecture operational model, than if you are still working to implement EA practices along the lines of a construction permitting process.
   + https://www.indycar.com/Fan-Info/INDYCAR-101/The-Teams/Anatomy-Of-A-Pit-Stop
   + https://en.wikipedia.org/wiki/Pit_Stop_Challenge
   + [F1 Pitstop 1950 vs 2009 vs 2013](https://www.youtube.com/watch?v=12lThqXA-Dg)
   + [2021-12-12 My reply](https://www.linkedin.com/feed/update/urn:li:activity:6875793881510813697?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6875793881510813697%2C6875849433637097472%29) to Kylie Kirk's LinkedIn post
+
+
+102: Much goodness would ensue, if we just got rid of the name EA.  
