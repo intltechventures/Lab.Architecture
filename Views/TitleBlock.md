@@ -121,3 +121,8 @@ I've begun drafting some ideas for what kind of information may be useful to inc
 - Revision Date: ```YYYY-MM-DD```
 
 
+## Suggested Background Reading
+
+- https://www.archisoup.com/architectural-title-blocks
+
+
