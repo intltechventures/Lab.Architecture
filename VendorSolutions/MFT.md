@@ -22,15 +22,24 @@
   + https://www.ipswitch.com/moveit
 
 
+- Kiteworks.com 
+  + https://www.kiteworks.com
+    * "The only security platform authorized by FedRAMP that provides support for file sharing, managed file transfer, and email data communications to meet the compliance requirements of standards such as CMMC 2.0, ITAR, IRAP, NIS 2, HIPAA, and others."
+
 - MuleSoft
+
 
 - OpenText MFT (?)
 
+
 - Oracle MFT Cloud Services (CS)
+
 
 - SeeBurger Business Integration Suite (?)
 
+
 - TIBCO Cloud Integration
+
 
 - TIBCO MFT 
 
