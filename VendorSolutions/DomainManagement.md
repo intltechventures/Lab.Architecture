@@ -17,6 +17,9 @@
 - IP Restrictions
 - SSL
 
+## Domain Valuation Tools
+- estibot
+  + https://www.estibot.com
 
 ## Vendors
 
