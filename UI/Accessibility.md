@@ -34,8 +34,10 @@
   + https://www.w3.org/WAI/test-evaluate/tools/selecting/
 
 
-- PurpleHats
+- Purple Hats
   + https://github.com/GovTechSG/purple-hats
+  + https://www.developer.tech.gov.sg/products/categories/design/purple-hats/overview.html
+
 
 - https://webaim.org/
   + Institute for Disability Research, Policy, and Practice, Utah State University
