@@ -28,10 +28,12 @@
 
 - https://www.accessibilitychecker.org/
 
-- W3.org
-  + https://www.w3.org/WAI/ER/
-  + https://www.w3.org/WAI/ER/tools/
-  + https://www.w3.org/WAI/test-evaluate/tools/selecting/
+
+- Axe Accessibility Testing Tools
+  + https://www.deque.com/axe/
+  + https://github.com/dequelabs/axe-core
+    * Accessibility engine for automated Web UI testing 
+    * "Axe is an accessibility testing engine for websites and other HTML-based user interfaces. It's fast, secure, lightweight, and was built to seamlessly integrate with any existing test environment so you can automate accessibility testing alongside your regular functional testing."
 
 
 - Purple Hats
@@ -39,7 +41,14 @@
   + https://www.developer.tech.gov.sg/products/categories/design/purple-hats/overview.html
 
 
-- https://webaim.org/
+- W3.org
+  + https://www.w3.org/WAI/ER/
+  + https://www.w3.org/WAI/ER/tools/
+  + https://www.w3.org/WAI/test-evaluate/tools/selecting/
+
+
+- WebAim.gov
+  + https://webaim.org/
   + Institute for Disability Research, Policy, and Practice, Utah State University
   + https://wave.webaim.org/
     * WAVE is developed and made available as a free community service by WebAIM at Utah State University. 
