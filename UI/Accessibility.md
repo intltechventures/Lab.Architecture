@@ -25,10 +25,17 @@
 
 
 ## Tools
-- https://www.w3.org/WAI/ER/
-- https://www.w3.org/WAI/ER/tools/
-- https://www.w3.org/WAI/test-evaluate/tools/selecting/
 
+- https://www.accessibilitychecker.org/
+
+- W3.org
+  + https://www.w3.org/WAI/ER/
+  + https://www.w3.org/WAI/ER/tools/
+  + https://www.w3.org/WAI/test-evaluate/tools/selecting/
+
+
+- PurpleHats
+  + https://github.com/GovTechSG/purple-hats
 
 - https://webaim.org/
   + Institute for Disability Research, Policy, and Practice, Utah State University
@@ -36,7 +43,7 @@
     * WAVE is developed and made available as a free community service by WebAIM at Utah State University. 
 
 
-- https://www.accessibilitychecker.org/
+
 
 
 
