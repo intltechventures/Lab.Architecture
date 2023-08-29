@@ -6,11 +6,10 @@
 
 - https://en.wikipedia.org/wiki/Data_lineage
 
-
 - https://www.ibm.com/topics/data-lineage
 
 - [Talend: Definitive Guide to Data Governance](https://www.talend.com/resources/definitive-guide-data-governance/)
-
+  + white paper
 
 
 
@@ -53,8 +52,11 @@ by David Plotkin](https://www.amazon.com/Data-Stewardship-Actionable-Management-
 ## Additional Books (e.g. older publication dates - but may still have some relevant guidance)
 - [MASTER DATA MANAGEMENT AND DATA GOVERNANCE, 2/E 2nd Edition](https://www.amazon.com/MASTER-DATA-MANAGEMENT-GOVERNANCE/dp/0071744584/)
 
+- [IBM Red Book: Metadata Management with IBM InfoSphere Information Server](https://www.redbooks.ibm.com/redbooks/pdfs/sg247939.pdf) (2011)
 
-- [IBM Red Book: IBM® Information Management Software, Metadata Management with IBM InfoSphere Information Server
+- [IBM Red Book: A Practical Guide to Managing Reference Data with IBM InfoSphere Master Data Management Reference Data Management Hub](https://www.redbooks.ibm.com/redbooks/pdfs/sg248084.pdf) (2013) 
+
+- [IBM Red Book: Information Governance Principles and Practices for a Big Data Landscape](https://www.redbooks.ibm.com/redbooks/pdfs/sg248165.pdf) (2014) 
 
 
 
