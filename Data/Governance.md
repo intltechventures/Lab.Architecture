@@ -9,8 +9,7 @@
 
 - https://www.ibm.com/topics/data-lineage
 
-- [Talend: Definitive Guide to Data Governance][https://www.talend.com/resources/definitive-guide-data-governance/]
-  + a white paper
+- [Talend: Definitive Guide to Data Governance][(https://www.talend.com/resources/definitive-guide-data-governance/)
 
 
 
@@ -20,7 +19,6 @@
   + https://en.wikipedia.org/wiki/ISO/IEC_11179
 
 
-
 ## Data Quality
 - https://en.wikipedia.org/wiki/Data_cleansing#Data_quality
   + Validity: The degree to which the measures conform to defined business rules or constraints 
@@ -28,7 +26,6 @@
   + Completeness: The degree to which all required measures are known
   + Consistency: The degree to which a set of measures are equivalent in across systems
   + Uniformity: The degree to which a set data measures are specified using the same units of measure in all systems
-
 
 
 ## Suggested Books To Read First (listed with a somewhat intentional, initial, order...)
@@ -57,9 +54,8 @@ by David Plotkin](https://www.amazon.com/Data-Stewardship-Actionable-Management-
 - [MASTER DATA MANAGEMENT AND DATA GOVERNANCE, 2/E 2nd Edition](https://www.amazon.com/MASTER-DATA-MANAGEMENT-GOVERNANCE/dp/0071744584/)
 
 
-- [IBM Red Book: IBM® Information Management Software, Metadata Management with IBM InfoSphere Information Server](https://www.redbooks.ibm.com/redbooks/pdfs/sg247939.pdf) (2011)
+- [IBM Red Book: IBM® Information Management Software, Metadata Management with IBM InfoSphere Information Server
 
-- [IBM Red Book: IBM® Information Management Software, IBM Information Governance Solutions](https://www.redbooks.ibm.com/redbooks/pdfs/sg248164.pdf) (2014)
 
 
 ## Possible Data Governance / Data Lineage Tools
