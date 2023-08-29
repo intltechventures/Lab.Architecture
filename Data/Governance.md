@@ -9,7 +9,7 @@
 
 - https://www.ibm.com/topics/data-lineage
 
-- [Talend: Definitive Guide to Data Governance][(https://www.talend.com/resources/definitive-guide-data-governance/)
+- [Talend: Definitive Guide to Data Governance](https://www.talend.com/resources/definitive-guide-data-governance/)
 
 
 
