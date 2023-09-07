@@ -39,6 +39,7 @@
 
 
 - [LeanIX](https://www.leanix.net/en/)
+  + 2023-09-07: [LeanIX acquired by SAP](https://www.linkedin.com/feed/update/urn:li:activity:7105442685317959680/)
 
 
 - [Mega Hopex](https://www.mega.com)
