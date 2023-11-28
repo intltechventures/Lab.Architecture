@@ -20,6 +20,14 @@
 
 
 ## Visualization Ideas...
+
+- https://informationisbeautiful.net/
+  + https://informationisbeautiful.net/books/
+  + https://informationisbeautiful.net/data/
+  + https://informationisbeautiful.net/blog/
+  + https://www.instagram.com/infobeautiful/
+
+
 - Bret Victor
   + http://worrydream.com/
 
