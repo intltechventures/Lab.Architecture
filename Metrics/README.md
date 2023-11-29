@@ -75,6 +75,37 @@
 - Customer Experience Quality 
 - Customer Retention 
 
+
+## Meterics: CI/CD
+
+### CI/CD Metrics - Background Reading
+- https://dzone.com/articles/cicd-metrics
+
+### CI/CD Metrics -  Ideas
+- Lead Time
+
+- Deployment Frequency
+- Deployment Size
+
+- Change Failure Rate
+- Mean Time to Recovery 
+
+- Code Coverage 
+- Cyclomatic Complexity 
+- Code Quality Scans
+- Security Scans (static code analysis, and binaries)
+
+- Build Duration
+
+- Test Pass Rate
+- Defect Count
+- Time to Fix Defects
+
+- Failed Deployments
+
+
+
+
 ## Metrics: Infrastructure
 - Number for:
   + Virtual Machines
