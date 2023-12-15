@@ -1,6 +1,19 @@
 
 # Roadmap Resources
 
+- Caveats:
+  + STATUS: __WORKING DRAFT__
+  + This is an early working draft of some thoughts. 
+  + Additional considerations will be layered-on in the next week or so.
+  + This is intended to be a minimlistic approach to developing Enterprise Architecture (EA) Roadmap artifacts.
+  + This is __NOT__ intended to be at the level of detail for ongoing management of budgets, burn-down, or delivery team activities.
+  + Ths is __NOT__ saying that you should only have __ONE__ diagram view of a roadmap (note the discussion on intersection of the two dimensions under consideration).
+  
+- Rework Backlog Ideas:
+  + Separate the C-level view to focus on the outcomes (not the Major Initiaitves)
+  + Add additional sections to discuss the other (lower-level) implementation-specific roadmap type artifacts/views 
+
+
 ## Background Material
 
 ### Suggested Articles
