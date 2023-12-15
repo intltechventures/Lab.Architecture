@@ -23,8 +23,9 @@
 
 ### Suggested Videos
 
-- HBR: (A Plan is Not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)
-  + With thanks to [Chris Barrett](https://www.linkedin.com/in/cdbarrett/) for sharing this link with me.
+- HBR Channel: 
+  + [A Plan is Not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)
+    * With thanks to [Chris Barrett](https://www.linkedin.com/in/cdbarrett/) for sharing this link with me, and for his significant feedback and suggestion for improvements to this working draft.
 
 
 
