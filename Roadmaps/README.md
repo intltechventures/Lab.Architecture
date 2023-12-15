@@ -13,7 +13,7 @@ for roadmap artifacts:
 - Timeline
   + Long-term: Vision & Strategy
   + Interim: Initiatives & Plateaus 
-  + Short-term: Tacical
+  + Short-term: Tactical
 
 
 ## Structure of Roadmap Artifacts
