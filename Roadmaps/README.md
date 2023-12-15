@@ -1,6 +1,22 @@
 
 # Roadmap Resources
 
+## Background Material
+
+### Suggested Articles
+
+
+### Suggested Books
+
+### Suggested Videos
+
+- HBR: (A Plan is Not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)
+  + With thanks to [Chris Barrett](https://www.linkedin.com/in/cdbarrett/) for sharing this link with me.
+
+
+
+## Introduction
+
 When the topic of roadmaps arise, I find it useful to make a distinction
 with respect to two dimensions, when deciding on the appropriate level of detail 
 for roadmap artifacts:
