@@ -65,6 +65,9 @@ for roadmap artifacts:
       * Major Assumption
       * Major Concern
       * Significant Gaps 
+  + Amount of data involved (height of element)
+  + Highest data classifcation indicator involved in the Major Initiative effort
+    * (e.g., a single character, capitalized, enclosed in brackets - at the end of the name of the element)
 
 
 ## Audience
