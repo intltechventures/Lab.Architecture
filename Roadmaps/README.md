@@ -21,16 +21,16 @@ for roadmap artifacts:
 1. Executive Presentation
 2. Roadmap Visualization Diagrams
 3. Roadmap Supporting Documents (elaboration detail, as needed)
-   3.1 By Domain | Portfolio | Business Line
-       3.1.1 Introduction
-       3.1.2 Overview - Big Picture
-       3.1.3 Key Initiatives 
-       3.1.4 Dependencies
-       3.1.5 Risks
-       3.1.6 Issues
-       3.1.7 Estimates
-       3.1.8 Timeline
-       3.1.9 References
+   - By Domain | Portfolio | Business Line
+     * Introduction
+     * Overview - Big Picture
+     * Key Initiatives 
+     * Dependencies
+     * Risks
+     * Issues
+     * Estimates
+     * Timeline
+     * References
 
 
 ## Key Information for Roadmap Visualization
@@ -105,22 +105,23 @@ wikis, Word documents, presentations, spreadsheets, diagrams, project plans, etc
 
 
 
-## Timeline
+## Timeline Periods
 
 
 ### Long-Term
 
 - In general, I would suggest limiting the maximum timeline for a roadmap to no more than 18-36 months. 
+- However, I have seen 3-5 year roadmaps - but those usually grow stale very quickly. 
 
 
 ### Interim
 
-- Typically, I try to aim for 12-18 months for interim roadmaps
+- Typically, I try to aim for a timeline of 6-12 months for interim roadmaps.
 
 
 ### Short-Term
 
-- No more than 6-12 months
+- Typically, I try to aim for a timeline of 3-6 than months for short-term roadmaps, but no more than 12 months. 
 
 
 
