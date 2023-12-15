@@ -45,12 +45,11 @@ for roadmap artifacts:
     * Trying to utilize different line styles (e.g., solid vs. dotted vs. dashed) - can become problematic when the number of relationship lines becomes dense, and auto-layout forces lines to overlay).
 
 
-- Duration (length)
+- Duration (length of element)
   + Suggestions:
-    * Period boundaries for diagram to be defined as either YYYY, or YYY-Qn (e.g., 2023, 2024, 2025 - or 2023-Q1, 2023-Q2, etc.)
+    * Period boundaries (vertical demarcation of time) for a diagram to be defined as either YYYY, or YYY-Qn (e.g., 2023, 2024, 2025 - or 2023-Q1, 2023-Q2, etc.)
 
-
-- Budget (color)
+- Budget (color of element)
   + For example (info to be included in diagram legend):
     * White: TBD
     * Grey: No funding
@@ -60,11 +59,12 @@ for roadmap artifacts:
     * Red: $5M+
 
 - Optionally:
-  + Annotated a note, associated to a Major Initiative (as needed)
-    * Pre-conditions
-    * Assumptions
-    * Concerns
-    * Gaps 
+  + Annotate a note (associated to an element, as needed)
+    * For example:
+      * Significant Pre-condition
+      * Major Assumption
+      * Major Concern
+      * Significant Gaps 
 
 
 ## Audience
