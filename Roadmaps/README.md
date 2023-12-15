@@ -7,7 +7,7 @@
   + Additional considerations will be layered-on in the next week or so.
   + This is intended to be a minimlistic approach to developing Enterprise Architecture (EA) Roadmap artifacts.
   + This is __NOT__ intended to be at the level of detail for ongoing management of budgets, burn-down, or delivery team activities.
-  + Ths is __NOT__ saying that you should only have __ONE__ diagram view of a roadmap (note the discussion on intersection of the two dimensions under consideration).
+  + Ths is __NOT__ saying that you should only have __ONE__ diagram view of a roadmap (note the discussion on intersection of the two dimensions under consideration, re: Audience, Timeline).
   
 - Rework Backlog Ideas:
   + Separate the C-level view to focus on the outcomes (not the Major Initiaitves)
@@ -25,7 +25,7 @@
 
 - HBR Channel: 
   + [A Plan is Not a Strategy](https://www.youtube.com/watch?v=iuYlGRnC7J8)
-    * With thanks to [Chris Barrett](https://www.linkedin.com/in/cdbarrett/) for sharing this link with me, and for his significant feedback and suggestion for improvements to this working draft.
+    * With thanks to [Chris Barrett](https://www.linkedin.com/in/cdbarrett/) for sharing this link with me, and for his significant feedback and suggestions for improvements to this working draft.
 
 
 
