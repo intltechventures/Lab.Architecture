@@ -60,9 +60,10 @@ for roadmap artifacts:
     * Red: $5M+
 
 - Optionally:
-  + Annotated notes, associated to each Major Initiative
+  + Annotated a note, associated to a Major Initiative (as needed)
     * Pre-conditions
     * Assumptions
+    * Concerns
     * Gaps 
 
 
