@@ -49,7 +49,9 @@
 
 
 - ISO/IEC 27002
-  +  Information security, cybersecurity and privacy protection — Information security controls
+  + Information security, cybersecurity and privacy protection — Information security controls
+  + https://www.iso.org/standard/75652.html
+  + https://en.wikipedia.org/wiki/ISO/IEC_27002
 
 
 - ISO/IEC 27035
