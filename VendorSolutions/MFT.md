@@ -44,6 +44,12 @@
 - TIBCO MFT 
 
 
+## Open Source Software
+
+- https://www.pureftpd.org/project/pure-ftpd/
+  + https://github.com/jedisct1/pure-ftpd/
+    * Pure-FTPd is a fast, production-quality, standard-conformant FTP server, based upon Troll-FTPd.
+    * The server has been designed to be secure in default configuration, it has no known vulnerability, it is really trivial to set up and it is especially designed for modern kernels. It was successfully ported to Linux, FreeBSD, Dragonfly BSD, NetBSD, OpenBSD, OSX, AIX and more.
 
 
 
