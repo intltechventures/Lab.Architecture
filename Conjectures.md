@@ -8,10 +8,13 @@
 
 2. For any non-trivial system, its behavior is probably not deterministic (as you may erroneously believe), but is more likely - stochastic.
 
-3. Distributed Architecture is hard...and the complexity of the web of external dependencies is far beyond the ability of most teams' to comprehend...
+3. Distributed Architecture is hard...and the complexity of the web of external dependencies is far beyond the ability of most teams to comprehend...
+
+4. Assuming an ∞ budget - many fail to recognize that the business has little tolerance for ∞ rework.
+
+5. "Change Blast Radius" is an important factor to consider when defending against the impetus to "code first, design later".
 
 
- 
 
 ## Meeks Enterprise Architecture Conjectures
 
@@ -22,4 +25,8 @@
   + [2021-12-12 My reply](https://www.linkedin.com/feed/update/urn:li:activity:6875793881510813697?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6875793881510813697%2C6875849433637097472%29) to Kylie Kirk's LinkedIn post
 
 
-102. Much goodness would ensue, if we just got rid of the name EA.  
+102. Much goodness would ensue, if we just got rid of the name EA. 
+
+
+103. More enterprise projects fail due to an excessive degree of optimisim - than skipticism and pessimism.
+
