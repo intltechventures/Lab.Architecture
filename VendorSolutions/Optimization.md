@@ -199,6 +199,11 @@
   + https://pyomo.readthedocs.io/en/stable/index.html
 
 
+### R Project CRAN Task View: Optimization and Mathematical Programming
+- https://cran.r-project.org/web/views/Optimization.html
+  + "This CRAN Task View contains a list of packages that offer facilities for solving optimization problems.
+  + NOTE: This resource was suggested by [Richard Ng](https://www.linkedin.com/in/richard-ng-2a8085a4/) (Clinical Data Analyst, The Queen's Medical Center) in response to a [2024-04-26 LinkedIn discussion](https://www.linkedin.com/feed/update/urn:li:activity:7189635767302819841?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7189635767302819841%2C7189655571661307904%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287189655571661307904%2Curn%3Ali%3Aactivity%3A7189635767302819841%29)
+
 
 ## Interesting Articles
 
@@ -208,14 +213,22 @@
 
 ## Academic Researchers 
 
-- Hans D. Mittleman, Ph.D., School of Mathematical and Statistical Sciences, ASU
-  + http://plato.asu.edu/
-  + http://plato.asu.edu/guide.html
-
-- Leandro C. Coelho, Ph.D., Canada Research Chair in Integrated Logistics, Operations and Decision Systems Department, Faculty of Administration Sciences
-Université Laval, Québec, Canada,
+- Coehlo, Leandro C. 
+  + Canada Research Chair in Integrated Logistics, Operations and Decision Systems Department, Faculty of Administration Sciences, Université Laval, Québec, Canada
   + https://www.leandro-coelho.com/
   + https://twitter.com/leandro_cc
 
 
+- Mittleman, Hans D. 
+  + School of Mathematical and Statistical Sciences, ASU
+  + http://plato.asu.edu/
+  + http://plato.asu.edu/guide.html
+
+
+- Powell, Warren
+  + Professor Emeritus, Princeton University
+  + Executive-in-Residence, Rutgers Business School
+  + https://www.linkedin.com/in/warrenbpowell/
+  + https://castle.princeton.edu/
+  + NOTE: This resource was suggested by [Richard Ng](https://www.linkedin.com/in/richard-ng-2a8085a4/) (Clinical Data Analyst, The Queen's Medical Center) in response to a [2024-04-26 LinkedIn discussion](https://www.linkedin.com/feed/update/urn:li:activity:7189635767302819841?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7189635767302819841%2C7189655571661307904%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287189655571661307904%2Curn%3Ali%3Aactivity%3A7189635767302819841%29)
 
