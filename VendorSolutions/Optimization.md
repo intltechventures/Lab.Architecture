@@ -107,7 +107,11 @@
     * https://cran.r-project.org/web/packages/prioritizr/vignettes/gurobi_installation.html
 
   + Rust
-    * https://docs.rs/gurobi/0.3.3/gurobi/
+    * https://docs.rs/gurobi/latest/gurobi/
+    * https://crates.io/crates/gurobi
+      * "An unofficial Rust API for Gurobi optimizer"
+        * https://github.com/ubnt-intrepid/rust-gurobi   
+
 
   + Python
     * https://www.gurobi.com/documentation/11.0/examples/python_examples.html
@@ -118,17 +122,19 @@
     * [Python III Webinar, Optimization and Heuristics](http://www.gurobi.com/resources/seminars-and-videos/python-III-webinar)
 
   + YouTube Channel: GurobiVideos    
-    [Getting Started with Gurobi part 1 of 3](https://www.youtube.com/watch?v=oBTJNRXyUu0)
-    [Getting Started with Gurobi part 2 of 3](https://www.youtube.com/watch?v=O0_ZPT2pd-M)
-    [Getting Started with Gurobi part 3 of 3](https://www.youtube.com/watch?v=BtNWKb2Y_08)
+    * [Getting Started with Gurobi part 1 of 3](https://www.youtube.com/watch?v=oBTJNRXyUu0)
+    * [Getting Started with Gurobi part 2 of 3](https://www.youtube.com/watch?v=O0_ZPT2pd-M)
+    * [Getting Started with Gurobi part 3 of 3](https://www.youtube.com/watch?v=BtNWKb2Y_08)
 
   + COMP331/557: Optimization, Introduction to Gurobi
     * http://cgi.csc.liv.ac.uk/~gairing/COMP557/slides/gurobi.pdf
 
+
 - Community Forums
   + https://groups.google.com/forum/#!forum/gurobi
 
-- Releases
+
+- Releases Notes
   + https://support.gurobi.com/hc/en-us/sections/18475626902417-Releases
   + https://www.gurobi.com/downloads/recent-bug-fixes-by-version/
 
@@ -140,10 +146,12 @@
     * http://yetanothermathprogrammingconsultant.blogspot.com/2018/10/gurobi-81.html
       * re: MIQP, "More than a factor of 6x faster on difficult models that take more than 100 seconds to solve."
 
+
 - Third-Party Integration
   * SOlverStudio: Excel Integration
     * https://solverstudio.org/languages/gurobi/
     * "SolverStudio allows you to build models inside Excel using Gurobi’s Python modelling language. SolverStudio manages all the access to data on the spreadsheet, making it easy to build and run models within Excel."
+
 
 - Notable News
   + https://twitter.com/gurobi?lang=en
