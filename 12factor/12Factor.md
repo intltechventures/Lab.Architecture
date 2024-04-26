@@ -1,9 +1,11 @@
-12 Factor App Methodology
-* http://12factor.net/
-* https://github.com/heroku/12factor
+# 12 Factor App Methodology
 
+- http://12factor.net/
+- https://github.com/heroku/12factor
+
+
+## The Twelve Factors
 ```
-The Twelve Factors
 1. One Codebase tracked in revision control, many deploys
 2. Explicity declare and isolate dependencies
 3. Store config in the environment
@@ -17,13 +19,22 @@ The Twelve Factors
 11. Treat logs as event streams
 12. Run admin/management tasks as one-off processes
 ```
-Copyright (c) 2012 Adam Wiggins - [MIT License] (https://github.com/heroku/12factor/blob/master/LICENSE)
+Copyright (c) 2012 Adam Wiggins - [MIT License](https://github.com/heroku/12factor/blob/master/LICENSE)
 
 
 
-Articles Dicussing 12 Factor App
+## Articles Dicussing 12 Factor App
 
-2015
+### 2012
+* http://www.infoq.com/presentations/12-Principles-Deploy-Apps
+
+
+### 2014
+* [Container Summit 2014: 12 Factor App from Docker's Point of View] (http://www.slideshare.net/williamyeh/12-factor-app-from-dockers-point-of-view)
+* [PaaS for Realists] (http://blog.lusis.org/blog/2014/06/14/paas-for-realists/)
+
+
+### 2015
 * https://dzone.com/articles/the-12-factor-app-a-java-developers-perspective
 * https://www.packtpub.com/books/content/how-to-build-12-factor-design-microservices-on-docker-part-1
 * [Cloud Foundry Summit 2015: 12 Factor Apps for Operations] (http://www.slideshare.net/Pivotal/cfsummit15-rags-cowger-2)
@@ -32,10 +43,10 @@ Articles Dicussing 12 Factor App
 * [How to Build 12 Factor Microservices on Docker - Part 2] (https://www.packtpub.com/books/content/how-to-build-12-factor-design-microservices-on-docker-part-2)
 * [Modern Twelve-Factor Apps with Docker] (https://medium.com/@nzoschke/modern-twelve-factor-apps-with-docker-55dd92c832b3#.vwcldbqqu)
 
-2014
-* [Container Summit 2014: 12 Factor App from Docker's Point of View] (http://www.slideshare.net/williamyeh/12-factor-app-from-dockers-point-of-view)
-* [PaaS for Realists] (http://blog.lusis.org/blog/2014/06/14/paas-for-realists/)
 
-2012
-* http://www.infoq.com/presentations/12-Principles-Deploy-Apps
+
+
+
+
+
 
