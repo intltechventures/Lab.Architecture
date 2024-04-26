@@ -45,6 +45,7 @@
 - https://en.wikipedia.org/wiki/Gurobi
 
 - https://www.gurobi.com/
+  + https://www.gurobi.com/solutions/gurobi-optimizer/
   + https://www.gurobi.com/resources/examples/example-models-overview
   + https://www.crunchbase.com/organization/gurobi-optimization#section-overview
   + https://en.wikipedia.org/wiki/Gurobi
@@ -100,8 +101,8 @@
   + https://groups.google.com/forum/#!forum/gurobi
 
 - Releases
+  + http://www.gurobi.com/products/whats-new/whats-new-in-the-latest-version
   + 8.1
-    * http://www.gurobi.com/products/whats-new/whats-new-in-the-latest-version?mkt_tok=eyJpIjoiTUdWbU9HVmlZbUU0Tm1KaiIsInQiOiJvUW1jRkdJcWR0akVxUk5BYm5JY1NVdHlEN1hKTzNmRSs5d3JMaUg2Y0ZaZ2poUVwveFRiTGY1Ukg3S0QrOUxQRnI5U2VUMmxjWjJGZEJycWpBYkNYbHZRS1p4eE9uUnhoSjNlTjVZcEROeUpOQ3pnellxKzdVMUdveEh0cUhDcHoifQ%3D%3D
     * http://yetanothermathprogrammingconsultant.blogspot.com/2018/10/gurobi-81.html
       * re: MIQP, "More than a factor of 6x faster on difficult models that take more than 100 seconds to solve."
 
@@ -110,7 +111,7 @@
     * https://solverstudio.org/languages/gurobi/
     * "SolverStudio allows you to build models inside Excel using Gurobi’s Python modelling language. SolverStudio manages all the access to data on the spreadsheet, making it easy to build and run models within Excel."
 
-- News
+- Notable News
   + https://twitter.com/gurobi?lang=en
   + 2018
     * https://www.pehub.com/2018/01/thompson-street-invests-in-gurobi-optimization/#
@@ -163,7 +164,8 @@
   * https://medium.com/opex-analytics/optimization-modeling-in-python-pulp-gurobi-and-cplex-83a62129807a
 
 
-## Academic Research
+## Academic Researchers 
+
 - Hans D. Mittleman, Ph.D., School of Mathematical and Statistical Sciences, ASU
   + http://plato.asu.edu/
   + http://plato.asu.edu/guide.html
