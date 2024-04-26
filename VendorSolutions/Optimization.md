@@ -43,31 +43,42 @@
 
 ### Gurobi
 - https://en.wikipedia.org/wiki/Gurobi
+- https://www.crunchbase.com/organization/gurobi-optimization#section-overview
 
 - https://www.gurobi.com/
   + https://www.gurobi.com/solutions/gurobi-optimizer/
   + https://www.gurobi.com/resources/examples/example-models-overview
-  + https://www.crunchbase.com/organization/gurobi-optimization#section-overview
-  + https://en.wikipedia.org/wiki/Gurobi
+  + https://www.gurobi.com/downloads/
 
 - Documentation
   + http://www.gurobi.com/documentation/
   + https://www.gurobi.com/documentation/8.1/examples/examples.html
 
+- Community 
+  + https://support.gurobi.com/hc/en-us/community/topics
+
+
 - Tutorials, Resources, Articles
+  + https://support.gurobi.com/hc/en-us/articles/14799677517585-Getting-Started-with-Gurobi-Optimizer
   + https://www.gurobi.com/resources/examples/example-models-overview
   + http://www.gurobi.com/resources/seminars-and-videos/seminars-videos
+
   + ArchLinux
     * https://aur.archlinux.org/packages/gurobi/
+
   + MVNRepository
     * https://mvnrepository.com/artifact/gurobi
+
   + C#
     * https://www.gurobi.com/documentation/8.1/examples/cs_examples.html
+
   + C++
     * https://www.gurobi.com/documentation/8.1/examples/cpp_examples.html
     * https://www.leandro-coelho.com/how-to-compile-c-with-gurobi-in-linux/
+
   + Java
     * https://www.gurobi.com/documentation/8.1/examples/java_examples.html
+
   + Julia
     * https://discourse.julialang.org/search?q=gurobi
     * https://github.com/JuliaOpt/Gurobi.jl
@@ -82,18 +93,22 @@
   + R
     * https://www.gurobi.com/documentation/8.1/examples/r_examples.html
     * https://cran.r-project.org/web/packages/prioritizr/vignettes/gurobi_installation.html
+
   + Rust
     * https://docs.rs/gurobi/0.3.3/gurobi/
+
   + Python
     * https://www.gurobi.com/documentation/8.1/examples/python_examples.html
     * https://anaconda.org/search?q=gurobi
       * https://anaconda.org/Gurobi/gurobi
     * [Optimization Modeling in Python: PuLp, Gurobi, and CPLEX](https://medium.com/opex-analytics/optimization-modeling-in-python-pulp-gurobi-and-cplex-83a62129807a)
     * [Python III Webinar, Optimization and Heuristics](http://www.gurobi.com/resources/seminars-and-videos/python-III-webinar)
+
   + YouTube Channel: GurobiVideos    
     [Getting Started with Gurobi part 1 of 3](https://www.youtube.com/watch?v=oBTJNRXyUu0)
     [Getting Started with Gurobi part 2 of 3](https://www.youtube.com/watch?v=O0_ZPT2pd-M)
     [Getting Started with Gurobi part 3 of 3](https://www.youtube.com/watch?v=BtNWKb2Y_08)
+
   + COMP331/557: Optimization, Introduction to Gurobi
     * http://cgi.csc.liv.ac.uk/~gairing/COMP557/slides/gurobi.pdf
 
@@ -101,7 +116,13 @@
   + https://groups.google.com/forum/#!forum/gurobi
 
 - Releases
-  + http://www.gurobi.com/products/whats-new/whats-new-in-the-latest-version
+  + https://support.gurobi.com/hc/en-us/sections/18475626902417-Releases
+  + https://www.gurobi.com/downloads/recent-bug-fixes-by-version/
+
+
+  + 11.0.1
+    * https://www.gurobi.com/documentation/current/refman/detailed_release_notes_11.html
+
   + 8.1
     * http://yetanothermathprogrammingconsultant.blogspot.com/2018/10/gurobi-81.html
       * re: MIQP, "More than a factor of 6x faster on difficult models that take more than 100 seconds to solve."
