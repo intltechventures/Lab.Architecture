@@ -70,15 +70,18 @@
     * https://mvnrepository.com/artifact/gurobi
 
   + C#
+    * https://www.gurobi.com/documentation/11.0/examples/cs_examples.html
     * https://www.gurobi.com/documentation/8.1/examples/cs_examples.html
 
   + C++
-    * https://www.gurobi.com/documentation/8.1/examples/cpp_examples.html
+    * https://www.gurobi.com/documentation/11.0/examples/cpp_examples.html
+    * https://www.gurobi.com/documentation/8.1/examples/cpp_examples.html    
     * https://www.leandro-coelho.com/how-to-compile-c-with-gurobi-in-linux/
 
   + Java
+    * https://www.gurobi.com/documentation/11.0/examples/java_examples.html
     * https://www.gurobi.com/documentation/8.1/examples/java_examples.html
-
+     
   + Julia
     * https://discourse.julialang.org/search?q=gurobi
     * https://github.com/JuliaOpt/Gurobi.jl
@@ -91,6 +94,7 @@
         * Second order cone programming (SOCP)
         * Mixed integer second order cone programming (MISOCP)
   + R
+    * https://www.gurobi.com/documentation/11.0/examples/r_examples.html
     * https://www.gurobi.com/documentation/8.1/examples/r_examples.html
     * https://cran.r-project.org/web/packages/prioritizr/vignettes/gurobi_installation.html
 
@@ -98,6 +102,7 @@
     * https://docs.rs/gurobi/0.3.3/gurobi/
 
   + Python
+    * https://www.gurobi.com/documentation/11.0/examples/python_examples.html
     * https://www.gurobi.com/documentation/8.1/examples/python_examples.html
     * https://anaconda.org/search?q=gurobi
       * https://anaconda.org/Gurobi/gurobi
