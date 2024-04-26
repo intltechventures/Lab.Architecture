@@ -41,11 +41,14 @@
 
 - https://en.wikipedia.org/wiki/Linear_programming#Solvers_and_scripting_(programming)_languages
 
+
 ### Gurobi
 - https://en.wikipedia.org/wiki/Gurobi
 - https://www.crunchbase.com/organization/gurobi-optimization#section-overview
 
 - https://www.gurobi.com/
+  + https://www.gurobi.com/blog/
+  + https://www.gurobi.com/case_studies/
   + https://www.gurobi.com/solutions/gurobi-optimizer/
   + https://www.gurobi.com/resources/examples/example-models-overview
   + https://www.gurobi.com/downloads/
@@ -68,6 +71,11 @@
 
   + MVNRepository
     * https://mvnrepository.com/artifact/gurobi
+
+  + https://www.gurobi.com/documentation/11.0/examples/example_tour.html
+
+  + Jupyter Examples
+    * https://www.gurobi.com/jupyter_models/
 
   + C#
     * https://www.gurobi.com/documentation/11.0/examples/cs_examples.html
