@@ -14,6 +14,7 @@
 
 5. "Change Blast Radius" is an important factor to consider when defending against the impetus to "code first, design later".
 
+6. "Unintended consequences are inescapable".
 
 
 ## Meeks Enterprise Architecture Conjectures
