@@ -38,4 +38,4 @@
 1. "Most people driving GenAI adoption in companies - are unqualified to have an opinion on AI."
 
 
-2. "In ~18-24 months, 90% of those GenAI intiiative will be shutdown - and those same GenAI promotors in your company, will be gone (voluntarily, or involuntarily)."
+2. "In ~18-24 months, 90% of those GenAI intiatives will be shutdown - and those same GenAI promotors in your company, will be gone (voluntarily, or involuntarily)."
