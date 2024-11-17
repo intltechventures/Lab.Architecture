@@ -22,7 +22,7 @@
     - Rhythm
 
 
-- https://247teach.org/blog-for-instructional-design/visual-design-in-instructional-design-key-principles-benefits
+- [Why Every Instructional Designer Should Know Visual Design Principles](https://247teach.org/blog-for-instructional-design/visual-design-in-instructional-design-key-principles-benefits)
 
 
 ## Articles, Papers
