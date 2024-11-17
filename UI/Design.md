@@ -12,6 +12,15 @@
     - Value
     - Texture 
     - Pattern
+  + Design Principles (Golombisky and Hagen)
+    - Focal Point
+    - Contrast
+    - Balance
+    - Movement
+    - Unity
+    - Perspective
+    - Rhythm
+
 
 - https://247teach.org/blog-for-instructional-design/visual-design-in-instructional-design-key-principles-benefits
 
