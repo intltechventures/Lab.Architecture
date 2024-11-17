@@ -19,6 +19,18 @@
 
 
 
+## APIs
+
+- AsyncAPI
+  + https://www.asyncapi.com/en
+  + https://www.asyncapi.com/docs/reference
+  + https://github.com/asyncapi
+    * https://github.com/asyncapi/spec
+      * "The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs."
+
+
+
+
 ## Pub/Sub Solutions
 
 
