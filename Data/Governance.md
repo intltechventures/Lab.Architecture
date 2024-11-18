@@ -62,6 +62,9 @@ by David Plotkin](https://www.amazon.com/Data-Stewardship-Actionable-Management-
 
 ## Possible Data Governance / Data Lineage Tools
 
+- https://github.com/opendatadiscovery/awesome-data-catalogs
+  + "This repository contains a curated list of awesome data catalogs and observability platforms that help you discover, manage, and observe data in your organization."
+
 - https://www.aggua.io/blog/top-10-data-lineage-tools-for-2023
 
 - https://dbmstools.com/categories/data-lineage-tools
