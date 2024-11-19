@@ -27,12 +27,14 @@
 
 
 
-## Drawing Tyles / Notations
+## Drawing Styles / Notations
 
 
-- [Archimate](https://www.opengroup.org/)
+- [Archimate](https://publications.opengroup.org/archimate-library)
+  + [v3.2](https://pubs.opengroup.org/architecture/archimate32-doc/index.html)
 
 - [C4 Model](https://c4model.com/)
   + https://c4model.com/tooling
 
-
+- [Unified Modeling Langauge (UML)](https://www.omg.org/spec/UML)
+  + [v2.5.1](https://www.omg.org/spec/UML/2.5.1/PDF)
