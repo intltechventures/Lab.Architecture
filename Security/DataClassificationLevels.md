@@ -1,11 +1,11 @@
 
-Data Classification Levels
-====
+# Data Classification Levels
 
-The following data classification designations may be useful in preparing data security policies:
+- The following data classification designations may be useful in preparing data security policies:
 
-### Classifications Exemplars 
-* Public
+## Classifications Exemplars 
+
+- Public
   * Encompasses public information and data for which disclosure poses little to no risk to individuals or the university.
   * Public data is the least sensitive data used by the organization and would cause the least harm if disclosed. This could be anything from data used for marketing to the number of employees in the organization.
   * Anyone regardless of organizational affiliation can access without limitation.
@@ -16,12 +16,14 @@ The following data classification designations may be useful in preparing data s
     * Research Awards
     * Research Proposals
     * Employee IDs, not associated with names 
-* Non-Public | Internal
+
+- Non-Public | Internal
     *  Data that is disclosed outside the company on a limited basis or contains information that could reduce the organization's competitive advantage, such as the technical specifications of a new product.
     * For Example:
       * Evaluations/Discussions with prospective third-party vendors
       * For Official Use Only ("FOUO")
-* Confidential 
+
+- Confidential 
   * Low | Private
     * Potential Impact:
       * Encompasses information and data for which disclosure poses little to no risk to individuals or the organization.
@@ -30,6 +32,7 @@ The following data classification designations may be useful in preparing data s
     * For Example:
         * Employee directory information
         * General organizational and business information not classified as Restricted, High, or Moderate
+
   * Medium | Proprietary
     * Potential Impact:
       * Disclosure could cause limited harm to individuals and the organizaton with some risk of civil liability.
@@ -50,6 +53,7 @@ The following data classification designations may be useful in preparing data s
       * Employee ID Numbers 
       * Building plans, physical plant information
       * Either subject to contractual agreements or regulatory compliance or is individually identifiable, confidential, and/or proprietary.
+
   * Highly Confidential | Sensitive 
     * Disclosure could cause significant/material harm to individuals and the organization, including exposure to criminal and civil liability - if diclosed 
     * The unauthorized disclosure of information could be expected to have a severe or catastrophic adverse effect on organizational operations, organizational assets, or individuals.
@@ -95,6 +99,7 @@ The following data classification designations may be useful in preparing data s
             * An online identifier
             * One or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person
         * Personally Identifiable Information (PII)
+        * Sensitive Personally Identifiable Information (SPII)
           * For Example:
             * Social Security number
             * National ID number
@@ -117,7 +122,7 @@ The following data classification designations may be useful in preparing data s
             * Health information
             * Conflict of Interest information
             * Prospect data
-Gift and gift-planning data            
+        * Gift and gift-planning data            
         * Payment Card Industry (PCI) Information
           * Information related to credit, debit, or other payment cards. This data type is governed by the Payment Card Industry (PCI) Data Security Standards
           * For Example:            
@@ -131,7 +136,8 @@ Gift and gift-planning data
         * Student Loan Application Information (GLBA)
           * Personal financial information held by financial institutions and higher education organizations as related to student loan and financial aid applications. Gramm Leach Bliley Act (GLBA) provisions govern this data type.
         * Other personal information protected under state, federal and foreign privacy laws 
-* Restricted
+
+- Restricted
   * Confidential information requiring the highest level of security and privacy protection. Access is only permitted as directed by CxO or Legal Counsel.
   * For Example:
     * Attorney Client Privileged Information
@@ -141,7 +147,8 @@ Gift and gift-planning data
         * Services related to a contract dispute with a vendor.
     * Attorney Working Documents
       * Internal investigation information, pre-litigation, and non-public litigation and administrative agency charge, audit and inquiry information.
-* Regulatory Restricted Data Classification
+
+- Regulatory Restricted Data Classification
   * For Example:
     * Must be protected to prevent loss, theft, unauthorized access, and / or unauthorized disclosure as dictated by the regulating body or council
     * Must be destroyed when no longer needed.  Destruction must be per the body or council data policies
@@ -154,30 +161,71 @@ Gift and gift-planning data
       * The Federal Information Security Management Act (FISMA) requires federal agencies and those providing services on their behalf to develop, document, and implement security programs for information technology systems and store the data on U.S. soil. This means that, under some federal contracts or grants, information the organization collects or information systems that the organization uses to process or store research data need to comply with FISMA.
     * Law Enforcement Information
       * Non-public law enforcement records generated or maintained by the organization.
-* Secret
+
+- Secret
   * Usually only applicable to a government agency information
-* Top Secret
+
+- Top Secret
   * Usually only applicable to a government agency information  
 
 
+## References/Sources 
 
-### References/Sources 
-* https://en.wikipedia.org/wiki/Classified_information_in_the_United_States
-* https://en.wikipedia.org/wiki/Classified_information
-* https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
-* https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act
-* Secrecy and Security Library, Project on Government Secrecy, Federation of American Scientists
-  * https://fas.org/sgp/library/
-* Security Classification of Information, 
-Volume 2. Principles for Classification of Information, Oak Ridge National Laboratory (1993) 
-* https://fas.org/sgp/library/quist2/index.html
-  * https://fas.org/sgp/library/quist2/chap_7.html
-* https://www.safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/examples-by-level
-* https://policy.security.harvard.edu/view-data-security-level
-  * https://security.harvard.edu/dct
-  * https://security.harvard.edu/files/it-security-new/files/info_security_data_classification_table_full_11.17.14_0.pdf
-* https://its.uchicago.edu/data-classification-guideline/
-* https://www.cmu.edu/iso/governance/guidelines/data-classification.html
+### General 
+
+- https://en.wikipedia.org/wiki/Classified_information
+
+
+
+### U.S. Government Regulations
+
+- https://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act
+
+
+
+### U.S. Government Policies and Standards
+
+- https://en.wikipedia.org/wiki/Classified_information_in_the_United_States
+
+- Department of Homeland Security
+  + Handbook for Safeguarding Sensitive PII, Privacy Policy Directive 047-01-007, Revision 3, Published by the DHS Privacy Office, December 4, 2017
+    * https://www.dhs.gov/sites/default/files/publications/dhs%20policy%20directive%20047-01-007%20handbook%20for%20safeguarding%20sensitive%20PII%2012-4-2017.pdf
+
+
+
+
+### GDPR
+
+-  https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+
+
+
+### Laboratories & Research Institutes
+
+- Federation of American Scientists
+  - Secrecy and Security Library, Project on Government Secrecy, Federation of American Scientists
+    * https://fas.org/sgp/library/
+
+  - Security Classification of Information, Volume 2. Principles for Classification of Information, Oak Ridge National Laboratory (1993) 
+    + https://fas.org/sgp/library/quist2/index.html
+      * https://fas.org/sgp/library/quist2/chap_7.html
+
+
+### University Policies and Standards
+
+- University of Michigan
+  + https://www.safecomputing.umich.edu/protect-the-u/safely-use-sensitive-data/examples-by-level
+
+- Harvard University
+  + https://policy.security.harvard.edu/view-data-security-level
+    * https://security.harvard.edu/dct
+    * https://security.harvard.edu/files/it-security-new/files/info_security_data_classification_table_full_11.17.14_0.pdf
+
+- Unversity of Chicago 
+  + https://its.uchicago.edu/data-classification-guideline/
+
+- Carnegie Mellon University
+  + https://www.cmu.edu/iso/governance/guidelines/data-classification.html
 
 
 
