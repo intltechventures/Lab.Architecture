@@ -56,6 +56,38 @@
     * https://support.pingidentity.com/s/marketplace-integration-home-page?#sort=relevancy&f:@sfintegrateswithc=[PingIntelligence]
 
 
+## GitHub repositories
+
+
+- awesome-api-security
+  + https://lnkd.in/gKSX8Sj8
+
+- 30-API-security-tests
+  + https://lnkd.in/g-JShXbi
+
+- API-Security-Checklist
+  + https://lnkd.in/gdfGV6ev
+
+- api-security-study-plan
+  + https://lnkd.in/gkfrAnpK
+
+- API-Pentesting-Checklist
+  + https://lnkd.in/gx6Q549z
+
+- API-Security-Checklist
+  + https://lnkd.in/gKVUpzWe
+
+- API-SecurityEmpire
+  + https://lnkd.in/gZEkf2wB
+
+- 31-days-of-API-Security-Tips
+  + https://lnkd.in/g8SCiVAZ
+
+- APISecurityBestPractices
+  + https://lnkd.in/gBDWSBvK
+
+- apisecurityinaction
+  + https://lnkd.in/gUxJ8HCy
 
 
 
