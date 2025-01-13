@@ -4,6 +4,7 @@
 ## Prioritization Definitions
 
 | Priority          | Description|
+|-------------------|------------|
 **M** - Must have   | Requirements labelled as Must have are critical to the current delivery timebox in order for it to be a success. If even one Must have requirement is not included, the project delivery should be considered a failure (note: requirements can be downgraded from Must have, by agreement with all relevant stakeholders; for example, when new requirements are deemed more important). 
 **S** - Should have | Requirements labelled as Should have are important but not necessary for delivery in the current delivery timebox. While Should have requirements can be as important as Must have, they are often not as time-critical or there may be another way to satisfy the requirement so that it can be held back until a future delivery timebox.
 **C** - Could have  | Requirements labelled as Could have are desirable but not necessary and could improve the user experience or customer satisfaction for a little development cost. These will typically be included if time and resources permit. 
