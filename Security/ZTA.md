@@ -24,4 +24,16 @@
 - CrowStrike
   + [Zero Trust Security Explained: Principles of the Zero Trust Model](https://www.crowdstrike.com/en-us/cybersecurity-101/zero-trust-security/)
 
-  
+
+
+
+## Videos 
+
+### YouTube
+
+- [Zero Trust Architecture Model for Access Control in Cloud Native Applications](https://www.youtube.com/watch?v=69pVknZXrz8)
+  + "NIST SP 800-207A: A Zero Trust Architecture Model for Access Control in Cloud Native Applications in Multi-Cloud Environments was moved to public review in April 2023."
+  + "The authors - Ramaswamy Chandramouli, Senior Computer Scientist at NIST, and Zack Butcher, Founding Engineer at Tetrate - talk through the important aspects of the publication at the Zero Trust and High Assurance for Cloud-Native Applications Conference 2023."
+
+
+- IBM: [Zero Trust Explained in 4 mins](https://www.youtube.com/watch?v=yn6CPQ9RioA)
