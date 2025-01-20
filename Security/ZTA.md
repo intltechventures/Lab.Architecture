@@ -18,3 +18,10 @@
 - Zero Trust Maturity Model (v2.0 April 2023)
   + https://www.cisa.gov/sites/default/files/2023-04/CISA_Zero_Trust_Maturity_Model_Version_2_508c.pdf
 
+
+## Vendor-Specific Content 
+
+- CrowStrike
+  + [Zero Trust Security Explained: Principles of the Zero Trust Model](https://www.crowdstrike.com/en-us/cybersecurity-101/zero-trust-security/)
+
+  
