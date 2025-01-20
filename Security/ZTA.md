@@ -31,9 +31,13 @@
 
 ### YouTube
 
-- [Zero Trust Architecture Model for Access Control in Cloud Native Applications](https://www.youtube.com/watch?v=69pVknZXrz8)
+- NIST: [Zero Trust Architecture Model for Access Control in Cloud Native Applications](https://www.youtube.com/watch?v=69pVknZXrz8)
   + "NIST SP 800-207A: A Zero Trust Architecture Model for Access Control in Cloud Native Applications in Multi-Cloud Environments was moved to public review in April 2023."
   + "The authors - Ramaswamy Chandramouli, Senior Computer Scientist at NIST, and Zack Butcher, Founding Engineer at Tetrate - talk through the important aspects of the publication at the Zero Trust and High Assurance for Cloud-Native Applications Conference 2023."
+
+
+- NIST: [ZTA and DevSecOps for Cloud Native Applications](https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual)
+  + Third Annual Multi-Cloud Conference and Workshop (Virtual), January 26-27,  2022 
 
 
 - IBM: [Zero Trust Explained in 4 mins](https://www.youtube.com/watch?v=yn6CPQ9RioA)
