@@ -36,8 +36,9 @@
   + "The authors - Ramaswamy Chandramouli, Senior Computer Scientist at NIST, and Zack Butcher, Founding Engineer at Tetrate - talk through the important aspects of the publication at the Zero Trust and High Assurance for Cloud-Native Applications Conference 2023."
 
 
-- NIST: [ZTA and DevSecOps for Cloud Native Applications](https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual)
-  + Third Annual Multi-Cloud Conference and Workshop (Virtual), January 26-27,  2022 
+- NIST: Third Annual Multi-Cloud Conference and Workshop (Virtual, 6 videos), January 26-27,  2022
+  + [ZTA and DevSecOps for Cloud Native Applications](https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual)
+
 
 
 - IBM: [Zero Trust Explained in 4 mins](https://www.youtube.com/watch?v=yn6CPQ9RioA)
