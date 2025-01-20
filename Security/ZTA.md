@@ -37,7 +37,14 @@
 
 
 - NIST: Third Annual Multi-Cloud Conference and Workshop (Virtual, 6 videos), January 26-27,  2022
-  + [ZTA and DevSecOps for Cloud Native Applications](https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual)
+  + https://csrc.nist.gov/Events/2022/3rd-multi-cloud-annual-conference-devsecops-and-zt
+  + [Agenda](https://www.nist.gov/system/files/documents/noindex/2021/12/09/Agenda%20DSO%26ZTA%20Jan%2027%202022%20DRAFT%20v2.pdf)
+  + 1 - [ZTA and DevSecOps for Cloud Native Applications](https://www.nist.gov/news-events/events/2022/01/zta-and-devsecops-cloud-native-applications-virtual)
+  + 2 - 
+  + 3 - 
+  + 4 - 
+  + 5 - 
+  + 6 - 
 
 
 
