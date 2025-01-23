@@ -177,6 +177,15 @@
   + "We hope to add Zimpl in the near future, and allow GMPL to be used with CBC."
 
 
+
+### Timefold.ai - Timefold Solver Enterprise Edition (EE)
+- https://timefold.ai/
+  + "Timefold Solver is an AI constraint solver for Java, Python and Kotlin. You can use Timefold Solver to optimize the Vehicle Routing Problem, Employee Rostering, Maintenance Scheduling, Task Assignment, School Timetabling, Cloud Optimization, Conference Scheduling, Job Shop Scheduling and many more planning problems."
+  + "Developed by the original OptaPlanner team"
+  +  Timefold Solver Enterprise Edition (EE), a licensed version of Timefold Solver.
+
+
+
 ## Open Source Projects
 
 
@@ -203,6 +212,16 @@
 - https://cran.r-project.org/web/views/Optimization.html
   + "This CRAN Task View contains a list of packages that offer facilities for solving optimization problems.
   + NOTE: This resource was suggested by [Richard Ng](https://www.linkedin.com/in/richard-ng-2a8085a4/) (Clinical Data Analyst, The Queen's Medical Center) in response to a [2024-04-26 LinkedIn discussion](https://www.linkedin.com/feed/update/urn:li:activity:7189635767302819841?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7189635767302819841%2C7189655571661307904%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287189655571661307904%2Curn%3Ali%3Aactivity%3A7189635767302819841%29)
+
+
+### Timefold Solver
+- https://github.com/TimefoldAI/timefold-solver
+  * "Timefold Solver is an AI constraint solver for Java, Python and Kotlin. You can use Timefold Solver to optimize the Vehicle Routing Problem, Employee Rostering, Maintenance Scheduling, Task Assignment, School Timetabling, Cloud Optimization, Conference Scheduling, Job Shop Scheduling and many more planning problems."
+  * "Developed by the original OptaPlanner team"
+  * There are 2 editions of Timefold Solver:
+    * Timefold Solver Community Edition (CE) (this repo).
+    * Timefold Solver Enterprise Edition (EE), a licensed version of Timefold Solver.
+
 
 
 ## Interesting Articles
