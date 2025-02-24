@@ -9,6 +9,14 @@
 
 
 ## Capability Maps
+
+### Suggsted
+
+- https://www.leanix.net/en/sap-leanix-business-capability-map
+
+
+### To Be Reviewed / Organized...need to verify links are still correct
+
 - THE CAPABILITY INVENTORY
   + https://enklare.wordpress.com/2015/06/15/the-capability-inventory/
   + https://www.slideshare.net/enklare/basic-patterns-for-capability-map-level-0
