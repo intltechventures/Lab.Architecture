@@ -7,6 +7,9 @@
 
 - [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy 1st Edition](https://www.amazon.com/dp/1098100131/) 
 
+- [Collaborative Software Design: How to facilitate domain modeling decisions](https://www.amazon.com/Collaborative-Software-Design-facilitate-decisions/dp/1633439259), (2024) 
+
+- [Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software (Addison-Wesley Signature Series (Vernon)) 1st Edition](https://www.amazon.com/Domain-Storytelling-Collaborative-Domain-Driven-Addison-Wesley/dp/0137458916/), (2021) 
 
 
 ## Supplemental
