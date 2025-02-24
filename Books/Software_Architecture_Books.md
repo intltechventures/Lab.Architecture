@@ -9,6 +9,8 @@
 
 - [Building Evolutionary Architectures: Automated Software Governance 2nd Edition](https://www.amazon.com/dp/1492097543/), (2022) 
 
+- [Tidy First?: A Personal Exercise in Empirical Software Design 1st Edition](https://www.amazon.com/dp/1098151240/), (2023)
+
 
 
 ## Suggested
