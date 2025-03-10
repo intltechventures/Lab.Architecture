@@ -34,9 +34,14 @@
 104. If the actual data, from every major business that has attempted to follow the Agile Industrial Complex's prescriptive guidance were published and made available for aggreation and analysis - the entire edifice would immediately implode and spontaneously combust.
 
 
-## Meeks 2024 GenAI Conjectures:
+## Meeks 2024 AI Conjectures:
 
-1. "Most business people driving enterprise-wide GenAI adoption in their company - are unqualified to have an opinion on AI."
+2024-AI-01: "Most business people driving enterprise-wide GenAI adoption in their company - are unqualified to have an opinion on AI."
 
 
-2. "In ~18-24 months, 90% of those GenAI intiatives will be shutdown - and those same GenAI promoters in your company, will be gone (voluntarily, or involuntarily)."
+2024-AI-02: "In ~18-24 months, 90% of those GenAI intiatives will be shutdown - and those same GenAI promoters in your company, will be gone (voluntarily, or involuntarily)."
+
+
+## Meeks 2025 AI Conjectures:
+
+2025-AI-01: "As the proliferation of AI Agents increases within an enterprise - the resulting explosion in IT costs - will drive enterprises to return to on-premise computing."
