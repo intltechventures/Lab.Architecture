@@ -1,6 +1,26 @@
 
 # Architecture Drawing Resources
 
+## References
+
+- ArchiMate
+  + https://publications.opengroup.org/standards/archimate
+    * [ArchiMate® 3.2 Specification](https://pubs.opengroup.org/architecture/archimate32-doc/index.html)
+
+
+- UML 
+  + https://www.omg.org/spec/UML
+
+
+
+## Suggested Background Reading
+
+### Suggested Books
+ 
+- [Communication Patterns: A Guide for Developers and Architects, 1st Edition](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/), (2023)
+
+
+
 ## Recommended
 
 - Sparx Enterprise Architect (EA)
