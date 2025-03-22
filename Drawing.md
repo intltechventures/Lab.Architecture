@@ -3,13 +3,48 @@
 
 ## References
 
+
+### Diagramming Speifications 
 - ArchiMate
   + https://publications.opengroup.org/standards/archimate
     * [ArchiMate® 3.2 Specification](https://pubs.opengroup.org/architecture/archimate32-doc/index.html)
 
 
+- C4 model 
+  + https://c4model.com/ 
+    * https://c4model.com/diagrams
+    * https://c4model.com/tooling
+
+
 - UML 
   + https://www.omg.org/spec/UML
+
+
+
+### Icons 
+
+- Misc. Icons
+  + https://fontawesome.com/versions
+    * https://fontawesome.com/icons
+    * https://fontawesome.com/search?ic=free
+    * https://fontawesome.com/v6/icons
+
+
+- Cloud icons
+  + AWS
+    * https://aws.amazon.com/architecture/icons/
+
+  + Azure 
+    * https://learn.microsoft.com/en-us/azure/architecture/icons/
+
+  + Google CGP
+    * https://cloud.google.com/icons?hl=en
+
+  + Oracle OCI 
+    * https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm
+
+  + ServiceNow
+    * https://developer.servicenow.com/dev.do#!/reference/next-experience/orlando/now-components/now-icon/gallery
 
 
 
