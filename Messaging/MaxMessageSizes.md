@@ -11,6 +11,16 @@
 
 
 
+### Azure Event Grid
+- ?
+
+
+
+### Azure Service Bus 
+- ?
+
+
+
 ### Google Pub/Sub
 - https://cloud.google.com/pubsub/quotas
   + Google Pub/Sub (re: data field): 10MB
@@ -27,6 +37,11 @@
 ### Kafka 
 - https://www.confluent.io/learn/kafka-message-size-limit/
   + Kafka (default): 1MB
+
+
+
+### Solace
+- ?
 
 
 
