@@ -19,6 +19,12 @@
     * Licensed under the Creative Commons CC BY 4.0 l
 
 
+## Ontology Researchers
+
+- Barry Smith
+  + https://ontology.buffalo.edu/smith/
+
+
 ## Tools
 
 - http://www.linkeddatatools.com/
