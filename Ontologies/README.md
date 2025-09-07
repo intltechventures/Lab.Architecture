@@ -19,10 +19,26 @@
     * Licensed under the Creative Commons CC BY 4.0 l
 
 
-## Ontology Researchers
+## Academic Ontology Researchers
 
 - Barry Smith
   + https://ontology.buffalo.edu/smith/
+
+
+
+## Ontology Consultants / Thought Leaders
+
+- McComb, Dave
+  + https://www.linkedin.com/in/davemccomb/
+  + https://www.linkedin.com/company/semanticarts/
+  + https://www.semanticarts.com/
+
+
+- Talisman, Jessica 
+  + https://www.linkedin.com/in/jmtalisman/
+  + https://ontologypipeline.com/
+  + https://substack.com/@jessicatalisman
+
 
 
 ## Tools
