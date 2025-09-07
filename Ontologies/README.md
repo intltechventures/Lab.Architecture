@@ -12,6 +12,12 @@
   + https://github.com/BFO-ontology/BFO-2020/tree/master/21838-2/owl
 
 
+- gist ("an open-source upper ontology")
+  + https://www.semanticarts.com/gist/  
+  + https://github.com/semanticarts/gist-doc
+  + https://github.com/semanticarts/gist 
+    * Licensed under the Creative Commons CC BY 4.0 l
+
 
 ## Tools
 
