@@ -31,7 +31,11 @@
 
 103. More enterprise projects fail due to an excessive degree of optimisim - than skipticism and pessimism.
 
+
 104. If the actual data, from every major business that has attempted to follow the Agile Industrial Complex's prescriptive guidance were published and made available for aggreation and analysis - the entire edifice would immediately implode and spontaneously combust.
+
+
+105. At some level of scale [n], very large organizations find benefit in using longer-term roadmaps to align planning of resources (people, time, money) - to coordinate development efforts (larger than [x]). This is often even more critical - when the organizational units are distributed geographically, have greater autonomy (e.g., budget planning), and may also include required external coordination with [m] external partners.
 
 
 ## Meeks 2024 AI Conjectures:
