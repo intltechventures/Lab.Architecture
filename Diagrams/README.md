@@ -1,6 +1,38 @@
 
 # Architecture Drawing Resources
 
+## Notation Conventions
+   
+_illustrative, not exhaustive_   
+
+- Line Style
+  + Solid
+    * Automated File Transfer
+    * Email delivery with attachments
+    * File Sharing services 
+    * ... 
+  + Dashed
+    * Realtime (e.g., API, Web Services, direct data access, ...)
+  + Dotted
+    * Manual process
+    * User performing a task through a UI
+    * User uploading a file through a UI
+
+
+- Line Color (in the case of a mixed use integration path, pick the color that represents the highest security classification)
+  + Dark Green
+    * Financial transactions
+  + Red
+    * Senstive Data
+      * Personally Identifiable Informaiton (PII)
+      * HIPAA
+      * etc. 
+  + Blue 
+    * Other regular transaction data      
+  + Black 
+    * Reference Data 
+
+
 ## References
 
 
