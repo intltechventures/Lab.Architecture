@@ -6,12 +6,14 @@
 
 Category      | Status 
 --------------|---
-Incoming      | Under Evaluation
-Supported     | Recommended     
-Supported     | Accepted  
-Supported     | Future   
-Limited       | Contain  
-Limited       | In Use  
+Evaluation    | POC Evaluation
+Planned       | Future Use
+Approved      | Approved - Recommended     
+Approved      | Approved - General Use
+Contain       | Approved - w/Constraints
+Contain       | Approved - Grandfathered
+Restricted    | Approved - w/Exception
+Sunset        | Divest
 Prohibited    | Obsolete  
 Prohibited    | Not Approved  
 
@@ -23,23 +25,31 @@ Prohibited    | Not Approved
 
 
 ## Objectives of a TRM
-- Application Portability
+- Application portability
 - Interoperability
 - Minimize duplication of capability
+- Technology rationalization, cost management
+- Technology reuse 
 - Alignment with vision, strategy, roadmap
 - Consistent technology standards
 
 
+## TRM Category Models
+
+
+
 ## TRM Exemplars
 
-### Veteran's Administration TRM
+### Veterans Affairs (VA) TRM
 - https://www.oit.va.gov/Services/TRM/TRMHomePage.aspx
+  + https://www.oit.va.gov/Services/TRM/ReportVACategoryMapping.aspx
+
   + KM: I think one of the most well organized approaches to communicating TRM information is the publicly accessible VA
     TRM site. In particular, when you click on a specific technology/standard - note the lifecycle time-dimension that illustrates
-    the transition from one status to another. Ssee the *Decision* link for a given entry (see *Glassfish* entry below):
+    the transition from one status to another. See the *Decision* link for a given entry (see *Glassfish* entry below):
       * https://www.oit.va.gov/Services/TRM/ToolListSummaryPage.aspx
       * https://www.oit.va.gov/Services/TRM/CategorizationHelpPage.aspx
         * Example Technology entry: *Glassfish*
           * https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=6563
-      * https://www.oit.va.gov/Services/TRM/ReportVACategoryMapping.aspx
+
 
