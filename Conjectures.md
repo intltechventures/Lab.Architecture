@@ -1,6 +1,10 @@
 
 # Meeks Conjectures:
 
+Conjecture:    
+noun   
+_"an opinion or conclusion formed on the basis of incomplete information."_
+   
 
 ## Meeks Software Architecture Conjectures
 
@@ -53,7 +57,7 @@
 
 
 
-## Meeks Tool Conjecture: 
+## Meeks Tool Conjectures: 
 
 1. Some of the most expensive mistakes you will ever make - will be when you try to perform a task without the proper tool. This will be especially true when you have a one-off task - and think you can get by using the incorrect tool.
 
