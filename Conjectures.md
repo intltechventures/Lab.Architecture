@@ -49,3 +49,24 @@
 ## Meeks 2025 AI Conjectures:
 
 2025-AI-01: "As the proliferation of AI Agents increases within an enterprise - the resulting explosion in IT costs - will drive enterprises to return to on-premise computing."
+
+
+
+
+## Meeks Tool Conjecture: 
+
+1. Some of the most expensive mistakes you will ever make - will be when you try to perform a task without the proper tool. This will be especially true when you have a one-off task - and think you can get by using the incorrect tool.
+
+
+2. Selecting a tool based on an industry analyst magical report - without actually doing a proof-of-concept evaluation - will usually lead to failure of your initiative....and massive rework.
+
+
+3. There is rarely a direct correlation between the price and quality of a tool. However, there is a strong correlation between a poor tool choice - and its cost.
+
+
+4. Just because you can build your own tool - doesn't necessarily mean you should.
+
+
+5. Just because there are suitable tools for sale - doesn't mean that you shouldn't build your own.
+
+
