@@ -42,20 +42,6 @@ _"an opinion or conclusion formed on the basis of incomplete information."_
 105. At some level of scale [n], very large organizations find benefit in using longer-term roadmaps to align planning of resources (people, time, money) - to coordinate development efforts (larger than [x]). This is often even more critical - when the organizational units are distributed geographically, have greater autonomy (e.g., budget planning), and may also include required external coordination with [m] external partners.
 
 
-## Meeks 2024 AI Conjectures:
-
-2024-AI-01: "Most business people driving enterprise-wide GenAI adoption in their company - are unqualified to have an opinion on AI."
-
-
-2024-AI-02: "In ~18-24 months, 90% of those GenAI intiatives will be shutdown - and those same GenAI promoters in your company, will be gone (voluntarily, or involuntarily)."
-
-
-## Meeks 2025 AI Conjectures:
-
-2025-AI-01: "As the proliferation of AI Agents increases within an enterprise - the resulting explosion in IT costs - will drive enterprises to return to on-premise computing."
-
-
-
 
 ## Meeks Tool Conjectures: 
 
@@ -72,5 +58,21 @@ _"an opinion or conclusion formed on the basis of incomplete information."_
 
 
 5. Just because there are suitable tools for sale - doesn't mean that you shouldn't build your own.
+
+
+
+## Meeks 2024 AI Conjectures:
+
+2024-AI-01: "Most business people driving enterprise-wide GenAI adoption in their company - are unqualified to have an opinion on AI."
+
+
+2024-AI-02: "In ~18-24 months, 90% of those GenAI intiatives will be shutdown - and those same GenAI promoters in your company, will be gone (voluntarily, or involuntarily)."
+
+
+## Meeks 2025 AI Conjectures:
+
+2025-AI-01: "As the proliferation of AI Agents increases within an enterprise - the resulting explosion in IT costs - will drive enterprises to return to on-premise computing."
+
+
 
 
