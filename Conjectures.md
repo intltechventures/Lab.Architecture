@@ -61,7 +61,7 @@
 2. Selecting a tool based on an industry analyst magical report - without actually doing a proof-of-concept evaluation - will usually lead to failure of your initiative....and massive rework.
 
 
-3. There is rarely a direct correlation between the price and quality of a tool. However, there is a strong correlation between a poor tool choice - and its cost.
+3. There is rarely a direct correlation between the price and value of a tool. However, there is a strong correlation between a poor tool choice - and its cost.
 
 
 4. Just because you can build your own tool - doesn't necessarily mean you should.
