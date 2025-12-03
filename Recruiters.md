@@ -7,9 +7,6 @@
   + https://www.linkedin.com/company/entasis-partners/
 
 
-- Vintage Global
-  + https://vintageglobal.net/
-  + https://www.linkedin.com/company/vintageglobal/
 
 
 
