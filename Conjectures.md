@@ -73,6 +73,6 @@ _"an opinion or conclusion formed on the basis of incomplete information."_
 
 2025-AI-01: "As the proliferation of AI Agents increases within an enterprise - the resulting explosion in IT costs - will drive enterprises to return to on-premise computing."
 
-
+2025-AI-02: "All of the ornate work to craft guardrails, prompt guidance, etc. - can be undone by a non-visible exception - such as exceeding the maximum allowed context storage limit. And thus, what you might have believed to work / be true yesterday - may not be true tomorrow - and you will likely have no indicators of the breaking changes."
 
 
