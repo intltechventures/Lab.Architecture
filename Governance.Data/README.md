@@ -130,7 +130,7 @@
   + Keywords: Open Source, Data Discovery, Tag Data, Mask Data, Redact Data 
   + Documentation:
     * https://docs.tokern.io/
-  + Products:
+  + Products/Solutions:
     * PII Catcher
       * https://docs.tokern.io/piicatcher/
         * "PIICatcher is a scanner for PII and PHI information. It finds PII data in your databases and file systems and tracks critical data."
@@ -154,7 +154,7 @@
 
 
 
-- Alation ( :bulb: )
+- Alation ( :bulb: :bulb: :bulb: )
   + https://www.alation.com/
   + Keywords: Metadata, Management 
   + Documentation:
@@ -429,6 +429,7 @@
     * https://community.qlik.com/
 
 
+
 - Redpoint Global 
   + https://www.redpointglobal.com/
   + Keywords: Data Quality 
@@ -439,9 +440,21 @@
       * https://www.redpointglobal.com/automated-data-quality/
 
 
+- RightData
+  + https://www.getrightdata.com/
+  + Keywords: Data Discovery, Data Catalog, Data Quality, Metadata Management, Data Market
+  + Products/Solutions:
+    + Data Trust: 
+      * https://www.getrightdata.com/product/datatrust
+    + Data Market:
+      * https://www.getrightdata.com/product/datamarket
+  + ???
+
+
 
 - SAP Master Data Governance (MDG)
   + ???
+  
 
 
 
