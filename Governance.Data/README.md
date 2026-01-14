@@ -10,16 +10,18 @@
 - NIST AI RMF
 
 
-## Industry Analyst Reports
+
+## Suggested Industry Analyst Reports
+
+- Forrester Wave™ reports:
+  + MDM
 
 
-- Forrester 
-  + MDM Wave™ report 
-
-
-- Gartner
-  + Gartner® Magic Quadrant™ for Augmented Data Quality Solutions
-  + Magic Quadrant™ for Data Integration Tools
+- Gartner® Magic Quadrant™ reports:
+  + Augmented Data Quality Solutions
+  + Data Integration Tools
+  + Data & Analytics Governance
+  + Metadata Management
 
 
 - [QKS Group](https://qksgroup.com/)|[SPARK Matrix™](https://qksgroup.com/spark-matrix): 
@@ -95,12 +97,20 @@
 
 
 
+## Possible Solutions
 
-## Open Source Solutions
+- NOTES:
+  + ```I'm still sourcing candidate entries for these sections (Open Source, Commercial)```
+  + ```???``` - indicates this solution may provide *some* coverage for one-or-more of the desired capabilities - but has not yet been researched/evaluated for possible fit...
 
-- NOTE: ```I'm still sourcing entries for this section```
+  + Preliminary Suggested Evaluation Priority indicators:
+    * ( :bulb: :bulb: :bulb: ) - indicates this may be something worth considering first
+    * ( :bulb: ) - indicates this may be something worth considering as an alternative...
 
 
+
+### Open Source Solutions
+--- 
 - Amundsen (created by Lyft) ( :bulb: )
   + https://www.amundsen.io/amundsen/
     * "Open source data discovery and metadata engine"  
@@ -131,14 +141,9 @@
 
 
 
-## Commercial Solutions
+### Commercial Solutions
+---
 
-- NOTE: 
-  + ```I'm still sourcing candidate entries for this section```
-  + ```???``` - indicates this solution may provide *some* coverage for one-or-more of the desired capabilities - but has not yet been researched/evaluated for possible fit...
-  + ( :bulb: :bulb: :bulb: ) - indicates this may be something worth considering first
-  + ( :bulb: ) - indicates this may be something worth considering as an alternative...
-  
 
 - Ab-initio Software 
   + ???
@@ -180,8 +185,36 @@
 
 
 
-- Atlan 
-  + ???
+- Atlan ( :bulb: :bulb: :bulb: ) 
+  + https://atlan.com/
+  + Keywords: Metadata, Data Disocvery, Data Catalog, Data Catalog, Data Quality, Data Governance, Automaton, Integration, Marketplace, AI Governance
+  + Documentation: Data Discovery, Data Catalog, Data Catalog, Data Quality, Data Governance, Automaton, Integration, Marketplace, AI Governance  
+    * https://atlan.com/resources/
+    * https://developer.atlan.com/
+    * https://atlan.com/blueprint/
+  + Products/Solutons:
+    * Data Catalog:
+      * https://atlan.com/p/data-catalog-open-source-amundsen/
+    * Metadata 
+      * https://atlan.com/active-metadata/
+    * Data Discovery:
+      * https://atlan.com/data-discovery-catalog/
+    * Data Quality Studio
+      * https://atlan.com/data-quality-studio/
+    * Data Governance
+      * https://atlan.com/active-data-governance/
+    * AI Governance
+      * https://atlan.com/ai-governance/
+    * Column Level Lineage
+      * https://atlan.com/column-level-lineage/
+    * Intelligent Automation
+      * https://atlan.com/intelligent-automation/
+    * App Framework
+      * https://atlan.com/app-framework/
+    * Connectors
+      * https://atlan.com/connectors/
+    * Marketplace
+      * https://atlan.com/data-products-marketplace/
 
 
 
