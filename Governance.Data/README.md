@@ -102,10 +102,25 @@
 - NOTE: ```I'm still sourcing entries for this section```
 
 
+- Amundsen (created by Lyft)
+  + https://www.amundsen.io/amundsen/
+    * "Open source data discovery and metadata engine"  
+    * https://github.com/amundsen-io/amundsen
+      * "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data."
+      * OSS License: Apache 2.0     
+  + Keywords: Discovery, Metadata, Share Data, ...
+  + Documentation:
+    * https://www.amundsen.io/amundsen/architecture/
+    * https://www.amundsen.io/amundsen/developer_guide/
+    * https://www.amundsen.io/amundsen/installation/
+
+
+
 - Tokern 
   + https://tokern.io/
   + Keywords: Open Source, Data Discovery, Tag Data, Mask Data, Redact Data 
-  + https://docs.tokern.io/
+  + Documentation:
+    * https://docs.tokern.io/
   + Products:
     * PII Catcher
       * https://docs.tokern.io/piicatcher/
@@ -228,6 +243,20 @@
 
 
 - Databricks 
+  + https://www.databricks.com/
+  + Keywords: Data Catalog, Data Governance, AI Governance
+  + Documentation:
+    * https://www.databricks.com/databricks-documentation
+  + Products/Solutions:
+    * Unity Catalog: 
+      * https://www.databricks.com/product/unity-catalog
+      * "Unified and open governance for data and AI"
+    * Data Management:
+      * https://www.databricks.com/product/lakehouse-storage
+    * Marketplace:
+      * https://www.databricks.com/product/marketplace
+    * AI Agents:
+      * https://www.databricks.com/solutions/ai-agents
   + ???
 
 
