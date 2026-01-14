@@ -31,62 +31,100 @@
 
 
 
-## Common Features/Requirements (possible candidates for RFP / vendor evaluation criteria)
+## Common Capabilities, Features, Requirements (for possible inclusion as evaluation criteria for an RFP / vendor proof-of-concept demo)
 
-- Examples of possible RFP Evaluation Criteria
-  + Access Control
-  + Metadata Governance 
-    * Auto Lineage 
-    * Business Glossary 
-  + Data Search & Discovery 
+- Security
+  + Access Controls
+
+
+- Metadata Governance 
+  + Auto Lineage 
+  + Business Glossary 
+  + Enrichment 
+  + Tagging
+
+
+- Data Search & Discovery 
     * PHI    
     * Sensitive 
     * PII 
     * GDPR
     * CCPA
     * ...
-    * Critical Data Elements (CDEs)
-  + Data asset prioritization
-  + Data Catalog
-  + Data Classification
-  + Data Stewardship 
-  + Data Community Collaboration
-  + Single view
-  + End-to-end lineage tracking
-  + Accountability 
-  + Traceability of workflows
-  + Ownership traceability 
-  + Data Policies Management 
-  + Data Controls Management 
-  + Compliance traceability 
-    * Development
-    * Deployment
-    * Operations
-  + Systematic regulatory compliance tracking
-  + Automated Policy enforcement
-  + Data Quality Tools   
+
+
+- Data 
+  + Asset prioritization
+  + Catalog
+  + Classification
+  + Stewardship 
+  + Community Collaboration
+  + Critical Data Elements (CDEs)
+  + Policies
+  + Controls
+  + Quality 
+  + Alerts
+  + Tools
+
+
+- Single view
+
+
+- Data Lineage:
+  + End-to-end
+  + Column
+
+
+- Traceability
+  - Accountability
+  - Ownership
+  - Usage
+  - Workflows
+
+
+- Traceability 
+  + Development
+  + Deployment
+  + Operations
+
+
+- Compliance Tracking
+  + Regulatory 
+  + Policies 
+  + Control 
+
+
+- Query Management 
   + Natural language queries 
-  + Metadata enrichment 
-  + Data tagging
-  + Data quality alerts 
-  + Query Management 
-  + Monitor & Measure & Observability 
-    * Track Data Usage 
+
+
+- Monitoring, Measurement & Observability 
+
+
+- Data Marketplace
   + Data Sharing / Exchange 
-  + Integration
-    * Data Quality Tools
-    * Data Import 
-    * Data Export
-    * API Integration
-  + Automated Assessments
-    * Regulations
-    * Standards 
-  + AI Governance
-    * AI Models
-    * AI Use Cases 
-    * AI Platforms 
-    * Human-in-the-loop refinement 
-    * AI Agents 
+
+
+-  Integration
+  + Data Import 
+  + Data Export
+  + API Integration
+  + Connectors
+
+
+- Automated Assessments
+  + Regulations
+  + Standards 
+  + Policies
+  + Controls
+
+
+- AI Governance
+  + AI Models
+  + AI Use Cases 
+  + AI Platforms 
+  + Human-in-the-loop refinement 
+  + AI Agents 
 
 
 - Key Principles of AI Usage Governance 
