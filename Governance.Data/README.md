@@ -76,10 +76,10 @@
 
 
 - Traceability
-  - Accountability
-  - Ownership
-  - Usage
-  - Workflows
+  + Accountability
+  + Ownership
+  + Usage
+  + Workflows
 
 
 - Traceability 
