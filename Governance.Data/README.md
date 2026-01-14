@@ -45,12 +45,12 @@
 
 
 - Data Search & Discovery 
-    * PHI    
-    * Sensitive 
-    * PII 
-    * GDPR
-    * CCPA
-    * ...
+  + PHI    
+  + Sensitive 
+  + PII 
+  + GDPR
+  + CCPA
+  + ...
 
 
 - Data 
@@ -91,7 +91,7 @@
 - Compliance Tracking
   + Regulatory 
   + Policies 
-  + Control 
+  + Controls  
 
 
 - Query Management 
@@ -105,7 +105,7 @@
   + Data Sharing / Exchange 
 
 
--  Integration
+- Integration   
   + Data Import 
   + Data Export
   + API Integration
