@@ -95,14 +95,13 @@
 
 
 
-## Solutions
 
-### Open Source Solutions
+## Open Source Solutions
 
 - NOTE: ```I'm still sourcing entries for this section```
 
 
-- Amundsen (created by Lyft) (:bulb:)
+- Amundsen (created by Lyft) ( :bulb: )
   + https://www.amundsen.io/amundsen/
     * "Open source data discovery and metadata engine"  
     * https://github.com/amundsen-io/amundsen
@@ -132,13 +131,13 @@
 
 
 
-### Data Lineage: Commercial Solutions
+## Commercial Solutions
 
 - NOTE: 
   + ```I'm still sourcing candidate entries for this section```
   + ```???``` - indicates this solution may provide *some* coverage for one-or-more of the desired capabilities - but has not yet been researched/evaluated for possible fit...
-  + (:bulb::bulb::bulb:) - indicates this may be something worth considering first
-  + (:bulb:) - indicates this may be something worth considering as an alternative...
+  + ( :bulb: :bulb: :bulb: ) - indicates this may be something worth considering first
+  + ( :bulb: ) - indicates this may be something worth considering as an alternative...
   
 
 - Ab-initio Software 
@@ -150,7 +149,7 @@
 
 
 
-- Alation (:bulb:)
+- Alation ( :bulb: )
   + https://www.alation.com/
   + Keywords: Metadata, Management 
   + Documentation:
@@ -206,7 +205,7 @@
 
 
 
-- Collibra (:bulb::bulb::bulb:)
+- Collibra ( :bulb: :bulb: :bulb: )
   + https://www.collibra.com/products/ai-governance
   + "Unified governance for data and AI"
   + Keywords: 
