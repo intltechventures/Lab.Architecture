@@ -21,6 +21,13 @@
 
   + https://en.wikipedia.org/wiki/Controlled_vocabulary
 
+
+
+- w3.org 
+  - SKOS Simple Knowledge Organization System Reference
+    * https://www.w3.org/TR/2009/REC-skos-reference-20090818/
+
+
 - ONTOLOG collaborative work environment - Historic Archives
   + http://ontolog.cim3.net/
   + https://ontologforum.com/index.php/WikiHomePage
@@ -29,6 +36,81 @@
     * (2015 - current) 
   + http://ontolog.cim3.net/wiki/
     * archives (2002-2014)
+
+
+
+## Ontology Tools
+
+
+- Knowledge Graph Resources [1]
+  + (Ontologies, controlled vocabularies, and semantic tools—queried from Wikidata)
+  + https://kgresources.streamlit.app/
+    * https://github.com/SteveHedden/open-knowledge-graph-resources
+
+
+- http://www.linkeddatatools.com/
+
+
+- Chowlk [1] 
+  + Tool to transform ontology conceptualizations made with diagrams.net into OWL code.
+  + https://github.com/oeg-upm/Chowlk
+  + https://chowlk.linkeddata.es/notation.html
+  + Chowlk: from UML-based ontology conceptualizations to OWL
+    * https://2022.eswc-conferences.org/wp-content/uploads/2022/05/paper_90_Chavez-Feria_et_al.pdf
+
+
+- Ontospy [1]
+  + https://lambdamusic.github.io/Ontospy/
+  + https://github.com/lambdamusic/Ontospy
+
+
+- Protege [1]
+  + https://protege.stanford.edu/
+
+
+- RDFPlayground [1]
+  + https://github.com/RDFPlaygroundProject/RDFPlayground
+  + "A web interface for Linked Data courses, tailored for CC7220 "La Web de Datos" course at Universidad de Chile"
+  + "This project allows web users to write RDF as Turtle, check its syntax, visualize the data as a graph, and use SPARQL, RDFS, OWL, SHACL and ShEx."
+
+
+- Reactodia [1]
+  + https://reactodia.github.io/
+
+
+- SHACL Play [1]
+  + https://shacl-play.sparna.fr/play/
+  + "Free suite of tools from Sparna to work with SHACL"
+
+
+- Sigma Knowledge Engineering Environment 
+  + https://github.com/ontologyportal
+    * "Sigma is an integrated development environment for logical theories that extend the Suggested Upper Merged Ontology (SUMO). "
+  + https://github.com/ontologyportal/sigmakee
+
+
+- SKOS Play [1]
+  + https://skos-play.sparna.fr/play/
+  + "a free application to render and visualise thesaurus, taxonomies or controlled vocabularies expressed in SKOS."
+  + SKOS Simple Knowledge Organization System Reference
+    * https://www.w3.org/TR/2009/REC-skos-reference-20090818/
+
+
+- vscode-rdf-sketch [1]
+  + (VSCode extension to visualize RDF data)
+  + https://github.com/zazuko/vscode-rdf-sketch
+    * "This repository was archived by the owner on Dec 16, 2024. It is now read-only."
+
+
+- WebVOWL [1] 
+  + Visualizing ontologies on the Web 
+  + https://service.tib.eu/webvowl/
+  + https://github.com/VisualDataWeb/WebVOWL
+
+
+
+1. Tip of the hat to [Steve Hedden](https://www.linkedin.com/in/steve-hedden/)'s [LinkedIn January 2026 post](https://www.linkedin.com/feed/update/urn:li:activity:7416543599598759936/)
+
 
 
 ## Ontology Examples
@@ -61,7 +143,7 @@
 
 - gist ("an open-source upper ontology")
   + https://www.semanticarts.com/gist/  
-  + https://github.com/semanticarts/gist-doc
++ https://github.com/semanticarts/gist-doc
   + https://github.com/semanticarts/gist 
     * Licensed under the Creative Commons CC BY 4.0 l
 
@@ -81,6 +163,7 @@
   + https://www.ontologyportal.org/
     * "The Suggested Upper Merged Ontology (SUMO) and its domain ontologies form the largest formal public ontology in existence today."
     * "SUMO is the only formal ontology that has been mapped to all of the WordNet lexicon. SUMO is written in the SUO-KIF language. SUMO is free and owned by the IEEE."
+
 
 - UMBEL (Upper Mapping and Binding Exchange Layer) 
   + https://en.wikipedia.org/wiki/UMBEL
@@ -105,7 +188,7 @@
 
 
 - OWL 2(Web Ontology Language)
-  + https://en.wikipedia.org/wiki/Web_Ontology_Language
++ https://en.wikipedia.org/wiki/Web_Ontology_Language
   + https://www.w3.org/TR/owl2-overview/
 
 
@@ -124,7 +207,11 @@
 
 
 
-## Ontology Consultants / Thought Leaders
+## Ontology Experts
+
+- Hedden, Steve 
+  + https://www.linkedin.com/in/steve-hedden/
+
 
 - McComb, Dave
   + https://www.linkedin.com/in/davemccomb/
@@ -136,22 +223,6 @@
   + https://www.linkedin.com/in/jmtalisman/
   + https://ontologypipeline.com/
   + https://substack.com/@jessicatalisman
-
-
-
-## Tools
-
-- http://www.linkeddatatools.com/
-
-- http://schema.org/
-
-- Sigma Knowledge Engineering Environment 
-  + https://github.com/ontologyportal
-    * "Sigma is an integrated development environment for logical theories that extend the Suggested Upper Merged Ontology (SUMO). "
-  + https://github.com/ontologyportal/sigmakee
-
-
-
 
 
 
