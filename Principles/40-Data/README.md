@@ -15,8 +15,8 @@
 
 7. All data elements SHOULD be defined in an enterprise-wide Data Dictionary.
 
-8. Domain Driven Design (DDD) should be used to define Bounded Contexts. 
+8. Domain Driven Design (DDD) SHOULD be used to define Bounded Contexts. 
 
-9. TBD...
+9. Sensitive data MUST be encrypted at-rest, and in-transit.
 
-10. TBD...
+10. Data MUST be governed
