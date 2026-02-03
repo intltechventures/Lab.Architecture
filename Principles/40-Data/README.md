@@ -1,6 +1,8 @@
 
-# EA Principles > Data Architecture
-
+# EA Principles > Data Architecture   
+_illustrative, not exhaustive_   
+   
+   
 1. Data is a vital organizational asset. 
 
 2. All data MUST have an explicit retention policy. 
