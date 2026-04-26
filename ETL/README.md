@@ -46,6 +46,7 @@
   + A system for agentic LLM-powered data processing and ETL 
   + https://www.docetl.org/
   + https://github.com/ucbepic/docetl
+  + https://ucbepic.github.io/docetl/
 
 
 
