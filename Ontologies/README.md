@@ -232,6 +232,10 @@
   + https://accidental-taxonomist.blogspot.com/
 
 
+- Hedden, Steve
+  + https://www.linkedin.com/in/steve-hedden/
+
+
 - McComb, Dave
   + https://www.linkedin.com/in/davemccomb/
   + https://www.linkedin.com/company/semanticarts/
