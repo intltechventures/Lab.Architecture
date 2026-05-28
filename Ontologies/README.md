@@ -221,6 +221,11 @@
 
 ## Ontology Experts
 
+- Hart, Casey 
+  + https://www.linkedin.com/in/casey-hart-7a032ba4/
+  + https://www.youtube.com/@OntologyExplained
+
+
 - Hedden, Heather 
   + https://www.linkedin.com/in/hedden/
   + https://www.hedden-information.com/
@@ -238,6 +243,14 @@
   + https://ontologypipeline.com/
   + https://substack.com/@jessicatalisman
 
+
+
+## Videos
+
+- YouTube Channel: Ontology Explained: Philosophy and AI (Casey Hart)
+  + https://www.youtube.com/@OntologyExplained
+    * Heather Hedden: Are Taxonomists Ontologists (or Vice-Versa)
+      * https://www.youtube.com/watch?v=PcsJPrQUoJ4
 
 
 ## Books
