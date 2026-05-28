@@ -268,7 +268,7 @@
   + https://www.amazon.com/Semantic-Web-Working-Ontologist-Effective/dp/1450376142/
 
 
-- Building Ontologies with Basic Formal OntologyUnavailable (2015)
+- Building Ontologies with Basic Formal Ontology (2015)
   + https://www.amazon.com/Building-Ontologies-Basic-Formal-Ontology/dp/0262527812
   + https://direct.mit.edu/books/monograph/4044/Building-Ontologies-with-Basic-Formal-Ontology
 
