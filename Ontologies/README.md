@@ -115,11 +115,13 @@
 
 ## Ontology Examples
 
-- Basic Formal Ontology
+- Basic Formal Ontology (BFO)
   + https://basic-formal-ontology.org/
   + https://www.youtube.com/@basicformalontology470/videos 
+  + https://bfo-ontology.github.io/
   + https://github.com/bfo-ontology/BFO-2020
-  + https://github.com/BFO-ontology/BFO-2020/tree/master/21838-2/owl
+    * A repository for BFO 2020 artifacts specified in ISO 21838-2:2020 
+    * https://github.com/BFO-ontology/BFO-2020/tree/master/21838-2/owl
 
 
 - Cyc
@@ -132,6 +134,7 @@
       * "After 40 years, 30 million rules, 200 million dollars, 2000 person-years, and many promises, Cyc has failed to reach intellectual maturity, and may never will. Exacerbated by the secrecy and insularity of Cycorp, there remains no evidence of its general intelligence."
   + OpenCyc
     + "4.0 was the last released version, and around March 2017, OpenCyc was shut down for the purported reason that 'because such 'fragmenting' led to divergence, and led to confusion amongst its users and the technical community generally thought that OpenCyc fragment was Cyc.'"
+
 
 - Dublin Core
   + https://en.wikipedia.org/wiki/Dublin_Core
@@ -147,6 +150,7 @@
   + https://github.com/semanticarts/gist 
     * Licensed under the Creative Commons CC BY 4.0 l
 
+
 - odp.org
   + Directory of Knowledge Representation Resources
     * http://www.odp.org/Reference/Knowledge_Management/Knowledge_Representation
@@ -155,7 +159,11 @@
 
 - schema.org 
   + https://schema.org/
-    * https://schema.org/docs/schemas.html
+    * "Schema.org is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond."
+  + https://schema.org/docs/schemas.html
+  + https://schema.org/docs/documents.html
+  + https://schema.org/docs/releases.html
+
 
 
 - Suggested Upper Merged Ontology (SUMO)
@@ -168,6 +176,10 @@
 - UMBEL (Upper Mapping and Binding Exchange Layer) 
   + https://en.wikipedia.org/wiki/UMBEL
   + "A logically organized knowledge graph of 34,000 concepts and entity types that can be used in information science for relating information from disparate sources to one another. It was retired at the end of 2019."
+
+
+- WAND Taxonomies
+  + https://www.wandinc.com/wand-taxonomies
 
 
 - WordNet.net
@@ -209,8 +221,10 @@
 
 ## Ontology Experts
 
-- Hedden, Steve 
-  + https://www.linkedin.com/in/steve-hedden/
+- Hedden, Heather 
+  + https://www.linkedin.com/in/hedden/
+  + https://www.hedden-information.com/
+  + https://accidental-taxonomist.blogspot.com/
 
 
 - McComb, Dave
@@ -226,6 +240,48 @@
 
 
 
+## Books
+
+- The Accidental Taxonomist, Third Edition (2022)
+  + https://www.hedden-information.com/accidental-taxonomist/
+  + https://www.amazon.com/Accidental-Taxonomist-Third-Heather-Hedden/dp/1573875864/
+
+
+- Semantic Web for the Working Ontologist: Effective Modeling for Linked Data, RDFS, and OWL (ACM Books) 3rd Edition (2020)
+  + https://www.amazon.com/Semantic-Web-Working-Ontologist-Effective/dp/1450376142/
+
+
+- Building Ontologies with Basic Formal OntologyUnavailable (2015)
+  + https://www.amazon.com/Building-Ontologies-Basic-Formal-Ontology/dp/0262527812
+  + https://direct.mit.edu/books/monograph/4044/Building-Ontologies-with-Basic-Formal-Ontology
+
+
+## Standards
+
+
+### International Standards Organization (ISO) 
+
+- ISO/FDIS 25964-1 Information and documentation — Thesauri and interoperability with other vocabulariesPart 1: Thesauri for information retrieval, management and use
+  + https://www.iso.org/standard/86713.html
+    * This draft is in the approval phase.
+    * Will replace ISO 25964-1:2011 
+
+
+- ISO 25964-1:2011 Thesauri and interoperability with other vocabularies — Part 1: Thesauri for information retrieval 
+  + https://www.iso.org/standard/53657.html
+    * This publication was last reviewed and confirmed in 2022. Therefore this version remains current.
+    * Expected to be replaced by ISO/FDIS 25964-1 within the coming months. 
+
+
+### Industry / Community Driven
+
+- The XBRL Standard
+  + https://www.xbrl.org/
+  + https://specifications.xbrl.org/
+  + https://www.xbrl.org/guidance/taxonomy-quick-start-guide/
+
+
+
 ## Articles
 
 ### 2019 
@@ -233,12 +289,35 @@
 - https://www.linkedin.com/pulse/ontologies-taxonomies-bearsoh-my-chris-irwin-davis-phd/
 
 
+### 2020 
+
+
+### 2021 
+
+
+
 ### 2022
  
 - https://medium.com/@Tonyseale/building-your-own-schema-org-7600a90e690a
 
 
+- Taxonomy 101: Definition, Best Practices, and How It Complements Other IA Work (2022-07-03)
+  + https://www.nngroup.com/articles/taxonomy-101/
+
+
+### 2023 
+
+
+
 ### 2024 
 
 - https://www.knowledge-graph-guys.com/blog/your-ontology-your-ip
+
+
+### 2025
+
+
+
+### 2026
+
 
