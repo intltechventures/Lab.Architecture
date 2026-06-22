@@ -20,6 +20,7 @@
 5010        | In Electronic Data Interchange (EDI), 5010 (specifically ASC X12 Version 5010) is the standardized format mandated by the Health Insurance Portability and Accountability Act (HIPAA) for transmitting electronic healthcare transactions.
 8020        | A newer X12 version, intended to support FHIR and other technologies
 ANSI        | American National Standards Institute
+AS2         | Applicability Statement 2; An industry-standard networking protocol used by businesses to exchange data securely and reliably over the internet.
 ASC         | Accredited Standards Committee 
 CAHs        | Critical Access Hospitals
 CDC         | Center for Disease Control 
@@ -40,6 +41,7 @@ ICD-10-CM   | Clinical Modification; Used across all healthcare settings to code
 ICD-10-PCS  | Procedure Coding System; Used exclusively in hospital inpatient settings to code medical procedures.
 ICD-11      | International Classification of Diseases, 11th Revision
 MA          | Medicare Advantage
+MDN         | Message Disposition Notifications
 MIPS        | Merit-based Incentive Payment System
 NCHS        | National Center for Health Statistics
 NCPDP       | National Council for Prescription Drug Programs
@@ -95,8 +97,14 @@ WHO-FIC     | WHO Family of International Classifications
 
 - EDI Transmission Mechanisms:
   + SFTP
+    * Operates on the SSH protocol and focuses primarily on moving files. It does not have built-in "proof of receipt" mechanisms like an MDN.
   + AS2
-  + HTTPS
+    * Operates over standard HTTPS; Eliminates the need for expensive, third-party Value-Added Networks (VANs).
+    * Unlike standard file transfers, AS2 uses a combination of digital certificates, encryption, and automated receipts to guarantee security and authenticity.
+    * Encryption: Messages are encrypted using the receiver's public key, ensuring only the intended recipient can decrypt the file.
+    * Digital Signatures: The sender digitally signs the message using their private key, verifying the sender's identity and preventing tampering.
+    * Message Disposition Notifications (MDN): Once the file is received and successfully decrypted, the receiving system automatically sends back a digitally signed receipt (the MDN) to the sender. This provides legal proof of receipt, often referred to as "non-repudiation"
+  + HTTPS (i.e., TLS 1.3)
 
 
 ### International Classification of Diseases (ICD)
