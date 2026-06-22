@@ -21,6 +21,7 @@
 ANSI        | American National Standards Institute
 ASC         | Accredited Standards Committee 
 CAHs        | Critical Access Hospitals
+CDC         | Center for Disease Control 
 CHIP        | Children’s Health Insurance Program
 CICA        | Context Inspired Component Architecture
 EDI         | Electronic data interchange 
@@ -32,14 +33,16 @@ HL7         | Health Level 7
 ICD-10      | International Classification of Diseases, 10th Revision; the global diagnostic coding system published by the World Health Organization.
 ICD-10-CM   | Clinical Modification; Used across all healthcare settings to code patient diagnoses, illnesses, and injuries.
 ICD-10-PCS  | Procedure Coding System; Used exclusively in hospital inpatient settings to code medical procedures.
+ICD-11      | International Classification of Diseases, 11th Revision
 MA          | Medicare Advantage
 MIPS        | Merit-based Incentive Payment System
+NCHS        | National Center for Health Statistics
 QHP         | Qualified Health Plan
 STU         | Standard for Trial Use
 UN/CEFACT   | United Nations Centre for Trade Facilitation and Electronic Business 
 USCDI       | United States Core Data for Interoperability 
 WHO         | World Health Organization
-
+WHO-FIC     | WHO Family of International Classifications
 
 
 ## References
@@ -90,7 +93,12 @@ WHO         | World Health Organization
   + HTTPS
 
 
+### International Classification of Diseases (ICD)
+
+- https://www.who.int/classifications/classification-of-diseases
+
 - ICD-10 Codes
+  + https://en.wikipedia.org/wiki/ICD-10
   + ICD-10-CM codes are alphanumeric and range from 3 to 7
   + Structure: 
     * **Characters 1-3**: Category of the disease or injury.
@@ -102,7 +110,13 @@ WHO         | World Health Organization
     * https://www.icd10data.com/
     * https://www.cms.gov/medicare/coding-billing/icd-10-codes
     * https://www.cdc.gov/nchs/icd/icd-10-cm/index.html
+    * https://icd10cmtool.cdc.gov/
 
+
+- ICD-11 Coes
+  + The ICD-11 is the eleventh revision of the International Classification of Diseases (ICD). It replaces the ICD-10 as the global standard for recording health information and causes of death. The ICD is developed and annually updated by the World Health Organization (WHO). Development of the ICD-11 started in 2007[1][2] and spanned over a decade of work, involving over 300 specialists from 55 countries divided into 30 work groups,[7][8] with an additional 10,000 proposals from people all over the world.[9] Following an alpha version in May 2011 and a beta draft in May 2012, a stable version of the ICD-11 was released on 18 June 2018,[4][9] and officially endorsed by all WHO members during the 72nd World Health Assembly on 28 May 2019.
+  + The ICD-11 is a large ontology consisting of about 85,000 entities, also called classes or nodes. An entity can be anything that is relevant to health care. It usually represents a disease or a pathogen, but it can also be an isolated symptom or (developmental) anomaly of the body. There are also classes for reasons for contact with health services, social circumstances of the patient, and external causes of injury or death. The ICD-11 is part of the WHO-FIC, a family of medical classifications.
+  + https://www.who.int/classifications/classification-of-diseases
 
 
 ### Compliance/Regulatory
@@ -138,6 +152,15 @@ WHO         | World Health Organization
 - General Data Protection Program
 
 
+- National Center for Health Statistics  
+  + https://www.cdc.gov/nchs/
+
+
+- World Health Organization 
+  + https://en.wikipedia.org/wiki/World_Health_Organization
+  + https://www.who.int/ 
+  + WHO Family of International Classifications
+    * https://en.wikipedia.org/wiki/Medical_classification#WHO_Family_of_International_Classifications
 
 
 ## EDI Transaction Types
@@ -185,38 +208,38 @@ WHO         | World Health Organization
   + Allows receiving teams to prepare for incoming shipments, speeding up unloading and inventory updates. ASNs also improve visibility into supply chain events and can help avoid errors and delays.
 
 
-- **210 Motor Carrier Freight Details**: 
+- **X12 210 Motor Carrier Freight Details**: 
   + Carrier's invoice for transportation services.
 
 
-- **214 Transportation Carrier Shipment Status**: 
+- **X12 214 Transportation Carrier Shipment Status**: 
   + Real-time updates on delivery status.
 
 
-- **940 Warehouse Shipping Order**: 
+- **X12 940 Warehouse Shipping Order**: 
   + Instruction to a warehouse to ship goods to a customer.
   + Automates communication with third-party warehouses which reduces manual processes and minimizes shipping errors by clearly specifying fulfillment requirements.
 
 
-- **943 Warehouse Stock Transfer Shipment Advice**:
+- **X12 943 Warehouse Stock Transfer Shipment Advice**:
   + Notifies the receiving warehouse that inventory is on its way during a transfer between locations. Ensures accurate inventory reconciliation by tracking stock transfers and supports multi-location inventory strategies for scalability and distribution.
 
 
-- **944 Warehouse Stock Transfer Receipt Advice**:
+- **X12 944 Warehouse Stock Transfer Receipt Advice**:
   + The 944 validates inventory accuracy post-transfer, which prevents discrepancies and enhances inventory control by resolving shortage or overage issues immediately.
 
 
-- **945 Warehouse Shipping Advice**:
+- **X12 945 Warehouse Shipping Advice**:
   + Confirms the warehouse has shipped the requested goods while providing critical shipment details such as quantities, tracking numbers, and carriers. The 944 also helps reconcile shipments with ASNs (856) and invoices (810) and can reduce disputes by serving as proof of shipment.  
 
 
 
 ## Finance & Payments
 
-- **820 Payment Order/Remittance Advice**: Details the payment amount and the invoices being paid.
+- **X12 820 Payment Order/Remittance Advice**: Details the payment amount and the invoices being paid.
 
 
-- **812 Credit/Debit Adjustment**: Notification of a financial adjustment between partners.
+- **X12 812 Credit/Debit Adjustment**: Notification of a financial adjustment between partners.
 
 
 
@@ -224,51 +247,51 @@ WHO         | World Health Organization
 
 ### HIPAA EDI Error Codes
 
-- 999
+- **X12 999**
 
-- 277CA
+- **X12 277CA**
 
 
 
 ### Insurance Eligibility & Benefits
 
-- **270 Eligibility Inquiry**: 
+- **X12 270 Eligibility Inquiry**: 
   + Checking a patient's Eligibility, Coverage or Benefit Inquiry
 
 
-- **217 Eligibility Response**: 
+- **X12 217 Eligibility Response**: 
   + Eligibility, Coverage or Benefit Information
 
 
-- **834 Benefit Enrollment and Maintenance**: 
+- **X12 834 Benefit Enrollment and Maintenance**: 
 
 
 
 ### Prior Authorization
 
-- **278 Healthcare Services Review**: 
+- **X12 278 Healthcare Services Review**: 
   + Prior authorization or certification requests.
 
 
 
 ###  Claim Submission & Validation
 
-- **837 Healthcare Claim**: 
+- **X12 837 Healthcare Claim**: 
   + Submission of medical claims to insurance payers.
 
 
-- **835 Healthcare Claim Payment**: 
+- **X12 835 Healthcare Claim Payment**: 
   + Payer's explanation of benefits (EOB) and payment details.
 
 
 
 ### Claim Status 
 
-- **276 Claims Status Request**: 
+- **X12 276 Claims Status Request**: 
   + Inquiry (EDI 276): The provider asks the payer about the status of a previously submitted claim.
 
 
-- **277 Claims Status Response**: 
+- **X12 277 Claims Status Response**: 
   + Response (EDI 277): The payer updates the provider on whether the claim is in-process, pending further documentation, or rejected.
 
 
@@ -276,26 +299,26 @@ WHO         | World Health Organization
 
 ### Payment & Remittance
 
-- **835 Remittance Advice**: 
+- **X12 835 Remittance Advice**: 
   + The payer sends the Electronic Remittance Advice (ERA) to the provider, detailing which services were paid, adjustments, and denials.
 
 
-- **820 Electronic Funds Transfer (EFT)**: 
+- **X12 820 Electronic Funds Transfer (EFT)**: 
   + The payment is transferred directly into the provider's bank account.
 
 
 
 ## Misc. 
 
-- **816 Organization Relationship**:
+- **X12 816 Organization Relationship**:
   + This document type communicates organizational relationships between headquarters, branches, and warehouses. It lets trading partners share location information including addresses and site codes. It's valuable because keeping trading partners updated about location changes (e.g., new warehouses and closed stores), helps ensure accurate routing and billing.
 
 
-- **824 Application Advice**:
+- **X12 824 Application Advice**:
   + his document type provides feedback about errors or acceptance of an EDI transaction by identifying specific issues or confirmations. It impacts the bottom line by pinpointing issues quickly and reducing processing delays.
 
 
-- **864 Text Message**:
+- **X12 864 Text Message**:
   + Not a text message in the mobile phone sense, but unstructured text rather than the pre-defined fields of other document types. It communicates freeform messages like explanations, warnings, or special instructions. Users can receive it via email or dashboard alerts within the EDI system.
 
 
@@ -303,10 +326,10 @@ WHO         | World Health Organization
 
 ## System Control
 
-- **997 Functional Acknowledgment**: Confirms that an EDI document was successfully received and checked for syntax errors.
+- **X12 997 Functional Acknowledgment**: Confirms that an EDI document was successfully received and checked for syntax errors.
 
 
-- **999 Implementation Acknowledgement**: 
+- **X12 999 Implementation Acknowledgement**: 
   + The EDI 999 Implementation Acknowledgement document is used in healthcare to provide confirmation that a file was received. It is similar to the broader X12 EDI 997 FA, however, the 999 gives additional information about potential errors in the received transaction.
   + The EDI 999 transaction set can specifically be used to describe the control structures for a set of acknowledgments to show the results of the syntactical and relational analysis of the documents encoded electronically. The encoded documents are the transaction sets, put together in functional groups that define transactions for business data interchange. 
   + The 999 Acknowledgement gives the following results:
