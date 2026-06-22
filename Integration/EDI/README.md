@@ -17,6 +17,7 @@
 
 |Term       | Definition|
 |-----------|--------------|
+5010        | In Electronic Data Interchange (EDI), 5010 (specifically ASC X12 Version 5010) is the standardized format mandated by the Health Insurance Portability and Accountability Act (HIPAA) for transmitting electronic healthcare transactions.
 ANSI        | American National Standards Institute
 ASC         | Accredited Standards Committee 
 CAHs        | Critical Access Hospitals
@@ -28,12 +29,17 @@ FFEs        | Federally Facilitated Exchanges
 FFS         | Fee-for-Service
 FHIR        | Fast Healthcare Interoperability Resources
 HL7         | Health Level 7
+ICD-10      | International Classification of Diseases, 10th Revision; the global diagnostic coding system published by the World Health Organization.
+ICD-10-CM   | Clinical Modification; Used across all healthcare settings to code patient diagnoses, illnesses, and injuries.
+ICD-10-PCS  | Procedure Coding System; Used exclusively in hospital inpatient settings to code medical procedures.
 MA          | Medicare Advantage
 MIPS        | Merit-based Incentive Payment System
 QHP         | Qualified Health Plan
 STU         | Standard for Trial Use
 UN/CEFACT   | United Nations Centre for Trade Facilitation and Electronic Business 
 USCDI       | United States Core Data for Interoperability 
+WHO         | World Health Organization
+
 
 
 ## References
@@ -61,7 +67,7 @@ USCDI       | United States Core Data for Interoperability
 
 
 
-## EDI Message Utilities 
+## EDI Message Exploration Utilities & Tools
 
 - https://edination.edifabric.com
   + https://edination.edifabric.com/edi-spec-library.html
@@ -82,6 +88,21 @@ USCDI       | United States Core Data for Interoperability
   + SFTP
   + AS2
   + HTTPS
+
+
+- ICD-10 Codes
+  + ICD-10-CM codes are alphanumeric and range from 3 to 7
+  + Structure: 
+    * **Characters 1-3**: Category of the disease or injury.
+    * **Characters 4–6**: Details regarding etiology, anatomic site, severity, or related manifestations.
+    * **Character  7**: Added for specific encounters (e.g., initial encounter, subsequent encounter, or sequela)
+  + Example:
+    * ```Code S52.521A``` represents a displaced torus fracture of the lower end of the right radius, initial encounter for a closed fracture.
+  + Code Definitons:
+    * https://www.icd10data.com/
+    * https://www.cms.gov/medicare/coding-billing/icd-10-codes
+    * https://www.cdc.gov/nchs/icd/icd-10-cm/index.html
+
 
 
 ### Compliance/Regulatory
