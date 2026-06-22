@@ -97,6 +97,9 @@ WHO-FIC     | WHO Family of International Classifications
 
 - https://www.who.int/classifications/classification-of-diseases
 
+- https://icd10cmtool.cdc.gov/
+
+
 - ICD-10 Codes
   + https://en.wikipedia.org/wiki/ICD-10
   + ICD-10-CM codes are alphanumeric and range from 3 to 7
@@ -110,13 +113,12 @@ WHO-FIC     | WHO Family of International Classifications
     * https://www.icd10data.com/
     * https://www.cms.gov/medicare/coding-billing/icd-10-codes
     * https://www.cdc.gov/nchs/icd/icd-10-cm/index.html
-    * https://icd10cmtool.cdc.gov/
 
 
-- ICD-11 Coes
-  + The ICD-11 is the eleventh revision of the International Classification of Diseases (ICD). It replaces the ICD-10 as the global standard for recording health information and causes of death. The ICD is developed and annually updated by the World Health Organization (WHO). Development of the ICD-11 started in 2007[1][2] and spanned over a decade of work, involving over 300 specialists from 55 countries divided into 30 work groups,[7][8] with an additional 10,000 proposals from people all over the world.[9] Following an alpha version in May 2011 and a beta draft in May 2012, a stable version of the ICD-11 was released on 18 June 2018,[4][9] and officially endorsed by all WHO members during the 72nd World Health Assembly on 28 May 2019.
-  + The ICD-11 is a large ontology consisting of about 85,000 entities, also called classes or nodes. An entity can be anything that is relevant to health care. It usually represents a disease or a pathogen, but it can also be an isolated symptom or (developmental) anomaly of the body. There are also classes for reasons for contact with health services, social circumstances of the patient, and external causes of injury or death. The ICD-11 is part of the WHO-FIC, a family of medical classifications.
-  + https://www.who.int/classifications/classification-of-diseases
+- ICD-11 Codes
+  + https://en.wikipedia.org/wiki/ICD-11
+    * The ICD-11 is the eleventh revision of the International Classification of Diseases (ICD). It replaces the ICD-10 as the global standard for recording health information and causes of death. The ICD is developed and annually updated by the World Health Organization (WHO). Development of the ICD-11 started in 2007[1][2] and spanned over a decade of work, involving over 300 specialists from 55 countries divided into 30 work groups,[7][8] with an additional 10,000 proposals from people all over the world.[9] Following an alpha version in May 2011 and a beta draft in May 2012, a stable version of the ICD-11 was released on 18 June 2018,[4][9] and officially endorsed by all WHO members during the 72nd World Health Assembly on 28 May 2019.
+    * The ICD-11 is a large ontology consisting of about 85,000 entities, also called classes or nodes. An entity can be anything that is relevant to health care. It usually represents a disease or a pathogen, but it can also be an isolated symptom or (developmental) anomaly of the body. There are also classes for reasons for contact with health services, social circumstances of the patient, and external causes of injury or death. The ICD-11 is part of the WHO-FIC, a family of medical classifications.
 
 
 ### Compliance/Regulatory
