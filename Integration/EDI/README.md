@@ -18,17 +18,22 @@
 |Term       | Definition|
 |-----------|--------------|
 5010        | In Electronic Data Interchange (EDI), 5010 (specifically ASC X12 Version 5010) is the standardized format mandated by the Health Insurance Portability and Accountability Act (HIPAA) for transmitting electronic healthcare transactions.
+8020        | A newer X12 version, intended to support FHIR and other technologies
 ANSI        | American National Standards Institute
 ASC         | Accredited Standards Committee 
 CAHs        | Critical Access Hospitals
 CDC         | Center for Disease Control 
+CDT         | Code on Dental Procedures and Nomenclature
 CHIP        | Children’s Health Insurance Program
 CICA        | Context Inspired Component Architecture
+CPT         | Current Procedural Terminology
+DEL         | Data Element Library 
 EDI         | Electronic data interchange 
 EDIFACT     | Electronic Data Interchange for Administration, Commerce, and Transport. A globally recognized UN standard that provides a common syntax and structure for businesses to electronically exchange documents (such as invoices, purchase orders, and shipping notices) across different computer systems, industries, and international borders.
 FFEs        | Federally Facilitated Exchanges
 FFS         | Fee-for-Service
 FHIR        | Fast Healthcare Interoperability Resources
+HCPCS       | Healthcare Common Procedure Coding System
 HL7         | Health Level 7
 ICD-10      | International Classification of Diseases, 10th Revision; the global diagnostic coding system published by the World Health Organization.
 ICD-10-CM   | Clinical Modification; Used across all healthcare settings to code patient diagnoses, illnesses, and injuries.
@@ -37,6 +42,7 @@ ICD-11      | International Classification of Diseases, 11th Revision
 MA          | Medicare Advantage
 MIPS        | Merit-based Incentive Payment System
 NCHS        | National Center for Health Statistics
+NCPDP       | National Council for Prescription Drug Programs
 QHP         | Qualified Health Plan
 STU         | Standard for Trial Use
 UN/CEFACT   | United Nations Centre for Trade Facilitation and Electronic Business 
@@ -101,7 +107,10 @@ WHO-FIC     | WHO Family of International Classifications
 
 
 - ICD-10 Codes
-  + https://en.wikipedia.org/wiki/ICD-10
+  + https://en.wikipedia.org/wiki/ICD-10    
+    * Work on ICD-10 began in 1983
+    * Endorsed by the Forty-third World Health Assembly in 1990, and came into effect in member states on January 1, 1993
+    * ICD-10 was replaced by ICD-11 on January 1, 2022
   + ICD-10-CM codes are alphanumeric and range from 3 to 7
   + Structure: 
     * **Characters 1-3**: Category of the disease or injury.
@@ -117,11 +126,12 @@ WHO-FIC     | WHO Family of International Classifications
 
 - ICD-11 Codes
   + https://en.wikipedia.org/wiki/ICD-11
-    * The ICD-11 is the eleventh revision of the International Classification of Diseases (ICD). It replaces the ICD-10 as the global standard for recording health information and causes of death. The ICD is developed and annually updated by the World Health Organization (WHO). Development of the ICD-11 started in 2007[1][2] and spanned over a decade of work, involving over 300 specialists from 55 countries divided into 30 work groups,[7][8] with an additional 10,000 proposals from people all over the world.[9] Following an alpha version in May 2011 and a beta draft in May 2012, a stable version of the ICD-11 was released on 18 June 2018,[4][9] and officially endorsed by all WHO members during the 72nd World Health Assembly on 28 May 2019.
+    * The ICD-11 is the eleventh revision of the International Classification of Diseases (ICD). It replaces the ICD-10 as the global standard for recording health information and causes of death. The ICD is developed and annually updated by the World Health Organization (WHO). Development of the ICD-11 started in 2007[1][2] and spanned over a decade of work, involving over 300 specialists from 55 countries divided into 30 work groups,[7][8] with an additional 10,000 proposals from people all over the world.[9] Following an alpha version in May 2011 and a beta draft in May 2012, a stable version of the ICD-11 was released on 18 June 2018,
     * The ICD-11 is a large ontology consisting of about 85,000 entities, also called classes or nodes. An entity can be anything that is relevant to health care. It usually represents a disease or a pathogen, but it can also be an isolated symptom or (developmental) anomaly of the body. There are also classes for reasons for contact with health services, social circumstances of the patient, and external causes of injury or death. The ICD-11 is part of the WHO-FIC, a family of medical classifications.
+    * Officially endorsed by all WHO members during the 72nd World Health Assembly on 28 May 2019.
 
 
-### Compliance/Regulatory
+### Standards, Compliance, Regulatory
 
 - Seven (7) Elements of an Effective Compliance Program
   + As proscribed by the Federal Sentencing Guidelines issued by the United States Sentencing Commission and the Health and Human Services (HHS) division of the Office of the Inspector General (OIG)
@@ -139,6 +149,11 @@ WHO-FIC     | WHO Family of International Classifications
   + Health Insurance Portability and Accountability Act of 1996 ("HIPAA").
   + Summary of the HIPAA Privacy Rule  
     * https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html
+
+
+- CMS Adopted Standards and Operating Rules:
+  + https://www.cms.gov/priorities/key-initiatives/burden-reduction/administrative-simplification/hipaa/adopted-standards-operating-rules
+    * https://www.govinfo.gov/content/pkg/FR-2009-01-16/pdf/E9-740.pdf
 
 
 - **CMS-0057-F**: Centers for Medicare & Medicaid Services Interoperability & Prior Authorization Final Rule
