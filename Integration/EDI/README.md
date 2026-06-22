@@ -16,7 +16,7 @@
 ## Glossary of Terms
 
 |Term       | Definition|
-------------+--------------
+|-----------|--------------|
 ANSI        | American National Standards Institute
 ASC         | Accredited Standards Committee 
 CAHs        | Critical Access Hospitals
