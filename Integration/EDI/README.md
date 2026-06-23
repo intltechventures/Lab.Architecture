@@ -280,6 +280,10 @@ WHO-FIC     | WHO Family of International Classifications
 
 ## Healthcare (HIPAA compliant)
 
+- X12 Transaction Flows
+  + https://x12.org/flow/health-care
+
+
 ### HIPAA EDI Error Codes
 
 - **X12 999**
