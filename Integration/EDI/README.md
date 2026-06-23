@@ -332,10 +332,10 @@ WHO-FIC     | WHO Family of International Classifications
   + Submission of medical claims to insurance payers.
 
 
-- **X12 837I Healthcare Claim, Institutional 
+- **X12 837I Healthcare Claim, Institutional**:  
 
 
-- **X12 837P Healchare Claim, Professional 
+- **X12 837P Healchare Claim, Professional**: 
 
 
 - **X12 835 Healthcare Claim Payment**: 
