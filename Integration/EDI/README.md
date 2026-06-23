@@ -66,6 +66,7 @@ WHO-FIC     | WHO Family of International Classifications
   + https://www.edibasics.com/edi-resources/document-standards/edifact/
   + https://datainterchange.com/edifacts-standards-explained/
 
+- https://en.wikipedia.org/wiki/X12_EDIFACT_Mapping
 
 
 ## EDI Message Standard: ANSI ASC x12
@@ -76,6 +77,7 @@ WHO-FIC     | WHO Family of International Classifications
   + https://en.wikipedia.org/wiki/X12_Document_List
   + https://www.edibasics.com/edi-resources/document-standards/ansi/
 
+- https://en.wikipedia.org/wiki/X12_EDIFACT_Mapping
 
 
 ## EDI Message Exploration Utilities & Tools
@@ -213,6 +215,9 @@ WHO-FIC     | WHO Family of International Classifications
   + Supplier's request for payment.
 
 
+- **X12 835 Payment/Remittance Advice**: 
+
+
 - **X12 875/876 Grocery Products**: 
   + Specialized Purchase Order and Purchase Order Change for the grocery industry
 
@@ -284,11 +289,19 @@ WHO-FIC     | WHO Family of International Classifications
   + Checking a patient's Eligibility, Coverage or Benefit Inquiry
 
 
-- **X12 217 Eligibility Response**: 
+- **X12 271 Eligibility Response**: 
   + Eligibility, Coverage or Benefit Information
 
 
 - **X12 834 Benefit Enrollment and Maintenance**: 
+
+
+### Provider/Patient Information
+
+- **X12 274 Healthcare Provider Information**: 
+
+
+- **X12 275 Patient Information**: 
 
 
 
@@ -298,11 +311,22 @@ WHO-FIC     | WHO Family of International Classifications
   + Prior authorization or certification requests.
 
 
+### Medical Event 
+
+- **X12 500 Medical Event Reporting**: 
+
+
 
 ###  Claim Submission & Validation
 
 - **X12 837 Healthcare Claim**: 
   + Submission of medical claims to insurance payers.
+
+
+- **X12 837I Healthcare Claim, Institutional 
+
+
+- **X12 837P Healchare Claim, Professional 
 
 
 - **X12 835 Healthcare Claim Payment**: 
@@ -324,12 +348,13 @@ WHO-FIC     | WHO Family of International Classifications
 
 ### Payment & Remittance
 
-- **X12 835 Remittance Advice**: 
-  + The payer sends the Electronic Remittance Advice (ERA) to the provider, detailing which services were paid, adjustments, and denials.
-
-
 - **X12 820 Electronic Funds Transfer (EFT)**: 
   + The payment is transferred directly into the provider's bank account.
+
+
+- **X12 835 Health Care Claim Payment/Advice**: 
+  + The payer sends the Electronic Remittance Advice (ERA) to the provider, detailing which services were paid, adjustments, and denials.
+
 
 
 
@@ -343,13 +368,31 @@ WHO-FIC     | WHO Family of International Classifications
   + his document type provides feedback about errors or acceptance of an EDI transaction by identifying specific issues or confirmations. It impacts the bottom line by pinpointing issues quickly and reducing processing delays.
 
 
-- **X12 864 Text Message**:
+
+
+## Communications and Control
+
+- **X12 102 Associated Data**: 
+
+
+- **X12 242 Data Status Tracing**: 
+
+
+- **X12 815 Cryptographic Service Message**: 
+
+
+- **X12 864 Text Message**: 
   + Not a text message in the mobile phone sense, but unstructured text rather than the pre-defined fields of other document types. It communicates freeform messages like explanations, warnings, or special instructions. Users can receive it via email or dashboard alerts within the EDI system.
 
 
+- **X12 868 Electronic Form Structure**: 
 
 
-## System Control
+- **X12 993 Secured Receipt or Acknowledgement**: 
+
+
+- **X12 996 File Transfer**: 
+
 
 - **X12 997 Functional Acknowledgment**: Confirms that an EDI document was successfully received and checked for syntax errors.
 
