@@ -14,8 +14,10 @@ _'''illustrative, not exhaustive'''_
   + File Sharing services 
   + ... 
 
+
 - **Dashed**
-  + Realtime (e.g., API, Web Services, database connection, ...)
+  + Realtime (e.g., APIs, Web Services, direct database connection, ...)
+
 
 - **Dotted**
   + Manual process
@@ -26,23 +28,84 @@ _'''illustrative, not exhaustive'''_
 ### Line Color (e.g., data classification)
 - In the case of a mixed use integration path, pick the color that represents the highest security classification
 
-- **Dark Green**
-  + Financial transactions
 
 - **Red**
-  + Senstive Data
+  + **Data Classifications**: ```Highly Restricted``` | ```Restricted (Highly Confidential)``` | ```Secret``` | ```Top Secret```
+  + Senstive Customer, Employee, or Corporate Data
     * Personally Identifiable Informaiton (PII)
+    * Private/Protected Personal Information (PPI)
     * HIPAA
+    * Secret
     * etc. 
 
+
 - **Blue**
-  + Other regular transaction data      
+  + **Data Classifications**: ```Confidential``` | ```Restricted``` | ```Confidential```
+  + Transaction data      
+  + Data integrations
+  + Integrations, or flows, that do not meet any of the the other Line Color selection criteria
+
+
+- **Dark Green**
+  + **Data Classifications**: ```High Risk``` | ```Restricted``` | ```Confidential``` 
+  + Financial transactions
+  + Payment Card Industry (PCI) transactions 
+
 
 - **Black**
-  + Reference Data 
+  + **Data Classifications**: ````Private``` | ```Sensitive``` | ```Internal Only```
+  + Private Company Reference Data 
+  + Non-public Reference Data 
+  + Memos, intellectual property, and email messages
+
+
+- **Gray/Grey**
+  + **Data Classifications**: ```Public``` | ```Unclassified``` | ```Open Data```
+  + Publicly available informaiton 
+  + Public Reference Data 
+
 
 
 ## References
+
+### Data Classificiation References    
+(illustrative, not exhaustive)    
+
+
+- https://www.ibm.com/think/topics/pii
+
+
+- NIST SP 1800-39 Data Classification Practices
+  + https://csrc.nist.gov/pubs/sp/1800/39/ipd
+
+
+- https://www.ignyteplatform.com/blog/nist/data-classification-nist-levels/
+
+
+- AWS Data classification models and schemes
+  + https://docs.aws.amazon.com/whitepapers/latest/data-classification/data-classification-models-and-schemes.html
+
+
+- https://www.cyera.com/blog/four-levels-of-data-classification
+
+
+- https://www.paloaltonetworks.com/cyberpedia/data-classification
+
+
+- Payment Card Industry Data Security Standard (PCI DSS) 
+  + https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
+  + https://www.pcisecuritystandards.org/standards/
+
+
+- PCI DSS Data Classification Requirements
+  + https://pcidssguide.com/pci-dss-data-classification-requirements/
+
+
+- https://www.proofpoint.com/us/threat-reference/data-classification
+
+
+- https://www.umsystem.edu/departments-staff/information-technology/data-protection-security/data-classification
+
 
 
 ### Diagramming Speifications 
