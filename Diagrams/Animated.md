@@ -18,13 +18,29 @@ I have been intriuged (and inspired) by a number of posts on LinkedIn, to want t
 
 ## Free | Open Source Solutions
 
+- React Flow 
+  + https://reactflow.dev/
+  + https://reactflow.dev/learn
+  + https://reactflow.dev/examples
+  + https://reactflow.dev/showcase
+  + Animated Examples
+    * https://reactflow.dev/examples/edges/animating-edges
+    * https://reactflow.dev/ui/components/animated-svg-edge
+  + https://reactflow.dev/api-reference
+  + https://github.com/xyflow/xyflow
+    * License: MIT
+    * 85.5% TypeScript 
+    * 11.7% Svelte
+  + There is also a Pro licensed model (monthly subscription)
+    * https://reactflow.dev/pro
+      * "_Why Subscribe? With your subscription, you are ensuring the sustainable maintenance and development of the React Flow library. This is how we make sure React Flow stays MIT-licensed. In return, you get a high-quality, maintained, updated library, along with benefits like direct support, prioritized feature requests, and access to our Pro Examples._"
+
 
 
 
 ## Commercial Solutions
 
 - JointJS
-  + @jointjs-library
   + https://www.jointjs.com
     * JavaScript diagramming library powering exceptional UIs
   + https://github.com/clientIO/joint
