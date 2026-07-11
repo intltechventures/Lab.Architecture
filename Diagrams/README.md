@@ -255,6 +255,29 @@ _'''illustrative, not exhaustive'''_
 
 - Structurizer
   + https://structurizr.com
+  + https://github.com/orgs/structurizr/repositories
+  + https://www.patreon.com/Structurizr/posts/cloud-service-of-142577083
+    * NOTE: "_Structurizr cloud service will reach its End of Life (EOL) on 30 September 2026._"
+    * "_The cloud service was launched in 2015 as a way to render and publish diagrams created with the Structurizr for Java library. Although the cloud service has seen some good usage over the past 10 years, engineering teams have consistently been reluctant to publish their software architecture diagrams to the cloud. This ultimately resulted in the creation of the self-hosted Structurizr on-premises installation and Structurizr Lite products, both of which were open sourced in early 2023. Cloud service usage has since steadily declined, and the decision to shutdown the cloud service will allow us to better focus on the self-hosted products moving forward._"
+    * Timeline: 
+      * 31st December 2025: Last date for new account sign ups.
+      * 1st April 2026: Workspaces owned by free accounts will become read-only.
+      * 1st July 2026: All workspaces will become read-only; all remaining monthly subscriptions will be stopped.
+      * 30 September 2026: Cloud service shutdown.    
+   + https://www.patreon.com/Structurizr/posts/introducing-146923136
+     * "_The first announcement is that everything is being consolidated into a single Structurizr tool and a single git repo:_"
+       * https://github.com/structurizr/structurizr
+       * https://docs.structurizr.com/
+         * https://docs.structurizr.com/binaries
+           * "_All Structurizr commands are free to use from these binaries except for server, which requires a license_"
+             * https://docs.structurizr.com/server/pricing
+     * https://github.com/structurizr/java     
+         * "_This repository was archived by the owner on Mar 28, 2026. It is now read-only._"         
+         * https://docs.structurizr.com/java 
+     * "_The current version of the Structurizr on-premises installation is a traditional Java EE web application, which requires deployment into a web server such as Apache Tomcat if you're not using the prebuilt Docker image. The new version of the tooling moves everything to Spring Boot with an embedded version of Apache Tomcat, much like the current version of Structurizr Lite. This provides a consistent approach to using Structurizr, regardless of which product you are using._"
+     * "_Using the Structurizr server via the prebuilt binaries requires a license._"
+       * https://docs.structurizr.com/server/pricing
+
 
 
 - tldraw.dev
