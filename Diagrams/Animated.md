@@ -21,6 +21,7 @@ I have been intriuged (and inspired) by a number of posts on LinkedIn, to want t
 - Anders Sundstedt
   + https://www.linkedin.com/in/sundstedt/
   + https://sundstedt.se/blog/services/
+  + https://sundstedt.se/blog/portfolio/
 
 
 
