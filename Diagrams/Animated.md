@@ -16,6 +16,15 @@ I have been intriuged (and inspired) by a number of posts on LinkedIn, to want t
   + https://www.linkedin.com/posts/aws-cloudcomputing-mendix-share-7107695713064472576-zeye/
 
 
+## Professional Animation Services
+
+- Anders Sundstedt
+  + https://www.linkedin.com/in/sundstedt/
+  + https://sundstedt.se/blog/services/
+
+
+
+
 ## Free | Open Source Solutions
 
 - React Flow 
