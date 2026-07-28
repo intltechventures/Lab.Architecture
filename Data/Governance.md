@@ -49,6 +49,7 @@ by John Ladley](https://www.amazon.com/Data-Governance-Effective-Kaufmann-Intell
 by David Plotkin](https://www.amazon.com/Data-Stewardship-Actionable-Management-Governance/dp/0124103898/)
 
 
+
 ## Additional Books (e.g. older publication dates - but may still have some relevant guidance)
 - [MASTER DATA MANAGEMENT AND DATA GOVERNANCE, 2/E 2nd Edition](https://www.amazon.com/MASTER-DATA-MANAGEMENT-GOVERNANCE/dp/0071744584/)
 
@@ -65,8 +66,20 @@ by David Plotkin](https://www.amazon.com/Data-Stewardship-Actionable-Management-
 - https://github.com/opendatadiscovery/awesome-data-catalogs
   + "This repository contains a curated list of awesome data catalogs and observability platforms that help you discover, manage, and observe data in your organization."
 
+
 - https://www.aggua.io/blog/top-10-data-lineage-tools-for-2023
+
 
 - https://dbmstools.com/categories/data-lineage-tools
 
+
+
+## Open Standards
+
+- bitol
+  + https://bitol.io/
+    * "_Open Standards for Product-Oriented Data Engineering & Management. Define, govern, and enforce data contracts and products with an open, extensible standards adopted by leading organizations worldwide._"
+  + Re: 
+    * "Bitol is now a Graduated project of The Linux Foundation / LF AI & Data Foundation."
+       * https://www.linkedin.com/posts/jgperrin_odcs-odps-activity-7487840464289775631-8wjv 
 
