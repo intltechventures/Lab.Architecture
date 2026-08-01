@@ -29,6 +29,7 @@
         * https://www.forrester.com/blogs/the-enterprise-architecture-management-suites-landscape-q4-2025-is-out/
 
 
+
 ### Vendor Solutions
 
 - Alfabet
@@ -80,7 +81,8 @@
   + https://sparxsystems.com/products/ea/
   + https://sparxsystems.com/products/ea/shop/  
   + https://sparxsystems.com/products/ea/compare-editions.html
-  + https://sparxsystems.com/enterprise_architect_user_guide/17.2/welcome/index.html
+  + https://sparxsystems.com/resources/user-guides/
+    * https://sparxsystems.com/enterprise_architect_user_guide/17.2/welcome/index.html
   + [Sparx EA Forum](https://sparxsystems.com/forums/smf/)
     * [Forum: General Board](https://sparxsystems.com/forums/smf/index.php/board,26.0.html)
     * [Forum: Latest News](https://sparxsystems.com/forums/smf/index.php/board,22.0.html)
