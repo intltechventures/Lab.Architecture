@@ -6,8 +6,9 @@
 - https://digital-strategy.ec.europa.eu/en/policies
 
 
-### Digital Services Act (DSA)
+### Article 17: Digital Services Act (DSA)
 
 - https://digital-strategy.ec.europa.eu/en/policies/digital-services-act
+  + https://www.eu-digital-services-act.com/Digital_Services_Act_Article_17.html
 
 
