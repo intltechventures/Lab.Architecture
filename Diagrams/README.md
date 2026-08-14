@@ -362,3 +362,31 @@ _'''illustrative, not exhaustive'''_
 - https://excalidraw.com
 
 
+
+### Diagram Drawing Libraries
+
+- JoinJS
+  + https://www.jointjs.com/
+    * "_JointJS is a modern JavaScript library for visualization and interaction with diagrams and graphs. It can be used to create anything from static diagrams to fully interactive diagramming tools and application builders. JointJS is opensource, completely free to use, and our way of giving back to the community._"
+      * https://github.com/clientIO/joint
+        * [Mozilla Public License Version 2.0](https://github.com/clientIO/joint?tab=MPL-2.0-1-ov-file)
+    * "_JointJS+ is the paid commercial extension to the JointJS Core Library. It builds on the JointJS foundation and widely extends its functionality by more than 40 components, implementing various UI widgets, interaction components, automatic layouts, control panels and other functionality, to build truly advanced visual applications._"
+        * https://www.jointjs.com/license    
+    * https://www.jointjs.com/about-us
+    * https://www.jointjs.com/pricing
+    * https://docs.jointjs.com/
+    * https://www.jointjs.com/blog
+    * https://www.youtube.com/@jointjs-library/
+    * Reviews:
+      * https://www.g2.com/products/jointjs/reviews
+      * https://www.capterra.com/p/213029/Rappid/reviews/
+      * https://www.softwareadvice.com/diagram/rappid-profile/reviews/
+  + https://www.client.io/
+    + "_Build Low-code tools that delight your customers._"
+    + https://www.linkedin.com/company/client-io-s-r-o-/
+      * "_client IO is the industry leader in diagramming solutions for the web era. Since 2011 our products have been enabling organizations to build web-based workflow, BPMN and flowchart diagramming products quickly and easily. client IO is the creator of JointJS and Rappid HTML 5 diagramming framework and our customers include Fortune 500 companies._"
+    + https://www.glassdoor.com/Overview/Working-at-client-IO-EI_IE5046602.11,20.htm
+      * https://www.glassdoor.com/Reviews/client-IO-Reviews-E5046602.htm
+
+
+
