@@ -31,7 +31,7 @@ The following are just _some suggested ideas_ to help stimulate discussion withi
 _'''illustrative, not exhaustive'''_      
 
 
-### Line Style (e.g., access mechanism, communications protocol, ...) Suggestions: 
+### Line Style Convention (e.g., access mechanism, communications protocol, integration style, ...) Suggestions: 
 
 + **Solid**
   + Automated File Transfer (e.g., SFTP, ...)
@@ -50,7 +50,7 @@ _'''illustrative, not exhaustive'''_
   + User uploading a file through a UI
 
 
-### Line Color (e.g., data classification) Suggestions: 
+### Line Color Convention (e.g., data classification, business criticality, ...) Suggestions: 
 - In the case of a mixed use integration path, pick the color that represents the highest security classification
 
 
