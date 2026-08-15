@@ -3,27 +3,31 @@
         
 I am frequently involved in helping clients research, select, and adopt tools for the creation and maintenance of Enterprise Architecture and Solution Architecture artifacts – which frequently involves developing diagrams of various types.    
    
-At the lowest level of sophistication, you will have teams creating and maintaining diagrams directly in something like PowerPoint, or some other simple drawing tool.    
+Such tools are often the cornerstone for establishing **GOVERNANCE** processes.    
+   
+At the lowest level of sophistication, you will often find teams creating and maintaining diagrams directly in something like PowerPoint (oh, the **HORROR**), or some other simple drawing tool.  Usually with each user independently maintaining the own diagrams on their local machines (rarely will you ever find any centralized folder structures to organize and share artifacts). There is a tragic level of inefficiency in maintaining such randomly distributed collections of artifacts – and there is no way to ensure that you have found the latest (or all) of the possible variations/instances. Reuse is impossible to achieve and maintain. 
 
-At the highest level of sophistication, you may find teams using enterprise-class tools that allow for use of shared repository, automated sync with a Configuration Management Database (CMDB, such as ServiceNow), and automated generation of diagrams based on relationship meta data that is captured in an enterprise model. Advanced solutions will usually include the ability to generate/export and perform some form of live integration of artifacts (e.g., diagrams, reports, design document, traceability maps, heat maps, capability models, etc.).     
+At the highest level of sophistication, you may find teams using enterprise-class tools that allow for the **reuse of a single shared repository**, with automated sync with a Configuration Management Database (CMDB, such as ServiceNow), automated discovery of elemnets (servers, applications, communication paths, etcc.), and automated generation/update of diagrams based on relationship meta data that is captured in an enterprise model. Advanced solutions will usually include the ability to generate/export and perform some form of live integration of artifacts (e.g., lists, diagrams, reports, design documents, roadmaps, traceability maps, heat maps, capability models, reference archtiectures, patterns, policies, standards, specifications, etc.).     
     
 The spectrum of available features/capabilities is quite wide, and continues to grow.    
 
-The Achilles Heel of all such sophisticated tools? Price, and long-term affordability.    
+The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, training, implementation), and long-term maintenance costs (effort, resources, budgets).
+    
+The unqiue dynamics (and constraints) at play within your organization will often severly limit your choices.    
+   
+This document is intended as a placeholder to collect and organize notes on possible solutions. **It is not intended to be exhaustive, only illustrative.**   
 
-This document is intended as a placeholder for me to collect and organize notes on possible solutions. It is not intended to exhaustive, only illustrative.    
-
-_Caveat Emptor_ is still sound advice. Your own *Due Diligence* is always recommended.    
+_Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always necessary. 
 
 
 
 ## Possible Diagram Notation Conventions To Consider
 
-In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This creatives wide divergence (at best), and potential chaos (at worst). It also hinders communication, precision, accuracy, and reuse.
-
-The following are just some ideas to stimulate discussion with in organization, and reflect some of my own person thoughts/preferences. 
-   
-_'''illustrative, not exhaustive'''_   
+In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This creatie wide variations & divergence (at best), and potential chaos (at worst). It also hinders effective communication, precision, accuracy, and reuse.    
+    
+The following are just _some suggested ideas_ to stimulate discussion with in organization, and reflect some of my own personal thoughts/preferences.    
+       
+_'''illustrative, not exhaustive'''_      
 
 
 ### Line Style (e.g., access mechanism, communications protocol, ...)
