@@ -13,9 +13,9 @@ The spectrum of available features/capabilities is quite wide, and continues to 
 
 The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, training, implementation), and long-term maintenance costs (effort, resources, budgets).   
     
-The unqiue dynamics (and constraints) at play within your organization will often severly limit your choices.    
+The unqiue dynamics (and constraints) at play within your organization will often severely limit your choices.    
    
-This document is intended as a placeholder to collect and organize notes on possible solutions. **It is not intended to be exhaustive, only illustrative.**   
+This document is intended as a placeholder to collect and organize notes on a broad range of possible solutions. **It is not intended to be exhaustive, only illustrative.**   
 
 _Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always necessary. 
 
