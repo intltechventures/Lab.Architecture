@@ -205,7 +205,22 @@ _```illustrative, not exhaustive```_
 
 
 ## EA Tools, with shared repository capabilities 
+
+- **Pros:**
+  + Holistic view
+  + Single repository
+  + Accuracy
+  + Abundance of features
+  + Sophisticated capabilities    
+   
     
+- **Cons:**
+  + Costs
+  + Complexity
+  + Maintenance effort
+  + Constraints/limitations of their product roadmap    
+   
+   
 _```illustrative, not exhaustive```_
     
 
