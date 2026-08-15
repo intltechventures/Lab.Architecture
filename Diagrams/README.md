@@ -154,23 +154,26 @@ _```illustrative, not exhaustive```_
 ### Formal Diagram Notation Specifications 
    
 _```illustrative, not exhaustive```_
-   
-   
+     
 
 - ArchiMate
+  + https://en.wikipedia.org/wiki/ArchiMate
   + https://publications.opengroup.org/standards/archimate
+  + https://publications.opengroup.org/archimate-library
     * [ArchiMate® 3.2 Specification](https://pubs.opengroup.org/architecture/archimate32-doc/index.html)
    
    
-- C4 model 
+- C4 model (Context, Container, Component, Code)
+  + https://en.wikipedia.org/wiki/C4_model
   + https://c4model.com/ 
     * https://c4model.com/diagrams
     * https://c4model.com/tooling
    
    
-- UML 
+- Unified Modeling Langauge (UML)
+  + https://en.wikipedia.org/wiki/Unified_Modeling_Language
   + https://www.omg.org/spec/UML
-
+  + [v2.5.1](https://www.omg.org/spec/UML/2.5.1/PDF)
 
 
 ### Icon Collections
@@ -221,6 +224,8 @@ _```illustrative, not exhaustive```_
 
 ## EA Tools, with shared repository capabilities 
 
+_```illustrative, not exhaustive```_
+
 - **Pros:**
   + Holistic view
   + Single repository
@@ -236,21 +241,57 @@ _```illustrative, not exhaustive```_
   + Constraints/limitations of their product roadmap    
    
    
-_```illustrative, not exhaustive```_
-    
+### EA Tools, Industry Analyst Reports
 
-### EA Tools - Suggested
+- Gartner Magic Quadrant (MQ) for Enterprise Architecture Tools
+  + https://www.gartner.com/en/documents/7015598
+    * 2026 Report (courtesy copy download from Ardoq)
+      * https://content.ardoq.com/gartner-magic-quadrant-for-enterprise-architecture-tools
+
+
+- The Forrester Wave™: Enterprise Architecture Management Suites
+  + https://www.forrester.com/blogs/category/enterprise-architecture/
+  + https://www.forrester.com/research/wave/
+    * 2025-Q4 Report
+      * https://www.forrester.com/report/the-enterprise-architecture-management-suites-landscape-q4-2025/RES190110
+        * https://www.forrester.com/blogs/the-enterprise-architecture-management-suites-landscape-q4-2025-is-out/
+   
+      
+
+### EA Modeling Tools - Suggested
 
 
 - Bizzdesign 
   + https://bizzdesign.com/
+  + https://bizzdesign.com/transformation-suite/unify
+  
 
 
 - Sparx Enterprise Architect (EA)
   + https://sparxsystems.com/
   + https://sparxsystems.com/products/ea/
   + https://sparxsystems.com/products/ea/compare-editions.html
-  + https://sparxsystems.com/products/ea/shop/
+  + https://sparxsystems.com/products/ea/shop/   
+      
+  + [Sparx EA Forum](https://sparxsystems.com/forums/smf/)
+    * [Forum: General Board](https://sparxsystems.com/forums/smf/index.php/board,26.0.html)
+    * [Forum: Latest News](https://sparxsystems.com/forums/smf/index.php/board,22.0.html)
+    * [Forum: Suggestions and Requests](https://sparxsystems.com/forums/smf/index.php/board,27.0.html)
+    * [Forum: Bugs and Issues](https://sparxsystems.com/forums/smf/index.php/board,25.0.html)
+    * [Forum: Automation Interface, Add-Ins and Tools](https://sparxsystems.com/forums/smf/index.php/board,23.0.html)
+  + Resources: 
+    * https://sparxsystems.com/resources/gallery/
+  + MDG Extensions
+    * https://sparxsystems.com/products/mdg/
+  + Third-Party Extensions:
+    * https://sparxsystems.com/products/3rdparty.html
+      * https://sparxsystems.com/products/3rdparty.html#eaUtils
+  + Icon Sets:
+    * https://sparxsystems.com/enterprise-architect/cloud-architecture/icon-set.html
+  + Free Downloads: 
+    * https://sparxsystems.com/products/ea/downloads.html
+      * See Image Library (2017-07-27)   
+     
   + **Rationale**
     * Easier to get started 
     * Consider this your "training wheels" phase
@@ -260,16 +301,19 @@ _```illustrative, not exhaustive```_
     * Ease of Use
     * Number of features included 
     * Offers floating license option
+    * Professional Edition includes [icons for major cloud providers (AWS, Google, Azure)](https://sparxsystems.com/resources/webinar/sparxservices/cloud-architecture/)
   + **Cons:**
     * Rudimentary integration capabilities
+    * The optional downloads available in the Image Library have not been updated since 2017. 
     
-
 
 
 ### EA Tools - Suggsted Alternatives
      
-- Alfabet
-  + 2025: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+- ~~Alfabet~~
+  + 2025-01-09: Bizzdesign Adds Alfabet Business Following Successful Closing of MEGA International Acquisition, Creating a New Force in the EA and Strategic Portfolio Management Markets
+    * https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international
+
 
 
 - Ardoq
@@ -282,18 +326,38 @@ _```illustrative, not exhaustive```_
   + https://www.glassdoor.com/Overview/Working-at-Ardoq-EI_IE2378970.11,16.htm
 
     
-- LeanIX
-  + https://www.leanix.net/en/
-  + https://en.wikipedia.org/wiki/LeanIX
-
-    
-- Mega Hopex
-  + 2024: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+- Avolution Abacus
+  + https://www.avolutionsoftware.com/abacus/
+  + https://www.avolutionsoftware.com/abacus/frameworks/
+  + https://www.avolutionsoftware.com/feature-comparison-enterprise-architecture-tool/
+  + https://www.avolutionsoftware.com/our-resources/integrated-enterprise-architecture-diagrams/  
+  + Also see:
+    * https://www.avolutionsoftware.com/resources/
+    * https://www.avolutionsoftware.com/abacus/dynamic-data-visualizations/
+    * https://www.avolutionsoftware.com/solutions/application-rationalization/
+    * https://www.avolutionsoftware.com/abacus/enterprise-architecture-modeling-roadmapping/    
    
     
+- ~~Mega Hopex~~
+  + 2024: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+  + 2024-09-05: https://main.nl/press-release/bizzdesign-acquires-mega/
+    * "_Main Capital Partners-backed Bizzdesign acquired MEGA International and its flagship HOPEX platform. This deal combined two major enterprise architecture (EA) and digital transformation software leaders, continuing under the Bizzdesign brand. Shortly after, Bizzdesign also integrated Alfabet to form a unified product suite._" 
     
-- SAP LeanIX 
-  + https://www.leanix.net/   
+
+- OrbusSoftware > OrbusInfinity
+  + https://www.orbussoftware.com/
+  + https://www.orbussoftware.com/capability/central-repository
+  + https://www.orbussoftware.com/capability/frameworks-and-standards
+  + https://www.orbussoftware.com/capability/enterprise-architecture-diagramming
+  + https://www.orbussoftware.com/capability/integrations
+  + https://www.orbussoftware.com/capability/dashboards-reporting
+  + https://www.orbussoftware.com/capability/it-landscape-visualization
+    
+   
+- SAP LeanIX
+  + https://www.leanix.net/en/
+  + https://en.wikipedia.org/wiki/LeanIX
+  + 2023-09-07: [LeanIX acquired by SAP](https://www.linkedin.com/feed/update/urn:li:activity:7105442685317959680/)
    
    
 - ServiceNow EA
@@ -303,6 +367,11 @@ _```illustrative, not exhaustive```_
     * https://www.servicenow.com/products/application-portfolio-management.html
     
     
+- ~~Software AG > ARIS ((Architecture of Integrated Information Systems)~~
+  + https://www.softwareag.com/en/
+  + 2025-01-08: Software AG retrenches to its core ARIS process management and A&N mainframe tools
+    * https://diginomica.com/software-ag-retrenches-aris-adabas-natural
+  +     
 
 ## Simplistic Diagramming Tools 
 
@@ -326,11 +395,15 @@ _```illustrative, not exhaustive```_
 - Excalidraw
   + https://excalidraw.com
 
+
 - LucidChart
   + https://lucidchart.com
 
+
 - Microsoft 365 Visio 
   + https://www.microsoft.com/en-us/microsoft-365/visio
+    * https://www.microsoft.com/en-us/microsoft-365/visio/visio-plans-and-pricing
+
 
 - Miro 
   + https://miro.com
@@ -340,7 +413,8 @@ _```illustrative, not exhaustive```_
    
 _```illustrative, not exhaustive```_
     
-- archimatetool.com 
+    
+- Archi 
   + https://www.archimatetool.com
 
 
@@ -352,17 +426,31 @@ _```illustrative, not exhaustive```_
   + https://d2lang.com
 
 
-- Diagrams.net
+- Diagrams.net (previously known as draw.io)
+  + https://en.wikipedia.org/wiki/Diagrams.net
   + https://www.diagrams.net
-
+    * https://app.diagrams.net/
+  + https://www.drawio.com/
+  + https://github.com/jgraph/drawio
+    * License: Apache 2.0 
+    * 98.5 JavaScript 
+  
 
 - eventcatalog.dev
   + https://www.eventcatalog.dev
 
 
+- Excalidraw
+  + https://excalidraw.com/
+    * "_Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them._"
+    
+
 - icepanel.io
   + https://icepanel.io
-
+    * "_Collaborative diagramming and modelling tool for software architecture_"
+  + https://icepanel.io/the-icepanel-loop
+  + https://docs.icepanel.io/getting-started
+  
 
 - ilograph.com
   + https://ilograph.com
@@ -407,6 +495,17 @@ _```illustrative, not exhaustive```_
   + https://tldraw.dev
 
 
+
+## EA-enabled Drawing Tools 
+
+- Eraser.io 
+  + https://eraser.io/
+  + https://www.eraser.io/solutions/enterprise-architects
+  + https://www.eraser.io/product/ai-diagrams
+  + https://www.eraser.io/product/diagramming-api
+  + https://www.eraser.io/product/integrations
+  
+  
 
 ## Diagrams-as-Code Tools
 
