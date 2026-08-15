@@ -218,17 +218,21 @@ _```illustrative, not exhaustive```_
 ### EA Tools - Suggsted Alternatives
      
 - Alfabet
-  + https://www.alfabet.com/
-
+  + 2025: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+    
+    
 - Bizzdesign 
   + https://bizzdesign.com/
-
+   
+    
 - Mega Hopex
-  + https://www.mega.com/
-
+  + 2024: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+   
+    
 - SAP LeanIX 
-  + https://www.leanix.net/
-
+  + https://www.leanix.net/   
+   
+   
 - ServiceNow EA
   + https://www.servicenow.com/products/enterprise-architecture.html
   + https://www.servicenow.com/products/strategic-portfolio-management
