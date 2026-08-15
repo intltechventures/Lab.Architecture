@@ -226,19 +226,51 @@ _```illustrative, not exhaustive```_
 
 ### EA Tools - Suggested
 
+
+- Bizzdesign 
+  + https://bizzdesign.com/
+
+
 - Sparx Enterprise Architect (EA)
   + https://sparxsystems.com/
+  + https://sparxsystems.com/products/ea/
+  + https://sparxsystems.com/products/ea/compare-editions.html
+  + https://sparxsystems.com/products/ea/shop/
+  + **Rationale**
+    * Easier to get started 
+    * Consider this your "training wheels" phase
+    * Many EA tool initiatives fail after a few years (neglect, failure to sustain their budgets/staffing, ...)
+  + **Pros:**
+    * Low cost 
+    * Ease of Use
+    * Number of features included 
+    * Offers floating license option
+  + **Cons:**
+    * Rudimentary integration capabilities
+    
+
 
 
 ### EA Tools - Suggsted Alternatives
      
 - Alfabet
   + 2025: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
+
+
+- Ardoq
+  + READ THIS FIRST:
+    * https://help.ardoq.com/en/articles/43993-ardoq-compared-to-drawing-modeling-and-data-visualization-tools
+  + https://ardoq.com/
+  + https://github.com/ardoq
+  + https://twitter.com/ardoqCom
+  + https://github.com/ardoq
+  + https://www.glassdoor.com/Overview/Working-at-Ardoq-EI_IE2378970.11,16.htm
+
     
-    
-- Bizzdesign 
-  + https://bizzdesign.com/
-   
+- LeanIX
+  + https://www.leanix.net/en/
+  + https://en.wikipedia.org/wiki/LeanIX
+
     
 - Mega Hopex
   + 2024: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
