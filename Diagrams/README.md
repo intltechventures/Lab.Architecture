@@ -198,7 +198,9 @@ _```illustrative, not exhaustive```_
 
 ### Suggested Books   
     
-- [Communication Patterns: A Guide for Developers and Architects, 1st Edition](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/), (2023)
+- [Communication Patterns: A Guide for Developers and Architects, 1st Edition](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/), (2023)   
+   
+- [The C4 Model: Visualizing Software Architecture](https://www.amazon.com/dp/B0GC5YKYFD), (2026)   
 
 
 
