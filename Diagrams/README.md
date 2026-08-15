@@ -5,13 +5,13 @@ I am frequently involved in helping clients research, select, and adopt tools fo
    
 Such tools are often the cornerstone for establishing **GOVERNANCE** processes.    
    
-At the lowest level of sophistication, you will often find teams creating and maintaining diagrams directly in something like PowerPoint (oh, the **HORROR**), or some other simple drawing tool.  Usually with each user independently maintaining the own diagrams on their local machines (rarely will you ever find any centralized folder structures to organize and share artifacts). There is a tragic level of inefficiency in maintaining such randomly distributed collections of artifacts – and there is no way to ensure that you have found the latest (or all) of the possible variations/instances. Reuse is impossible to achieve and maintain. 
+At the lowest level of sophistication, you will often find teams creating and maintaining diagrams directly in something like PowerPoint (oh, the **HORROR**), or some other simple drawing tool.  Usually with each user independently maintaining ther own diagrams on their local machines (rarely will you ever find any centralized folder structures, _that are well-maintained_, to organize and share artifacts). There is a **tragic level of inefficiency** in maintaining such randomly distributed collections of artifacts – and there is no way to ensure that you have found the latest (or all) of the possible variations/instances. Reuse is impossible to achieve and maintain.    
+   
+At the highest level of sophistication, you may find teams using enterprise-class tools that allow for the **reuse of a single shared repository**, with automated sync with a Configuration Management Database (CMDB, such as ServiceNow), automated discovery of elemnets (servers, applications, communication paths, etcc.), and automated generation/update of diagrams based on relationship meta data that is captured in an enterprise model. Advanced solutions will usually include the ability to generate/export and perform some form of live integration of artifacts (e.g., lists, diagrams, reports, design documents, roadmaps, traceability maps, heat maps, capability models, reference archtiectures, patterns, policies, standards, specifications, etc.).        
+       
+The spectrum of available features/capabilities is quite wide, and continues to grow.       
 
-At the highest level of sophistication, you may find teams using enterprise-class tools that allow for the **reuse of a single shared repository**, with automated sync with a Configuration Management Database (CMDB, such as ServiceNow), automated discovery of elemnets (servers, applications, communication paths, etcc.), and automated generation/update of diagrams based on relationship meta data that is captured in an enterprise model. Advanced solutions will usually include the ability to generate/export and perform some form of live integration of artifacts (e.g., lists, diagrams, reports, design documents, roadmaps, traceability maps, heat maps, capability models, reference archtiectures, patterns, policies, standards, specifications, etc.).     
-    
-The spectrum of available features/capabilities is quite wide, and continues to grow.    
-
-The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, training, implementation), and long-term maintenance costs (effort, resources, budgets).
+The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, training, implementation), and long-term maintenance costs (effort, resources, budgets).   
     
 The unqiue dynamics (and constraints) at play within your organization will often severly limit your choices.    
    
