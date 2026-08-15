@@ -15,15 +15,16 @@ The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, t
     
 The unqiue dynamics (and constraints) at play within your organization will often severely limit your choices.    
    
-This document is intended as a placeholder to collect and organize notes on a broad range of possible solutions. **It is not intended to be exhaustive, only illustrative.**   
-
-_Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always necessary. 
+This document is intended as a placeholder to collect and organize notes on a broad range of possible solutions. 
+**It is not intended to be exhaustive, only illustrative.**      
+   
+_Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always necessary.    
 
 
 
 ## Possible Diagram Notation Conventions To Consider
 
-In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This creatie wide variations & divergence (at best), and potential chaos (at worst). It also hinders effective communication, precision, accuracy, and reuse.    
+In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This tends to create an environment for a wide range of variations (at best), and potential chaos (at worst). It also hinders effective communication, precision, accuracy, and reuse.    
     
 The following are just _some suggested ideas_ to stimulate discussion with in organization, and reflect some of my own personal thoughts/preferences.    
        
