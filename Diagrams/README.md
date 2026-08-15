@@ -89,6 +89,21 @@ _'''illustrative, not exhaustive'''_
   + Publicly available informaiton 
   + Public Reference Data 
 
+### Line Thickness Convention (e.g., max data size, peak transaction volume, ...) Suggestions: 
+
+The Width Factor is intended to represent a ```relative value```, depending the capabilities supported by your selected tool.
+
+- Width Factor: 1
+  + Low volume | size 
+
+- Width Factor: 2
+  + Med volume | size
+
+- Width Factor: 3
+  + High volume | size
+  
+
+
 
 
 ## References
@@ -276,6 +291,7 @@ _```illustrative, not exhaustive```_
   + 2024: [Acquired by Bizzdesign](https://bizzdesign.com/press-releases/bizzdesign-adds-alfabet-business-following-successful-closing-mega-international)
    
     
+    
 - SAP LeanIX 
   + https://www.leanix.net/   
    
@@ -283,7 +299,10 @@ _```illustrative, not exhaustive```_
 - ServiceNow EA
   + https://www.servicenow.com/products/enterprise-architecture.html
   + https://www.servicenow.com/products/strategic-portfolio-management
-
+  + Also see:
+    * https://www.servicenow.com/products/application-portfolio-management.html
+    
+    
 
 ## Simplistic Diagramming Tools 
 
