@@ -15,7 +15,7 @@ The Achilles Heel of all such sophisticated tools? Initial costs (acquisition, t
     
 The unqiue dynamics (and constraints) at play within your organization will often severely limit your choices.    
    
-This document is intended as a placeholder to collect and organize notes on a broad range of possible solutions. 
+This document is intended as a placeholder to collect and organize notes on a broad range of possible solutions.     
 **It is not intended to be exhaustive, only illustrative.**      
    
 _Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always necessary.    
