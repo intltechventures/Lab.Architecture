@@ -1,7 +1,27 @@
 
-# Architecture Drawing Resources
+# Architecture Diagram Resources
+        
+I am frequently involved in helping clients research, select, and adopt tools for the creation and maintenance of Enterprise Architecture and Solution Architecture artifacts – which frequently involves developing diagrams of various types.    
+   
+At the lowest level of sophistication, you will have teams creating and maintaining diagrams directly in something like PowerPoint, or some other simple drawing tool.    
 
-## Notation Conventions
+At the highest level of sophistication, you may find teams using enterprise-class tools that allow for use of shared repository, automated sync with a Configuration Management Database (CMDB, such as ServiceNow), and automated generation of diagrams based on relationship meta data that is captured in an enterprise model. Advanced solutions will usually include the ability to generate/export and perform some form of live integration of artifacts (e.g., diagrams, reports, design document, traceability maps, heat maps, capability models, etc.).     
+    
+The spectrum of available features/capabilities is quite wide, and continues to grow.    
+
+The Achilles Heel of all such sophisticated tools? Price, and long-term affordability.    
+
+This document is intended as a placeholder for me to collect and organize notes on possible solutions. It is not intended to exhaustive, only illustrative.    
+
+_Caveat Emptor_ is still sound advice. Your own *Due Diligence* is always recommended.    
+
+
+
+## Possible Diagram Notation Conventions To Consider
+
+In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This creatives wide divergence (at best), and potential chaos (at worst). It also hinders communication, precision, accuracy, and reuse.
+
+The following are just some ideas to stimulate discussion with in organization, and reflect some of my own person thoughts/preferences. 
    
 _'''illustrative, not exhaustive'''_   
 
@@ -69,7 +89,10 @@ _'''illustrative, not exhaustive'''_
 ## References
 
 ### Data Classificiation References    
-(illustrative, not exhaustive)    
+
+When developing standard conventions for enterprise-wide visual diagram modeling, there should be clear identification of the *data classification* for each data source/target, and integration flow. This can be especially important when there may be imminent threats that require immediate mitigation, or remediation. 
+   
+_```illustrative, not exhaustive```_
 
 
 - https://www.ibm.com/think/topics/pii
@@ -109,23 +132,32 @@ _'''illustrative, not exhaustive'''_
 
 
 ### Diagramming Speifications 
+   
+_```illustrative, not exhaustive```_
+   
+   
+
 - ArchiMate
   + https://publications.opengroup.org/standards/archimate
     * [ArchiMate® 3.2 Specification](https://pubs.opengroup.org/architecture/archimate32-doc/index.html)
-
-
+   
+   
 - C4 model 
   + https://c4model.com/ 
     * https://c4model.com/diagrams
     * https://c4model.com/tooling
-
-
+   
+   
 - UML 
   + https://www.omg.org/spec/UML
 
 
 
 ### Icon Collections
+   
+_```illustrative, not exhaustive```_   
+   
+   
 
 - Misc. Icons
   + https://fontawesome.com/versions
@@ -153,13 +185,22 @@ _'''illustrative, not exhaustive'''_
 
 
 ## Suggested Background Reading
+   
 
-### Suggested Books
- 
+_```illustrative, not exhaustive```_
+
+    
+
+### Suggested Books   
+    
 - [Communication Patterns: A Guide for Developers and Architects, 1st Edition](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/), (2023)
 
 
+
 ## EA Tools, with shared repository capabilities 
+    
+_```illustrative, not exhaustive```_
+    
 
 ### EA Tools - Suggested
 
@@ -168,7 +209,7 @@ _'''illustrative, not exhaustive'''_
 
 
 ### EA Tools - Suggsted Alternatives
-
+     
 - Alfabet
   + https://www.alfabet.com/
 
@@ -200,7 +241,10 @@ _'''illustrative, not exhaustive'''_
   + Usually does not support an enterprise-wide shared repository 
 
 
-### Achitecture Diagramming Tools - Primary Suggestions
+### Simple Achitecture Diagramming Tools - Primary Suggestions
+   
+_```illustrative, not exhaustive```_
+
 
 - Excalidraw
   + https://excalidraw.com
@@ -215,8 +259,10 @@ _'''illustrative, not exhaustive'''_
   + https://miro.com
 
 
-### Architecture Diagramming Tools - Alternative Suggestions
-
+### Simple Architecture Diagramming Tools - Alternative Suggestions
+   
+_```illustrative, not exhaustive```_
+    
 - archimatetool.com 
   + https://www.archimatetool.com
 
@@ -302,7 +348,9 @@ _'''illustrative, not exhaustive'''_
 
 
 ### Diagrams-as-Code Tools - Primary Suggestions
-
+    
+_```illustrative, not exhaustive```_
+   
 - PlantUML
   + https://plantuml.com
   + https://github.com/awslabs/aws-icons-for-plantuml
@@ -314,7 +362,9 @@ _'''illustrative, not exhaustive'''_
 
 
 ### Diagrams-as-Code Tools - Secondary Suggestions
-
+   
+_```illustrative, not exhaustive```_
+   
 - https://eraser.io
 
 - https://diagrams.mingrammer.com
@@ -330,7 +380,10 @@ _'''illustrative, not exhaustive'''_
 - https://www.pluralith.com
 
 
-### Visual Diagramming Tools
+## Visual Diagramming Tools
+   
+_```illustrative, not exhaustive```_
+   
 
 - https://lucidscale.com/product/aws
 
@@ -349,7 +402,10 @@ _'''illustrative, not exhaustive'''_
 - https://app.cloudviz.io
 
 
-### AI-Augmented Diagramming
+## AI-Augmented Diagramming
+   
+_```illustrative, not exhaustive```_
+      
 
 - ChatGPT Canvas 
 
@@ -363,7 +419,10 @@ _'''illustrative, not exhaustive'''_
 
 
 
-### Diagram Drawing Libraries
+## Diagram Drawing Libraries
+    
+_```illustrative, not exhaustive```_
+    
 
 - JoinJS
   + https://www.jointjs.com/
