@@ -24,7 +24,7 @@ _Caveat Emptor_ is still sound advice. Your own **Due Diligence** is always nece
 
 ## Possible Diagram Notation Conventions To Consider
 
-In almost every organization, I have found either no formal standard/guidiance on diagram notation conventions, or lax adoption of any. This tends to create an environment for a wide range of variations (at best), and potential chaos (at worst). It also hinders effective communication, precision, accuracy, and reuse.    
+In almost every organization, I have found either no formal standard/guidance on diagram notation conventions, or lax adoption of any. This tends to create an environment for a wide range of variations (at best), and potential chaos (at worst). It also hinders effective communication, precision, accuracy, and reuse.    
     
 The following are just _some suggested ideas_ to help stimulate discussion within an organization, and reflects some of my own personal thoughts/preferences.    
        
