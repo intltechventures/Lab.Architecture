@@ -454,19 +454,53 @@ _```illustrative, not exhaustive```_
 
 - ilograph.com
   + https://ilograph.com
+  + https://www.ilograph.com/pricing.html
+  + https://www.ilograph.com/docs/index.html
+    * https://www.ilograph.com/docs/spec/
+  + https://www.ilograph.com/features.html
+    * See: "_Collaboration and sharing options vary depending on environment_"
+      * https://www.ilograph.com/team.html
+        * "_With a team workspace, your team's diagrams are centralized and always available in the cloud._"
+        * Note: The appears to be a simple storage approach (i.e., still separate diagrams), not semantically linked / stored in a holistic repository. 
+      * https://www.ilograph.com/desktop/index.html
+      * https://marketplace.atlassian.com/apps/1229877/ilograph-interactive-diagrams-for-confluence
 
 
 - likec4.dev
   + https://likec4.dev
+    * "_Architecture as Code - Describe your system architecture with code._"
+  + https://likec4.dev/#features
+  + https://likec4.dev/tutorial/
+  + https://github.com/likec4/likec4/discussions
+  + https://github.com/likec4/likec4
+    * License: MIT 
+    * 97.5% TypeScript     
+    
 
-
-- Omnigraffle
+- Omni Group > OmniGraffle
+  + https://www.omnigroup.com/
   + https://www.omnigroup.com/omnigraffle
+  + https://www.omnigroup.com/omnigraffle/specs/
+  + https://www.omnigroup.com/omnigraffle/features/
+  + https://www.omnigroup.com/omnigraffle/buy
+    * Mac, iPad, iPhone 
 
 
 - Structurizer
   + https://structurizr.com
+    * See: [Introducing Structurizr vNext](https://www.patreon.com/Structurizr/posts/introducing-146923136)
+  + https://docs.structurizr.com/
+    * https://docs.structurizr.com/quickstart    
+    * https://docs.structurizr.com/features
+    * https://docs.structurizr.com/getting-started
+    * https://docs.structurizr.com/commands
+    * https://docs.structurizr.com/dsl
+    * https://docs.structurizr.com/ai
   + https://github.com/orgs/structurizr/repositories
+    * https://github.com/structurizr/structurizr
+      * License: Apache 2.0 
+      * 59.7% Java 
+      * 37.6% JavaScript       
   + https://www.patreon.com/Structurizr/posts/cloud-service-of-142577083
     * NOTE: "_Structurizr cloud service will reach its End of Life (EOL) on 30 September 2026._"
     * "_The cloud service was launched in 2015 as a way to render and publish diagrams created with the Structurizr for Java library. Although the cloud service has seen some good usage over the past 10 years, engineering teams have consistently been reluctant to publish their software architecture diagrams to the cloud. This ultimately resulted in the creation of the self-hosted Structurizr on-premises installation and Structurizr Lite products, both of which were open sourced in early 2023. Cloud service usage has since steadily declined, and the decision to shutdown the cloud service will allow us to better focus on the self-hosted products moving forward._"
@@ -496,7 +530,7 @@ _```illustrative, not exhaustive```_
 
 
 
-## EA-enabled Drawing Tools 
+## AI-enabled Drawing Tools 
 
 - Eraser.io 
   + https://eraser.io/
@@ -528,8 +562,26 @@ _```illustrative, not exhaustive```_
 _```illustrative, not exhaustive```_
    
 - PlantUML
+  + https://en.wikipedia.org/wiki/PlantUML
   + https://plantuml.com
+  + https://plantuml.com/sitemap
+  + https://plantuml.com/news
+  + https://plantuml.com/starting
+  + https://plantuml.com/stdlib
+  + https://plantuml.com/download
+  + https://forum.plantuml.net/
+  + https://plantuml.com/guide (PDF)
+  + https://crashedmind.github.io/PlantUMLHitchhikersGuide/
   + https://github.com/awslabs/aws-icons-for-plantuml
+  + https://github.com/plantuml
+    * https://github.com/orgs/plantuml/repositories?type=all
+    * https://github.com/plantuml/plantuml-stdlib
+    * https://github.com/plantuml/clide
+    * https://github.com/plantuml/plantuml-for-confluence
+    * https://github.com/plantuml/plantuml
+    * https://github.com/plantuml/plantuml-mcp
+      * License: LGPL-3.0 (COPYING.LESSER), GPL-3.0 (LICENSE), GPL-3.0 (COPYING) 
+      * 99.2% Java 
 
 
 - Mermaid.js 
@@ -541,7 +593,6 @@ _```illustrative, not exhaustive```_
    
 _```illustrative, not exhaustive```_
    
-- https://eraser.io
 
 - https://diagrams.mingrammer.com
 
@@ -576,22 +627,6 @@ _```illustrative, not exhaustive```_
 - https://www.cloudockit.com
 
 - https://app.cloudviz.io
-
-
-## AI-Augmented Diagramming
-   
-_```illustrative, not exhaustive```_
-      
-
-- ChatGPT Canvas 
-
-- Claude Artifacts
-
-- Google AI Studio
-
-- https://app.eraser.io
-
-- https://excalidraw.com
 
 
 
