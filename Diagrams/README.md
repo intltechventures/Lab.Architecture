@@ -92,20 +92,22 @@ _'''illustrative, not exhaustive'''_
   + Publicly available informaiton 
   + Public Reference Data 
 
-### Line Thickness Convention (e.g., max data size, peak transaction volume, ...) Suggestions: 
+### Line Width Convention (e.g., max data size, peak transaction volume, ...) Suggestions: 
 
-The Width Factor is intended to represent a ```relative value```, depending the capabilities supported by your selected tool.
+The Width Factor is intended to represent a ```relative value``` of volume | size, depending on the capabilities supported by your selected tool.   
+   
+Suggested: Consider defining the volume and size in the context of the peak period of processing (peak hour or daily)   
+    
 
 - Width Factor: 1
-  + Low volume | size 
+  + Low volume | small size 
 
 - Width Factor: 2
-  + Med volume | size
+  + Medium volume | medium size
 
 - Width Factor: 3
-  + High volume | size
+  + High volume | large size
   
-
 
 
 
@@ -325,7 +327,7 @@ _```illustrative, not exhaustive```_
     
 
 
-### EA Modeling Tools - Suggsted Alternatives
+### EA Modeling Tools - Suggested Alternatives
      
 - ~~Alfabet~~
   + 2025-01-09: Bizzdesign Adds Alfabet Business Following Successful Closing of MEGA International Acquisition, Creating a New Force in the EA and Strategic Portfolio Management Markets
