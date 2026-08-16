@@ -311,7 +311,7 @@ _```illustrative, not exhaustive```_
      
   + **Rationale**
     * Easier to get started 
-    * Consider this your "training wheels" phase
+    * Consider this your your team's "training wheels" phase (establish your standards, conventions, processes, content organization, ...)
     * Many EA tool initiatives fail after a few years (neglect, failure to sustain their budgets/staffing, ...)
   + **Pros:**
     * Low cost 
