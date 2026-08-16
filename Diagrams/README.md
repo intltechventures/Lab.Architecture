@@ -220,11 +220,25 @@ _```illustrative, not exhaustive```_
 ### Suggested Books   
     
 - [Communication Patterns: A Guide for Developers and Architects, 1st Edition](https://www.amazon.com/Communication-Patterns-Guide-Developers-Architects/dp/1098140540/), (2023)   
-   
+  + by Jacqui Read 
+    + https://www.linkedin.com/in/jacquelineread/
+    + https://jacquiread.com/    
+      
+    
+     
 - [The C4 Model: Visualizing Software Architecture](https://www.amazon.com/dp/B0GC5YKYFD), (2026)   
-
-
-
+  + by Simon Brown
+    + https://www.linkedin.com/in/simonbrownjersey/
+    + https://simonbrown.je/    
+    
+    
+         
+- [Mastering ArchiMate Edition 3.2: A serious introduction to the ArchiMate(R) enterprise architecture modeling language ](https://www.amazon.com/dp/9083143430) (2024)
+  + by Gerben Wierda 
+    * https://www.linkedin.com/in/gerbenwierda/
+    * https://ea.rna.nl/    
+    
+    
 ## EA Tools, with shared repository capabilities 
 
 _```illustrative, not exhaustive```_
@@ -311,7 +325,7 @@ _```illustrative, not exhaustive```_
     
 
 
-### EA Tools - Suggsted Alternatives
+### EA Modeling Tools - Suggsted Alternatives
      
 - ~~Alfabet~~
   + 2025-01-09: Bizzdesign Adds Alfabet Business Following Successful Closing of MEGA International Acquisition, Creating a New Force in the EA and Strategic Portfolio Management Markets
@@ -376,7 +390,7 @@ _```illustrative, not exhaustive```_
     * https://diginomica.com/software-ag-retrenches-aris-adabas-natural
   +     
 
-## Simplistic Diagramming Tools 
+## Other Diagramming Tools 
 
 - **Pros**
   + Typically lower costs than formal EA tools licensing arrnagements
@@ -390,7 +404,7 @@ _```illustrative, not exhaustive```_
   + Usually does not support an enterprise-wide shared repository 
 
 
-### Simple Achitecture Diagramming Tools - Primary Suggestions
+### Other Achitecture Diagramming Tools - Primary Suggestions
    
 _```illustrative, not exhaustive```_
 
@@ -398,7 +412,7 @@ _```illustrative, not exhaustive```_
   + https://miro.com
 
 
-### Simple Architecture Diagramming Tools - Alternative Suggestions
+### Other Architecture Diagramming Tools - Alternative Suggestions
    
 _```illustrative, not exhaustive```_
     
@@ -408,7 +422,7 @@ _```illustrative, not exhaustive```_
 
 
 
-- c4 modeling
+- C4 modeling
   + https://c4model.com
   + https://c4model.com/tooling
 
@@ -538,8 +552,22 @@ _```illustrative, not exhaustive```_
   + https://tldraw.dev
 
 
+### Lists of Diagramming Tools 
 
-## AI-enabled Drawing Tools 
+- Wikipedia, Category:Free diagramming software
+  + https://en.wikipedia.org/wiki/Category:Free_diagramming_software
+
+
+- Wikipedia, List of UML Tools 
+  + https://en.wikipedia.org/wiki/List_of_Unified_Modeling_Language_tools
+
+- Wikipedia, Category:Diagramming software
+  + https://en.wikipedia.org/wiki/Category:Diagramming_software
+
+
+
+
+## AI-enabled Diagramming Tools 
 
 - Eraser.io 
   + https://eraser.io/
@@ -610,9 +638,20 @@ _```illustrative, not exhaustive```_
       * 99.2% Java 
 
 
-- Mermaid.js 
-  + https://mermaid.js.org
-    * See: Confluence plugin
+- Mermaid.js   
+  + https://en.wikipedia.org/wiki/Mermaid_(software)
+  + https://mermaid.ai/
+  + https://mermaid.ai/open-source/
+    * https://mermaid.ai/open-source/intro/
+    * https://mermaid.ai/open-source/ecosystem/tutorials.html
+    * https://mermaid.ai/open-source/intro/syntax-reference.html
+    * https://mermaid.ai/open-source/ecosystem/integrations-community.html
+  + https://github.com/mermaid-js/mermaid
+    * License: MIT 
+    * 52.5% TypeScript     
+    * 22.3% JavaScript 
+    * 17.6% Mermaid 
+    * 2.1% Yaac 
 
 
 ### Diagrams-as-Code Tools - Secondary Suggestions
@@ -730,7 +769,7 @@ _```illustrative, not exhaustive```_
 
  
 
-## Diagram Drawing Libraries
+## Diagram Drawing Libraries (i.e., for the development of sophisticated diagramming / modeling tools)
     
 _```illustrative, not exhaustive```_
     
