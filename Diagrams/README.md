@@ -68,7 +68,7 @@ _'''illustrative, not exhaustive'''_
 
 
 - **Blue**
-  + **Data Classifications**: ```Confidential``` | ```Restricted``` | ```Confidential```
+  + **Data Classifications**: ```Confidential``` | ```Restricted``` 
   + Transaction data      
   + Data integrations
   + Integrations, or flows, that do not meet any of the the other Line Color selection criteria
@@ -381,7 +381,6 @@ _```illustrative, not exhaustive```_
    
 - ServiceNow EA
   + https://www.servicenow.com/products/enterprise-architecture.html
-  + https://www.servicenow.com/products/strategic-portfolio-management
   + Also see:
     * https://www.servicenow.com/products/application-portfolio-management.html
     
