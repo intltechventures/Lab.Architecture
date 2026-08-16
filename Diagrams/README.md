@@ -1,6 +1,9 @@
 
 # Architecture Diagram Resources
-        
+           
+**Status**: ```2026-08-15 I am reworking some of the organization of the content, adding new entries, and doing some judicious pruning.```    
+             
+                 
 I am frequently involved in helping clients research, select, and adopt tools for the creation and maintenance of Enterprise Architecture and Solution Architecture artifacts – which frequently involves developing diagrams of various types.    
    
 Such tools are often the cornerstone for establishing **GOVERNANCE** processes.    
@@ -391,20 +394,6 @@ _```illustrative, not exhaustive```_
    
 _```illustrative, not exhaustive```_
 
-
-- Excalidraw
-  + https://excalidraw.com
-
-
-- LucidChart
-  + https://lucidchart.com
-
-
-- Microsoft 365 Visio 
-  + https://www.microsoft.com/en-us/microsoft-365/visio
-    * https://www.microsoft.com/en-us/microsoft-365/visio/visio-plans-and-pricing
-
-
 - Miro 
   + https://miro.com
 
@@ -418,8 +407,20 @@ _```illustrative, not exhaustive```_
   + https://www.archimatetool.com
 
 
-- c4model.com
+
+- c4 modeling
   + https://c4model.com
+  + https://c4model.com/tooling
+
+
+
+- Creately 
+  + https://creately.com
+  + https://creately.com/tour/
+  + https://creately.com/enterprise/
+  + https://www.gliffy.com/products/confluence/zero-egress
+  + https://creately.com/lp/onprem-services/
+
 
 
 - d2lang.com
@@ -443,6 +444,14 @@ _```illustrative, not exhaustive```_
 - Excalidraw
   + https://excalidraw.com/
     * "_Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them._"
+
+
+- Gliffy 
+  +  https://www.gliffy.com
+  + https://help.gliffy.com/
+    + https://help.gliffy.com/online/Content/GliffyOnline/home-gliffy-online.htm
+  + https://www.gliffy.com/pricing
+  + https://www.gliffy.com/products/confluence
     
 
 - icepanel.io
@@ -539,6 +548,15 @@ _```illustrative, not exhaustive```_
   + https://www.eraser.io/product/diagramming-api
   + https://www.eraser.io/product/integrations
   
+
+- LucidChart
+  + https://lucidchart.com
+  + https://lucid.co/create/aws-architecture-diagram-software
+
+
+- Microsoft 365 Visio 
+  + https://www.microsoft.com/en-us/microsoft-365/visio
+    * https://www.microsoft.com/en-us/microsoft-365/visio/visio-plans-and-pricing
   
 
 ## Diagrams-as-Code Tools
@@ -560,6 +578,14 @@ _```illustrative, not exhaustive```_
 ### Diagrams-as-Code Tools - Primary Suggestions
     
 _```illustrative, not exhaustive```_
+
+- GraphViz 
+  + https://graphviz.org/
+  + https://graphviz.org/documentation/
+  + https://graphviz.org/resources/
+  + https://gitlab.com/graphviz/graphviz
+    * License: Eclipse Public License - v 2.0    
+   
    
 - PlantUML
   + https://en.wikipedia.org/wiki/PlantUML
@@ -593,42 +619,116 @@ _```illustrative, not exhaustive```_
    
 _```illustrative, not exhaustive```_
    
-
-- https://diagrams.mingrammer.com
-
-- https://github.com/pistazie/cdk-dia
-
-- https://github.com/mhlabs/cfn-diagram
-
-- https://github.com/cycloidio/inframap
-
-- https://grucloud.com
-
-- https://www.pluralith.com
+- TBD ...
+ 
+      
 
 
-## Visual Diagramming Tools
-   
+## Automated Discovery / Generation of Diagrams 
+
 _```illustrative, not exhaustive```_
-   
-
-- https://lucidscale.com/product/aws
-
-- https://creately.com
-
-- https://www.gliffy.com
-
-- https://cacoo.com/features
-
-- https://www.cloudcraft.co
-
-- https://docs.fugue.co/visualization.html
-
-- https://www.cloudockit.com
-
-- https://app.cloudviz.io
 
 
+- Cacoo 
+  + https://cacoo.com/
+  + https://cacoo.com/features
+    * See: "_Use the AWS importer or code-to-graph to instantly turn infrastructure and code into clear, editable diagrams._"
+  + https://nulab.com/pricing/cacoo/
+
+
+
+- Cdk-dia
+  + https://github.com/pistazie/cdk-dia
+    * "_Cdk-dia diagrams your CDK provisioned infrastructure using the Graphviz dot language._"
+    * License: MiT 
+    * 96.1% JavaScript
+
+
+
+- cloudcraft (by Datadog) 
+  + https://www.cloudcraft.co
+    * "_Automatically create AWS and Azure architecture diagrams in seconds_"
+  + https://www.cloudcraft.co/solutions
+    * "_Automatically produce real-time diagrams of your AWS and Azure architectures with Live Scanning. Through Live Scans_"
+  + https://docs.datadoghq.com/cloudcraft/
+  + https://docs.datadoghq.com/cloudcraft/api/
+  + https://www.cloudcraft.co/security
+  + https://www.cloudcraft.co/pricing 
+
+
+- Cloudkit (by Lansweeper) 
+  + https://www.cloudockit.com
+    * "_Automatically generate architecture diagrams and technical documentation of your cloud environments_"
+  + https://www.cloudockit.com/automated-editable-diagrams/
+  + Integrations: 
+    * https://www.cloudockit.com/cloud-aws/
+    * https://www.cloudockit.com/cloud-azure/
+    * https://www.cloudockit.com/cloud-gcp/
+    * https://www.cloudockit.com/on-premise/
+
+
+
+- Cloudviz.io 
+  + "_Automatically generate live AWS architecture diagrams, access complete infrastructure history, and track changes — effortlessly_" 
+  + https://docs.cloudviz.io/
+  + https://cloudviz.io/developers
+  + https://cloudviz.io/pricing
+ 
+ 
+ 
+- ~~Fugue.co~~
+  + 2022-02-17: [Snyk acquired Fugue](https://snyk.io/blog/snyk-welcomes-fugue-developer-first-cloud-security/)  
+  + Founded: 2013 in Frederick, Maryland.
+  + Core Focus: Cloud security posture management (CSPM) and policy-as-code automation for AWS, Azure, and Google Cloud.
+  + Acquisition: Bought by developer security platform Snyk in February 2022 to expand its infrastructure-as-code security offerings.
+  + https://snyk.io/
+  + https://github.com/fugue
+    * https://github.com/orgs/fugue/repositories
+      * As of 2026-08-15: No updates to repositories since Sept 3, 2024
+
+
+- GruCloud 
+  + https://grucloud.com
+    * "_GruCloud is a low/no-code infrastructure as a code tool. It can generate code from live infrastructure, and deploy resources to the cloud from code. Benefit from infrastructure as code without the hassle of manually authoring the infrastructure description._"
+    * **Visualize the resources:**
+      * "_The ```gc list --graph``` command displays a graph of the live infrastructure showing the dependencies between resources._"
+      * "_he ```gc tree``` command displays a mindmap resources types._"
+  + https://github.com/grucloud
+  + https://github.com/grucloud/grucloud
+    * Providers: 
+      * https://github.com/grucloud/grucloud/blob/main/packages/providers/aws/README.md
+      * https://github.com/grucloud/grucloud/blob/main/packages/providers/google/README.md
+      * https://github.com/grucloud/grucloud/blob/main/packages/providers/azure/README.md
+      * https://github.com/grucloud/grucloud/blob/main/packages/providers/k8s/README.md
+    * License: GPL-3.0 
+    * 99.8% JavaScript 
+    * 2026-08-15: It appears this repository has not been updated since ~2024 
+    
+  
+
+- inframap 
+  + https://github.com/cycloidio/inframap
+    * "_Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant._"
+    * "_We support all cloud providers, but we have some (listed below) that we have specific logic that allows us to better represent information that comes from these providers._"
+    * License: MIT 
+    * 97.2% Go 
+
+
+
+- pluralith 
+  + https://www.pluralith.com
+    * "_Visualise Terraform Infrastructure, Directly from your Codebase._"
+    * "_A tool for Terraform state visualisation and automated generation of infrastructure documentation_"
+    * See Pricing: 
+      * "_Flat-rate packages with flexible usage-based overflow pricing._"
+      * "_How many terraform plan runs per month do you have?_"
+      * "_Local Development, Free Forever_"
+  + https://docs.pluralith.com/
+  + https://github.com/Pluralith/pluralith-cli
+    * License: MPL-2.0 
+    * 98.5% Go 
+
+ 
 
 ## Diagram Drawing Libraries
     
