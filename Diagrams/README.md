@@ -770,8 +770,10 @@ _```illustrative, not exhaustive```_
 
  
 
-## Diagram Drawing Libraries (i.e., for the development of sophisticated diagramming / modeling tools)
-    
+## Diagram Drawing Libraries    
+     
+(i.e., for the development of sophisticated diagramming / modeling tools)   
+        
 _```illustrative, not exhaustive```_
     
 
