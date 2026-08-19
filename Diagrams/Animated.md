@@ -6,6 +6,8 @@ This is a collection of links to resources, references, and tutorials on creatin
 
 I have been intriuged (and inspired) by a number of posts on LinkedIn, to want to learn how to create such animated illustrations. 
 
+   
+    
 ## Motivation 
 
 - Today (2026-07-11 Sat), [this post](https://www.linkedin.com/posts/sohansethi_here-are-the-7-python-libraries-every-data-share-7481712303986397184-VORF/) in particular, motivated me to begin organizing these notes. 
@@ -14,6 +16,12 @@ I have been intriuged (and inspired) by a number of posts on LinkedIn, to want t
 
 - Other interesting examples posted on LinkedIN:
   + https://www.linkedin.com/posts/aws-cloudcomputing-mendix-share-7107695713064472576-zeye/
+
+  + "_Enterprise AI needs more than a powerful model. [...]_"
+    * https://www.linkedin.com/posts/matthew-coombs-a56714127_enterprise-ai-needs-more-than-a-powerful-share-7495824724292354048-jwCe/
+    * Author: https://www.linkedin.com/in/matthew-coombs-a56714127/
+    * Note: _nice animaed architecture graphic_
+
 
 
 ## Professional Animation Services
