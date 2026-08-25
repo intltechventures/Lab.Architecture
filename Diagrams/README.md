@@ -399,7 +399,7 @@ _```illustrative, not exhaustive```_
 
 - **Cons**
   + Frequently the per-user subscription pricing becomes untenable, at scale 
-  + Frequently does not support the complete specification of some formal diagramming notations (e.g., UML, Arhimate, etc.) 
+  + Frequently does not support the complete specification of some formal diagramming notations (e.g., UML, Archimate, etc.) 
   + Typically do not support defining reusable shared element/component definitions
   + Typically has very poor reuse across diagrams 
   + Usually does not support an enterprise-wide shared repository 
